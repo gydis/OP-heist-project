@@ -1,0 +1,1524 @@
+"12bf -- Household income and expenditure by area, annually, 2000-2020",,,,,,,,
+,,,,,,,,
+Sector,Area,Transaction,"2015 At current prices, millions of euro","2016 At current prices, millions of euro","2017 At current prices, millions of euro","2018 At current prices, millions of euro","2019 At current prices, millions of euro","2020 At current prices, millions of euro"
+S14 Households,SA1 Helsinki-Uusimaa,"B2N Operating surplus, net",2659,2776,2815,2962,3099,3025
+S14 Households,SA1 Helsinki-Uusimaa,"B3N Mixed income, net",2194,2221,2193,2334,2418,2416
+S14 Households,SA1 Helsinki-Uusimaa,"D11R Wages and salaries received, income",31315,31930,32972,34581,35853,35812
+S14 Households,SA1 Helsinki-Uusimaa,"D12R Employer's social security contributions, income",7240,7461,7053,7110,7194,6766
+S14 Households,SA1 Helsinki-Uusimaa,"D4OMR  Property income, (incl. holding gains and losses), income",4613,4413,4665,5246,4844,5249
+S14 Households,SA1 Helsinki-Uusimaa,"D4K Property income, expenditure",271,189,160,182,186,153
+S14 Households,SA1 Helsinki-Uusimaa,B5N Net national income,47749,48611,49539,52051,53222,53114
+S14 Households,SA1 Helsinki-Uusimaa,"D62R Social benefits other than social transfers in kind, income",12201,12494,12682,12965,13322,14117
+S14 Households,SA1 Helsinki-Uusimaa,"D7R Other current transfers, income",542,532,608,556,602,577
+S14 Households,SA1 Helsinki-Uusimaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",11008,11219,11509,11620,11970,12233
+S14 Households,SA1 Helsinki-Uusimaa,D61K Employer's social security contributions,10465,10861,10682,10963,11266,10848
+S14 Households,SA1 Helsinki-Uusimaa,"D7K Other current transfers, expenditure",1094,1040,1085,1073,1111,1098
+S14 Households,SA1 Helsinki-Uusimaa,"B6N Disposable income, net",37927,38517,39553,41915,42799,43629
+S14 Households,SA2 Southern Finland,"B2N Operating surplus, net",1928,1987,1978,1998,1957,2132
+S14 Households,SA2 Southern Finland,"B3N Mixed income, net",1573,1624,1639,1685,1686,1685
+S14 Households,SA2 Southern Finland,"D11R Wages and salaries received, income",16069,16197,16436,17120,17703,17567
+S14 Households,SA2 Southern Finland,"D12R Employer's social security contributions, income",3717,3786,3527,3524,3566,3334
+S14 Households,SA2 Southern Finland,"D4OMR  Property income, (incl. holding gains and losses), income",2256,2188,2632,2499,2690,2293
+S14 Households,SA2 Southern Finland,"D4K Property income, expenditure",190,139,116,130,132,105
+S14 Households,SA2 Southern Finland,B5N Net national income,25352,25644,26096,26697,27469,26906
+S14 Households,SA2 Southern Finland,"D62R Social benefits other than social transfers in kind, income",9537,9638,9708,9771,9964,10411
+S14 Households,SA2 Southern Finland,"D7R Other current transfers, income",478,486,550,499,536,508
+S14 Households,SA2 Southern Finland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",5752,5835,5835,5877,6045,6063
+S14 Households,SA2 Southern Finland,D61K Employer's social security contributions,5441,5575,5418,5511,5648,5402
+S14 Households,SA2 Southern Finland,"D7K Other current transfers, expenditure",886,831,870,861,889,867
+S14 Households,SA2 Southern Finland,"B6N Disposable income, net",23289,23526,24231,24717,25389,25492
+S14 Households,SA3 Western Finland,"B2N Operating surplus, net",2294,2360,2357,2357,2277,2398
+S14 Households,SA3 Western Finland,"B3N Mixed income, net",2074,2128,2235,2129,2270,2273
+S14 Households,SA3 Western Finland,"D11R Wages and salaries received, income",18857,19114,19485,20370,21057,20992
+S14 Households,SA3 Western Finland,"D12R Employer's social security contributions, income",4368,4475,4187,4197,4245,3988
+S14 Households,SA3 Western Finland,"D4OMR  Property income, (incl. holding gains and losses), income",2603,2510,2788,2884,2593,2810
+S14 Households,SA3 Western Finland,"D4K Property income, expenditure",239,178,149,168,171,134
+S14 Households,SA3 Western Finland,B5N Net national income,29957,30409,30902,31770,32272,32327
+S14 Households,SA3 Western Finland,"D62R Social benefits other than social transfers in kind, income",10625,10749,10805,10852,11100,11612
+S14 Households,SA3 Western Finland,"D7R Other current transfers, income",572,585,669,609,662,626
+S14 Households,SA3 Western Finland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",6596,6735,6711,6821,6971,7121
+S14 Households,SA3 Western Finland,D61K Employer's social security contributions,6379,6574,6418,6549,6706,6443
+S14 Households,SA3 Western Finland,"D7K Other current transfers, expenditure",1141,1091,1129,1107,1146,1127
+S14 Households,SA3 Western Finland,"B6N Disposable income, net",27038,27342,28119,28754,29211,29873
+S14 Households,SA4 Northern and Eastern Finland,"B2N Operating surplus, net",2102,2141,2126,2136,2086,2240
+S14 Households,SA4 Northern and Eastern Finland,"B3N Mixed income, net",1989,2078,2212,2261,2246,2205
+S14 Households,SA4 Northern and Eastern Finland,"D11R Wages and salaries received, income",16230,16450,16750,17498,18081,18014
+S14 Households,SA4 Northern and Eastern Finland,"D12R Employer's social security contributions, income",3759,3849,3598,3604,3644,3421
+S14 Households,SA4 Northern and Eastern Finland,"D4OMR  Property income, (incl. holding gains and losses), income",2342,2106,2542,2465,2675,2283
+S14 Households,SA4 Northern and Eastern Finland,"D4K Property income, expenditure",220,162,137,153,154,121
+S14 Households,SA4 Northern and Eastern Finland,B5N Net national income,26201,26463,27092,27812,28578,28043
+S14 Households,SA4 Northern and Eastern Finland,"D62R Social benefits other than social transfers in kind, income",10296,10376,10408,10419,10605,11089
+S14 Households,SA4 Northern and Eastern Finland,"D7R Other current transfers, income",535,555,629,573,620,589
+S14 Households,SA4 Northern and Eastern Finland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",5830,5884,5868,5951,6093,6195
+S14 Households,SA4 Northern and Eastern Finland,D61K Employer's social security contributions,5512,5685,5542,5649,5772,5543
+S14 Households,SA4 Northern and Eastern Finland,"D7K Other current transfers, expenditure",1018,965,1002,984,1016,999
+S14 Households,SA4 Northern and Eastern Finland,"B6N Disposable income, net",24672,24860,25716,26219,26922,26983
+S14 Households,MK01 Uusimaa,"B2N Operating surplus, net",2659,2776,2815,2962,3099,3025
+S14 Households,MK01 Uusimaa,"B3N Mixed income, net",2194,2221,2193,2334,2418,2416
+S14 Households,MK01 Uusimaa,"D11R Wages and salaries received, income",31315,31930,32972,34581,35853,35812
+S14 Households,MK01 Uusimaa,"D12R Employer's social security contributions, income",7240,7461,7053,7110,7194,6766
+S14 Households,MK01 Uusimaa,"D4OMR  Property income, (incl. holding gains and losses), income",4613,4413,4665,5246,4844,5249
+S14 Households,MK01 Uusimaa,"D4K Property income, expenditure",271,189,160,182,186,153
+S14 Households,MK01 Uusimaa,B5N Net national income,47749,48611,49539,52051,53222,53114
+S14 Households,MK01 Uusimaa,"D62R Social benefits other than social transfers in kind, income",12201,12494,12682,12965,13322,14117
+S14 Households,MK01 Uusimaa,"D7R Other current transfers, income",542,532,608,556,602,577
+S14 Households,MK01 Uusimaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",11008,11219,11509,11620,11970,12233
+S14 Households,MK01 Uusimaa,D61K Employer's social security contributions,10465,10861,10682,10963,11266,10848
+S14 Households,MK01 Uusimaa,"D7K Other current transfers, expenditure",1094,1040,1085,1073,1111,1098
+S14 Households,MK01 Uusimaa,"B6N Disposable income, net",37927,38517,39553,41915,42799,43629
+S14 Households,MK02 Southwest Finland,"B2N Operating surplus, net",765,793,790,803,795,805
+S14 Households,MK02 Southwest Finland,"B3N Mixed income, net",669,689,695,755,748,759
+S14 Households,MK02 Southwest Finland,"D11R Wages and salaries received, income",6771,6871,7019,7372,7693,7663
+S14 Households,MK02 Southwest Finland,"D12R Employer's social security contributions, income",1569,1609,1510,1521,1553,1457
+S14 Households,MK02 Southwest Finland,"D4OMR  Property income, (incl. holding gains and losses), income",1083,1076,1178,1184,1188,1130
+S14 Households,MK02 Southwest Finland,"D4K Property income, expenditure",84,61,52,58,59,48
+S14 Households,MK02 Southwest Finland,B5N Net national income,10775,10977,11141,11576,11917,11766
+S14 Households,MK02 Southwest Finland,"D62R Social benefits other than social transfers in kind, income",3746,3792,3823,3852,3945,4139
+S14 Households,MK02 Southwest Finland,"D7R Other current transfers, income",193,195,224,203,219,205
+S14 Households,MK02 Southwest Finland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",2414,2467,2461,2511,2557,2581
+S14 Households,MK02 Southwest Finland,D61K Employer's social security contributions,2290,2357,2308,2366,2451,2352
+S14 Households,MK02 Southwest Finland,"D7K Other current transfers, expenditure",350,330,347,348,360,349
+S14 Households,MK02 Southwest Finland,"B6N Disposable income, net",9659,9810,10072,10406,10713,10828
+S14 Households,MK04 Satakunta,"B2N Operating surplus, net",394,405,406,392,361,425
+S14 Households,MK04 Satakunta,"B3N Mixed income, net",328,330,368,311,354,348
+S14 Households,MK04 Satakunta,"D11R Wages and salaries received, income",3013,3033,3084,3194,3255,3209
+S14 Households,MK04 Satakunta,"D12R Employer's social security contributions, income",694,707,660,655,654,607
+S14 Households,MK04 Satakunta,"D4OMR  Property income, (incl. holding gains and losses), income",394,394,438,440,398,390
+S14 Households,MK04 Satakunta,"D4K Property income, expenditure",39,29,24,27,27,21
+S14 Households,MK04 Satakunta,B5N Net national income,4784,4840,4932,4965,4994,4958
+S14 Households,MK04 Satakunta,"D62R Social benefits other than social transfers in kind, income",1847,1863,1860,1857,1896,1974
+S14 Households,MK04 Satakunta,"D7R Other current transfers, income",101,105,119,109,118,114
+S14 Households,MK04 Satakunta,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1054,1084,1069,1062,1093,1105
+S14 Households,MK04 Satakunta,D61K Employer's social security contributions,1016,1039,1012,1023,1037,985
+S14 Households,MK04 Satakunta,"D7K Other current transfers, expenditure",198,188,194,189,195,193
+S14 Households,MK04 Satakunta,"B6N Disposable income, net",4464,4498,4636,4656,4684,4763
+S14 Households,MK05 Kanta-Häme,"B2N Operating surplus, net",315,325,325,327,320,348
+S14 Households,MK05 Kanta-Häme,"B3N Mixed income, net",234,248,250,249,255,247
+S14 Households,MK05 Kanta-Häme,"D11R Wages and salaries received, income",2517,2531,2550,2625,2695,2677
+S14 Households,MK05 Kanta-Häme,"D12R Employer's social security contributions, income",580,590,546,539,541,507
+S14 Households,MK05 Kanta-Häme,"D4OMR  Property income, (incl. holding gains and losses), income",310,295,380,324,413,293
+S14 Households,MK05 Kanta-Häme,"D4K Property income, expenditure",32,23,19,21,21,17
+S14 Households,MK05 Kanta-Häme,B5N Net national income,3924,3965,4031,4043,4203,4055
+S14 Households,MK05 Kanta-Häme,"D62R Social benefits other than social transfers in kind, income",1387,1402,1418,1434,1464,1527
+S14 Households,MK05 Kanta-Häme,"D7R Other current transfers, income",75,75,86,78,83,78
+S14 Households,MK05 Kanta-Häme,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",865,877,883,876,919,904
+S14 Households,MK05 Kanta-Häme,D61K Employer's social security contributions,848,868,838,842,857,820
+S14 Households,MK05 Kanta-Häme,"D7K Other current transfers, expenditure",138,130,135,133,137,134
+S14 Households,MK05 Kanta-Häme,"B6N Disposable income, net",3535,3567,3679,3703,3836,3801
+S14 Households,MK06 Pirkanmaa,"B2N Operating surplus, net",817,841,839,847,828,843
+S14 Households,MK06 Pirkanmaa,"B3N Mixed income, net",698,735,741,717,721,732
+S14 Households,MK06 Pirkanmaa,"D11R Wages and salaries received, income",7404,7542,7700,8124,8462,8481
+S14 Households,MK06 Pirkanmaa,"D12R Employer's social security contributions, income",1716,1766,1655,1674,1706,1612
+S14 Households,MK06 Pirkanmaa,"D4OMR  Property income, (incl. holding gains and losses), income",992,927,1045,1123,998,1101
+S14 Households,MK06 Pirkanmaa,"D4K Property income, expenditure",82,61,51,58,58,47
+S14 Households,MK06 Pirkanmaa,B5N Net national income,11546,11750,11929,12428,12656,12723
+S14 Households,MK06 Pirkanmaa,"D62R Social benefits other than social transfers in kind, income",3901,3961,3993,4035,4141,4350
+S14 Households,MK06 Pirkanmaa,"D7R Other current transfers, income",198,199,228,208,223,210
+S14 Households,MK06 Pirkanmaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",2582,2635,2640,2716,2769,2848
+S14 Households,MK06 Pirkanmaa,D61K Employer's social security contributions,2500,2588,2531,2607,2688,2597
+S14 Households,MK06 Pirkanmaa,"D7K Other current transfers, expenditure",399,383,395,390,405,397
+S14 Households,MK06 Pirkanmaa,"B6N Disposable income, net",10164,10303,10583,10958,11159,11441
+S14 Households,MK07 Päijät-Häme,"B2N Operating surplus, net",339,349,347,350,342,363
+S14 Households,MK07 Päijät-Häme,"B3N Mixed income, net",295,304,310,320,308,303
+S14 Households,MK07 Päijät-Häme,"D11R Wages and salaries received, income",2748,2783,2820,2917,3002,2954
+S14 Households,MK07 Päijät-Häme,"D12R Employer's social security contributions, income",637,653,607,602,606,562
+S14 Households,MK07 Päijät-Häme,"D4OMR  Property income, (incl. holding gains and losses), income",385,363,460,407,493,428
+S14 Households,MK07 Päijät-Häme,"D4K Property income, expenditure",32,24,20,22,22,17
+S14 Households,MK07 Päijät-Häme,B5N Net national income,4371,4428,4524,4575,4728,4593
+S14 Households,MK07 Päijät-Häme,"D62R Social benefits other than social transfers in kind, income",1727,1746,1767,1786,1823,1907
+S14 Households,MK07 Päijät-Häme,"D7R Other current transfers, income",82,84,94,85,92,87
+S14 Households,MK07 Päijät-Häme,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",993,1003,1011,1014,1060,1052
+S14 Households,MK07 Päijät-Häme,D61K Employer's social security contributions,932,961,932,941,962,912
+S14 Households,MK07 Päijät-Häme,"D7K Other current transfers, expenditure",155,146,152,149,154,150
+S14 Households,MK07 Päijät-Häme,"B6N Disposable income, net",4100,4147,4290,4341,4467,4473
+S14 Households,MK08 Kymenlaakso,"B2N Operating surplus, net",303,309,308,301,282,332
+S14 Households,MK08 Kymenlaakso,"B3N Mixed income, net",198,203,204,180,191,199
+S14 Households,MK08 Kymenlaakso,"D11R Wages and salaries received, income",2281,2270,2289,2381,2449,2425
+S14 Households,MK08 Kymenlaakso,"D12R Employer's social security contributions, income",523,527,487,486,489,457
+S14 Households,MK08 Kymenlaakso,"D4OMR  Property income, (incl. holding gains and losses), income",265,256,336,339,338,250
+S14 Households,MK08 Kymenlaakso,"D4K Property income, expenditure",23,17,14,16,16,12
+S14 Households,MK08 Kymenlaakso,B5N Net national income,3546,3547,3610,3672,3733,3650
+S14 Households,MK08 Kymenlaakso,"D62R Social benefits other than social transfers in kind, income",1550,1560,1561,1556,1572,1628
+S14 Households,MK08 Kymenlaakso,"D7R Other current transfers, income",73,75,83,75,81,78
+S14 Households,MK08 Kymenlaakso,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",841,849,848,847,869,877
+S14 Households,MK08 Kymenlaakso,D61K Employer's social security contributions,773,783,757,769,780,745
+S14 Households,MK08 Kymenlaakso,"D7K Other current transfers, expenditure",138,129,134,131,134,132
+S14 Households,MK08 Kymenlaakso,"B6N Disposable income, net",3417,3421,3515,3557,3602,3602
+S14 Households,MK09 South Karelia,"B2N Operating surplus, net",206,210,208,217,219,284
+S14 Households,MK09 South Karelia,"B3N Mixed income, net",177,181,180,182,183,177
+S14 Households,MK09 South Karelia,"D11R Wages and salaries received, income",1752,1742,1757,1825,1865,1848
+S14 Households,MK09 South Karelia,"D12R Employer's social security contributions, income",406,408,377,376,376,351
+S14 Households,MK09 South Karelia,"D4OMR  Property income, (incl. holding gains and losses), income",214,199,278,244,258,191
+S14 Households,MK09 South Karelia,"D4K Property income, expenditure",19,14,12,13,13,10
+S14 Households,MK09 South Karelia,B5N Net national income,2737,2727,2790,2831,2889,2842
+S14 Households,MK09 South Karelia,"D62R Social benefits other than social transfers in kind, income",1127,1138,1139,1143,1160,1210
+S14 Households,MK09 South Karelia,"D7R Other current transfers, income",54,57,64,58,62,61
+S14 Households,MK09 South Karelia,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",639,638,631,629,639,649
+S14 Households,MK09 South Karelia,D61K Employer's social security contributions,598,605,584,594,598,572
+S14 Households,MK09 South Karelia,"D7K Other current transfers, expenditure",104,97,101,100,103,103
+S14 Households,MK09 South Karelia,"B6N Disposable income, net",2578,2581,2675,2710,2770,2788
+S14 Households,MK10 South Savo,"B2N Operating surplus, net",255,258,256,252,238,261
+S14 Households,MK10 South Savo,"B3N Mixed income, net",279,297,305,311,309,271
+S14 Households,MK10 South Savo,"D11R Wages and salaries received, income",1644,1643,1650,1700,1723,1687
+S14 Households,MK10 South Savo,"D12R Employer's social security contributions, income",381,385,355,351,348,321
+S14 Households,MK10 South Savo,"D4OMR  Property income, (incl. holding gains and losses), income",262,242,302,277,299,229
+S14 Households,MK10 South Savo,"D4K Property income, expenditure",23,17,15,16,16,13
+S14 Households,MK10 South Savo,B5N Net national income,2799,2808,2854,2875,2899,2756
+S14 Households,MK10 South Savo,"D62R Social benefits other than social transfers in kind, income",1224,1232,1236,1241,1256,1303
+S14 Households,MK10 South Savo,"D7R Other current transfers, income",60,63,71,64,69,66
+S14 Households,MK10 South Savo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",627,636,632,628,638,645
+S14 Households,MK10 South Savo,D61K Employer's social security contributions,563,572,551,553,555,525
+S14 Households,MK10 South Savo,"D7K Other current transfers, expenditure",113,106,110,107,110,108
+S14 Households,MK10 South Savo,"B6N Disposable income, net",2779,2788,2868,2892,2921,2848
+S14 Households,MK11 North Savo,"B2N Operating surplus, net",410,420,418,418,414,431
+S14 Households,MK11 North Savo,"B3N Mixed income, net",413,434,452,474,480,463
+S14 Households,MK11 North Savo,"D11R Wages and salaries received, income",3210,3258,3316,3470,3585,3573
+S14 Households,MK11 North Savo,"D12R Employer's social security contributions, income",745,764,713,716,724,680
+S14 Households,MK11 North Savo,"D4OMR  Property income, (incl. holding gains and losses), income",411,426,487,488,507,414
+S14 Households,MK11 North Savo,"D4K Property income, expenditure",47,34,29,32,32,25
+S14 Households,MK11 North Savo,B5N Net national income,5142,5267,5358,5534,5677,5535
+S14 Households,MK11 North Savo,"D62R Social benefits other than social transfers in kind, income",2047,2064,2067,2083,2125,2217
+S14 Households,MK11 North Savo,"D7R Other current transfers, income",103,108,124,112,122,116
+S14 Households,MK11 North Savo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1146,1178,1159,1187,1210,1228
+S14 Households,MK11 North Savo,D61K Employer's social security contributions,1094,1129,1100,1123,1147,1101
+S14 Households,MK11 North Savo,"D7K Other current transfers, expenditure",197,188,195,191,197,193
+S14 Households,MK11 North Savo,"B6N Disposable income, net",4856,4945,5095,5229,5370,5346
+S14 Households,MK12 North Karelia,"B2N Operating surplus, net",264,268,266,275,279,300
+S14 Households,MK12 North Karelia,"B3N Mixed income, net",281,282,293,299,292,286
+S14 Households,MK12 North Karelia,"D11R Wages and salaries received, income",1908,1914,1944,2024,2081,2063
+S14 Households,MK12 North Karelia,"D12R Employer's social security contributions, income",443,449,418,417,420,392
+S14 Households,MK12 North Karelia,"D4OMR  Property income, (incl. holding gains and losses), income",281,259,330,318,355,293
+S14 Households,MK12 North Karelia,"D4K Property income, expenditure",28,21,17,19,19,15
+S14 Households,MK12 North Karelia,B5N Net national income,3148,3150,3233,3314,3408,3320
+S14 Households,MK12 North Karelia,"D62R Social benefits other than social transfers in kind, income",1391,1405,1407,1414,1437,1496
+S14 Households,MK12 North Karelia,"D7R Other current transfers, income",72,76,84,76,82,78
+S14 Households,MK12 North Karelia,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",696,701,693,700,711,718
+S14 Households,MK12 North Karelia,D61K Employer's social security contributions,651,665,647,657,668,638
+S14 Households,MK12 North Karelia,"D7K Other current transfers, expenditure",132,125,130,127,132,130
+S14 Households,MK12 North Karelia,"B6N Disposable income, net",3131,3140,3255,3321,3416,3408
+S14 Households,MK13 Central Finland,"B2N Operating surplus, net",452,467,466,470,460,463
+S14 Households,MK13 Central Finland,"B3N Mixed income, net",389,409,436,439,434,443
+S14 Households,MK13 Central Finland,"D11R Wages and salaries received, income",3488,3569,3668,3818,3944,3930
+S14 Households,MK13 Central Finland,"D12R Employer's social security contributions, income",808,836,789,787,795,747
+S14 Households,MK13 Central Finland,"D4OMR  Property income, (incl. holding gains and losses), income",470,442,531,555,478,531
+S14 Households,MK13 Central Finland,"D4K Property income, expenditure",41,31,26,29,30,23
+S14 Households,MK13 Central Finland,B5N Net national income,5566,5692,5864,6040,6081,6091
+S14 Households,MK13 Central Finland,"D62R Social benefits other than social transfers in kind, income",2153,2167,2177,2191,2233,2336
+S14 Households,MK13 Central Finland,"D7R Other current transfers, income",107,109,125,114,125,118
+S14 Households,MK13 Central Finland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1233,1259,1268,1288,1302,1340
+S14 Households,MK13 Central Finland,D61K Employer's social security contributions,1184,1232,1212,1232,1258,1208
+S14 Households,MK13 Central Finland,"D7K Other current transfers, expenditure",214,205,211,206,213,210
+S14 Households,MK13 Central Finland,"B6N Disposable income, net",5196,5272,5475,5620,5666,5786
+S14 Households,MK14 South Ostrobothnia,"B2N Operating surplus, net",346,355,350,352,342,367
+S14 Households,MK14 South Ostrobothnia,"B3N Mixed income, net",366,371,390,367,426,411
+S14 Households,MK14 South Ostrobothnia,"D11R Wages and salaries received, income",2398,2413,2452,2554,2632,2622
+S14 Households,MK14 South Ostrobothnia,"D12R Employer's social security contributions, income",556,566,528,527,532,499
+S14 Households,MK14 South Ostrobothnia,"D4OMR  Property income, (incl. holding gains and losses), income",389,379,413,389,370,397
+S14 Households,MK14 South Ostrobothnia,"D4K Property income, expenditure",45,33,27,31,31,24
+S14 Households,MK14 South Ostrobothnia,B5N Net national income,4012,4050,4105,4157,4271,4271
+S14 Households,MK14 South Ostrobothnia,"D62R Social benefits other than social transfers in kind, income",1463,1473,1478,1480,1509,1574
+S14 Households,MK14 South Ostrobothnia,"D7R Other current transfers, income",91,95,110,100,109,102
+S14 Households,MK14 South Ostrobothnia,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",865,876,869,877,905,905
+S14 Households,MK14 South Ostrobothnia,D61K Employer's social security contributions,815,835,812,825,843,809
+S14 Households,MK14 South Ostrobothnia,"D7K Other current transfers, expenditure",178,170,176,173,179,176
+S14 Households,MK14 South Ostrobothnia,"B6N Disposable income, net",3707,3738,3836,3863,3962,4058
+S14 Households,MK15 Ostrobothnia,"B2N Operating surplus, net",285,293,296,296,287,299
+S14 Households,MK15 Ostrobothnia,"B3N Mixed income, net",293,284,299,296,335,339
+S14 Households,MK15 Ostrobothnia,"D11R Wages and salaries received, income",2554,2556,2581,2680,2764,2749
+S14 Households,MK15 Ostrobothnia,"D12R Employer's social security contributions, income",593,600,556,553,558,523
+S14 Households,MK15 Ostrobothnia,"D4OMR  Property income, (incl. holding gains and losses), income",358,368,361,377,350,391
+S14 Households,MK15 Ostrobothnia,"D4K Property income, expenditure",33,24,20,23,24,19
+S14 Households,MK15 Ostrobothnia,B5N Net national income,4049,4077,4073,4180,4270,4282
+S14 Households,MK15 Ostrobothnia,"D62R Social benefits other than social transfers in kind, income",1261,1284,1296,1288,1320,1379
+S14 Households,MK15 Ostrobothnia,"D7R Other current transfers, income",74,77,88,79,87,82
+S14 Households,MK15 Ostrobothnia,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",861,881,866,879,902,923
+S14 Households,MK15 Ostrobothnia,D61K Employer's social security contributions,864,880,851,862,880,844
+S14 Households,MK15 Ostrobothnia,"D7K Other current transfers, expenditure",153,146,152,149,154,151
+S14 Households,MK15 Ostrobothnia,"B6N Disposable income, net",3507,3531,3589,3657,3741,3826
+S14 Households,MK16 Central Ostrobothnia,"B2N Operating surplus, net",99,103,103,110,116,120
+S14 Households,MK16 Central Ostrobothnia,"B3N Mixed income, net",118,118,119,123,123,127
+S14 Households,MK16 Central Ostrobothnia,"D11R Wages and salaries received, income",871,883,899,937,966,963
+S14 Households,MK16 Central Ostrobothnia,"D12R Employer's social security contributions, income",202,207,194,193,195,183
+S14 Households,MK16 Central Ostrobothnia,"D4OMR  Property income, (incl. holding gains and losses), income",128,117,141,123,135,131
+S14 Households,MK16 Central Ostrobothnia,"D4K Property income, expenditure",16,11,9,10,11,8
+S14 Households,MK16 Central Ostrobothnia,B5N Net national income,1401,1418,1446,1476,1525,1515
+S14 Households,MK16 Central Ostrobothnia,"D62R Social benefits other than social transfers in kind, income",494,500,502,501,512,534
+S14 Households,MK16 Central Ostrobothnia,"D7R Other current transfers, income",29,29,34,31,34,31
+S14 Households,MK16 Central Ostrobothnia,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",309,314,317,319,325,332
+S14 Households,MK16 Central Ostrobothnia,D61K Employer's social security contributions,296,305,297,302,309,296
+S14 Households,MK16 Central Ostrobothnia,"D7K Other current transfers, expenditure",57,54,56,55,57,55
+S14 Households,MK16 Central Ostrobothnia,"B6N Disposable income, net",1262,1274,1311,1331,1379,1397
+S14 Households,MK17 North Ostrobothnia,"B2N Operating surplus, net",626,639,635,641,628,671
+S14 Households,MK17 North Ostrobothnia,"B3N Mixed income, net",539,573,609,628,629,652
+S14 Households,MK17 North Ostrobothnia,"D11R Wages and salaries received, income",5399,5515,5645,5937,6181,6221
+S14 Households,MK17 North Ostrobothnia,"D12R Employer's social security contributions, income",1252,1291,1214,1224,1247,1183
+S14 Households,MK17 North Ostrobothnia,"D4OMR  Property income, (incl. holding gains and losses), income",857,691,792,804,847,816
+S14 Households,MK17 North Ostrobothnia,"D4K Property income, expenditure",69,51,43,48,49,39
+S14 Households,MK17 North Ostrobothnia,B5N Net national income,8605,8659,8853,9186,9483,9504
+S14 Households,MK17 North Ostrobothnia,"D62R Social benefits other than social transfers in kind, income",2952,2981,3001,3009,3075,3236
+S14 Households,MK17 North Ostrobothnia,"D7R Other current transfers, income",163,162,185,169,185,175
+S14 Households,MK17 North Ostrobothnia,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1904,1895,1912,1952,2008,2059
+S14 Households,MK17 North Ostrobothnia,D61K Employer's social security contributions,1827,1898,1861,1910,1964,1905
+S14 Households,MK17 North Ostrobothnia,"D7K Other current transfers, expenditure",312,296,308,304,315,310
+S14 Households,MK17 North Ostrobothnia,"B6N Disposable income, net",7677,7714,7957,8199,8456,8640
+S14 Households,MK18 Kainuu,"B2N Operating surplus, net",125,125,123,126,125,150
+S14 Households,MK18 Kainuu,"B3N Mixed income, net",107,114,119,128,129,129
+S14 Households,MK18 Kainuu,"D11R Wages and salaries received, income",891,910,922,959,981,972
+S14 Households,MK18 Kainuu,"D12R Employer's social security contributions, income",203,210,195,194,195,182
+S14 Households,MK18 Kainuu,"D4OMR  Property income, (incl. holding gains and losses), income",118,105,153,139,171,112
+S14 Households,MK18 Kainuu,"D4K Property income, expenditure",11,8,7,8,8,6
+S14 Households,MK18 Kainuu,B5N Net national income,1432,1456,1505,1538,1593,1539
+S14 Households,MK18 Kainuu,"D62R Social benefits other than social transfers in kind, income",660,656,654,650,656,682
+S14 Households,MK18 Kainuu,"D7R Other current transfers, income",31,33,38,35,37,36
+S14 Households,MK18 Kainuu,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",322,325,322,327,337,333
+S14 Households,MK18 Kainuu,D61K Employer's social security contributions,299,311,303,307,311,297
+S14 Households,MK18 Kainuu,"D7K Other current transfers, expenditure",62,58,60,59,61,61
+S14 Households,MK18 Kainuu,"B6N Disposable income, net",1439,1450,1512,1531,1578,1567
+S14 Households,MK19 Lapland,"B2N Operating surplus, net",324,329,326,314,287,308
+S14 Households,MK19 Lapland,"B3N Mixed income, net",251,259,315,297,284,277
+S14 Households,MK19 Lapland,"D11R Wages and salaries received, income",2307,2327,2374,2472,2565,2534
+S14 Households,MK19 Lapland,"D12R Employer's social security contributions, income",533,543,509,508,516,480
+S14 Households,MK19 Lapland,"D4OMR  Property income, (incl. holding gains and losses), income",285,266,336,316,362,288
+S14 Households,MK19 Lapland,"D4K Property income, expenditure",27,20,17,19,19,15
+S14 Households,MK19 Lapland,B5N Net national income,3674,3704,3843,3888,3994,3873
+S14 Households,MK19 Lapland,"D62R Social benefits other than social transfers in kind, income",1529,1538,1541,1521,1545,1620
+S14 Households,MK19 Lapland,"D7R Other current transfers, income",79,82,93,85,91,87
+S14 Households,MK19 Lapland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",826,836,834,839,865,880
+S14 Households,MK19 Lapland,D61K Employer's social security contributions,782,804,783,797,819,780
+S14 Households,MK19 Lapland,"D7K Other current transfers, expenditure",145,137,143,140,145,143
+S14 Households,MK19 Lapland,"B6N Disposable income, net",3529,3549,3717,3718,3801,3777
+S14 Households,MA2 ÅLAND,"B2N Operating surplus, net",61,63,64,61,55,58
+S14 Households,MA2 ÅLAND,"B3N Mixed income, net",58,45,55,47,62,62
+S14 Households,MA2 ÅLAND,"D11R Wages and salaries received, income",510,516,520,534,557,542
+S14 Households,MA2 ÅLAND,"D12R Employer's social security contributions, income",118,121,112,110,113,103
+S14 Households,MA2 ÅLAND,"D4OMR  Property income, (incl. holding gains and losses), income",122,110,91,101,104,100
+S14 Households,MA2 ÅLAND,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,MA2 ÅLAND,B5N Net national income,862,850,839,848,886,861
+S14 Households,MA2 ÅLAND,"D62R Social benefits other than social transfers in kind, income",221,225,231,219,226,240
+S14 Households,MA2 ÅLAND,"D7R Other current transfers, income",12,12,14,13,14,13
+S14 Households,MA2 ÅLAND,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",173,171,170,159,176,174
+S14 Households,MA2 ÅLAND,D61K Employer's social security contributions,171,174,168,169,176,166
+S14 Households,MA2 ÅLAND,"D7K Other current transfers, expenditure",33,33,33,31,33,34
+S14 Households,MA2 ÅLAND,"B6N Disposable income, net",718,708,713,720,742,741
+S14 Households,SA5 Åland,"B2N Operating surplus, net",61,63,64,61,55,58
+S14 Households,SA5 Åland,"B3N Mixed income, net",58,45,55,47,62,62
+S14 Households,SA5 Åland,"D11R Wages and salaries received, income",510,516,520,534,557,542
+S14 Households,SA5 Åland,"D12R Employer's social security contributions, income",118,121,112,110,113,103
+S14 Households,SA5 Åland,"D4OMR  Property income, (incl. holding gains and losses), income",122,110,91,101,104,100
+S14 Households,SA5 Åland,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,SA5 Åland,B5N Net national income,862,850,839,848,886,861
+S14 Households,SA5 Åland,"D62R Social benefits other than social transfers in kind, income",221,225,231,219,226,240
+S14 Households,SA5 Åland,"D7R Other current transfers, income",12,12,14,13,14,13
+S14 Households,SA5 Åland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",173,171,170,159,176,174
+S14 Households,SA5 Åland,D61K Employer's social security contributions,171,174,168,169,176,166
+S14 Households,SA5 Åland,"D7K Other current transfers, expenditure",33,33,33,31,33,34
+S14 Households,SA5 Åland,"B6N Disposable income, net",718,708,713,720,742,741
+S14 Households,MK21 Åland,"B2N Operating surplus, net",61,63,64,61,55,58
+S14 Households,MK21 Åland,"B3N Mixed income, net",58,45,55,47,62,62
+S14 Households,MK21 Åland,"D11R Wages and salaries received, income",510,516,520,534,557,542
+S14 Households,MK21 Åland,"D12R Employer's social security contributions, income",118,121,112,110,113,103
+S14 Households,MK21 Åland,"D4OMR  Property income, (incl. holding gains and losses), income",122,110,91,101,104,100
+S14 Households,MK21 Åland,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,MK21 Åland,B5N Net national income,862,850,839,848,886,861
+S14 Households,MK21 Åland,"D62R Social benefits other than social transfers in kind, income",221,225,231,219,226,240
+S14 Households,MK21 Åland,"D7R Other current transfers, income",12,12,14,13,14,13
+S14 Households,MK21 Åland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",173,171,170,159,176,174
+S14 Households,MK21 Åland,D61K Employer's social security contributions,171,174,168,169,176,166
+S14 Households,MK21 Åland,"D7K Other current transfers, expenditure",33,33,33,31,33,34
+S14 Households,MK21 Åland,"B6N Disposable income, net",718,708,713,720,742,741
+S14 Households,HVA01 East Uusimaa wellbeing services county,"B2N Operating surplus, net",173,179,182,191,198,206
+S14 Households,HVA01 East Uusimaa wellbeing services county,"B3N Mixed income, net",172,156,159,155,172,169
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D11R Wages and salaries received, income",1648,1655,1697,1761,1813,1804
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D12R Employer's social security contributions, income",382,388,365,363,365,343
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",232,212,232,256,252,250
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D4K Property income, expenditure",20,14,12,14,14,11
+S14 Households,HVA01 East Uusimaa wellbeing services county,B5N Net national income,2587,2575,2623,2713,2786,2760
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D62R Social benefits other than social transfers in kind, income",710,727,736,748,768,814
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D7R Other current transfers, income",43,42,49,45,49,46
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",576,575,585,589,608,616
+S14 Households,HVA01 East Uusimaa wellbeing services county,D61K Employer's social security contributions,554,566,555,562,575,551
+S14 Households,HVA01 East Uusimaa wellbeing services county,"D7K Other current transfers, expenditure",81,76,80,79,82,81
+S14 Households,HVA01 East Uusimaa wellbeing services county,"B6N Disposable income, net",2128,2127,2189,2276,2338,2373
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"B2N Operating surplus, net",350,364,370,388,404,384
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"B3N Mixed income, net",197,340,226,218,236,243
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D11R Wages and salaries received, income",3540,3589,3668,3820,3962,3929
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D12R Employer's social security contributions, income",820,841,788,787,799,746
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",397,348,410,445,441,427
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D4K Property income, expenditure",36,26,22,24,25,20
+S14 Households,HVA02 Central Uusimaa wellbeing services county,B5N Net national income,5268,5456,5440,5634,5818,5709
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1330,1363,1389,1424,1465,1565
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D7R Other current transfers, income",80,77,89,82,90,85
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1163,1180,1193,1198,1249,1270
+S14 Households,HVA02 Central Uusimaa wellbeing services county,D61K Employer's social security contributions,1187,1226,1198,1220,1251,1196
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"D7K Other current transfers, expenditure",153,144,152,151,156,152
+S14 Households,HVA02 Central Uusimaa wellbeing services county,"B6N Disposable income, net",4176,4345,4376,4571,4717,4741
+S14 Households,HVA03 West Uusimaa wellbeing services county,"B2N Operating surplus, net",788,816,826,896,970,898
+S14 Households,HVA03 West Uusimaa wellbeing services county,"B3N Mixed income, net",611,614,605,562,600,589
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D11R Wages and salaries received, income",9282,9448,9714,10096,10332,10396
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D12R Employer's social security contributions, income",2140,2202,2069,2070,2065,1957
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",1465,1499,1469,1650,1500,1739
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D4K Property income, expenditure",85,58,48,54,55,45
+S14 Households,HVA03 West Uusimaa wellbeing services county,B5N Net national income,14201,14521,14634,15220,15412,15535
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D62R Social benefits other than social transfers in kind, income",3358,3438,3511,3585,3694,3901
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D7R Other current transfers, income",164,159,183,167,181,171
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",3395,3509,3573,3593,3668,3772
+S14 Households,HVA03 West Uusimaa wellbeing services county,D61K Employer's social security contributions,3087,3200,3126,3187,3236,3141
+S14 Households,HVA03 West Uusimaa wellbeing services county,"D7K Other current transfers, expenditure",328,310,325,321,332,325
+S14 Households,HVA03 West Uusimaa wellbeing services county,"B6N Disposable income, net",10913,11099,11305,11871,12051,12368
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"B2N Operating surplus, net",388,407,413,445,478,539
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"B3N Mixed income, net",312,278,249,238,275,243
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D11R Wages and salaries received, income",4568,4673,4845,5111,5391,5387
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D12R Employer's social security contributions, income",1059,1094,1040,1053,1086,1023
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",362,345,494,523,491,435
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D4K Property income, expenditure",35,25,21,24,25,21
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,B5N Net national income,6654,6772,7019,7347,7696,7607
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1782,1833,1864,1901,1966,2106
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D7R Other current transfers, income",83,79,92,85,91,91
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1419,1447,1473,1485,1553,1565
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,D61K Employer's social security contributions,1536,1599,1583,1632,1698,1635
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"D7K Other current transfers, expenditure",162,154,162,160,167,169
+S14 Households,HVA04 Vantaa and Kerava wellbeing services county,"B6N Disposable income, net",5403,5483,5757,6055,6335,6435
+S14 Households,HVA05 Southwest Finland wellbeing services county,"B2N Operating surplus, net",765,793,790,803,795,805
+S14 Households,HVA05 Southwest Finland wellbeing services county,"B3N Mixed income, net",669,689,695,755,748,759
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D11R Wages and salaries received, income",6771,6871,7019,7372,7693,7663
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D12R Employer's social security contributions, income",1569,1609,1510,1521,1553,1457
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",1083,1076,1178,1184,1188,1130
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D4K Property income, expenditure",84,61,52,58,59,48
+S14 Households,HVA05 Southwest Finland wellbeing services county,B5N Net national income,10775,10977,11141,11576,11917,11766
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D62R Social benefits other than social transfers in kind, income",3746,3792,3823,3852,3945,4139
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D7R Other current transfers, income",193,195,224,203,219,205
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",2414,2467,2461,2511,2557,2581
+S14 Households,HVA05 Southwest Finland wellbeing services county,D61K Employer's social security contributions,2290,2357,2308,2366,2451,2352
+S14 Households,HVA05 Southwest Finland wellbeing services county,"D7K Other current transfers, expenditure",350,330,347,348,360,349
+S14 Households,HVA05 Southwest Finland wellbeing services county,"B6N Disposable income, net",9659,9810,10072,10406,10713,10828
+S14 Households,HVA06 Satakunta wellbeing services county,"B2N Operating surplus, net",394,405,406,392,361,425
+S14 Households,HVA06 Satakunta wellbeing services county,"B3N Mixed income, net",328,330,368,311,354,348
+S14 Households,HVA06 Satakunta wellbeing services county,"D11R Wages and salaries received, income",3013,3033,3084,3194,3255,3209
+S14 Households,HVA06 Satakunta wellbeing services county,"D12R Employer's social security contributions, income",694,707,660,655,654,607
+S14 Households,HVA06 Satakunta wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",394,394,438,440,398,390
+S14 Households,HVA06 Satakunta wellbeing services county,"D4K Property income, expenditure",39,29,24,27,27,21
+S14 Households,HVA06 Satakunta wellbeing services county,B5N Net national income,4784,4840,4932,4965,4994,4958
+S14 Households,HVA06 Satakunta wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1847,1863,1860,1857,1896,1974
+S14 Households,HVA06 Satakunta wellbeing services county,"D7R Other current transfers, income",101,105,119,109,118,114
+S14 Households,HVA06 Satakunta wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1054,1084,1069,1062,1093,1105
+S14 Households,HVA06 Satakunta wellbeing services county,D61K Employer's social security contributions,1016,1039,1012,1023,1037,985
+S14 Households,HVA06 Satakunta wellbeing services county,"D7K Other current transfers, expenditure",198,188,194,189,195,193
+S14 Households,HVA06 Satakunta wellbeing services county,"B6N Disposable income, net",4464,4498,4636,4656,4684,4763
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"B2N Operating surplus, net",315,325,325,327,320,348
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"B3N Mixed income, net",234,248,250,249,255,247
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D11R Wages and salaries received, income",2517,2531,2550,2625,2695,2677
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D12R Employer's social security contributions, income",580,590,546,539,541,507
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",310,295,380,324,413,293
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D4K Property income, expenditure",32,23,19,21,21,17
+S14 Households,HVA06 Kanta-Häme wellbeing services county,B5N Net national income,3924,3965,4031,4043,4203,4055
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1387,1402,1418,1434,1464,1527
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D7R Other current transfers, income",75,75,86,78,83,78
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",865,877,883,876,919,904
+S14 Households,HVA06 Kanta-Häme wellbeing services county,D61K Employer's social security contributions,848,868,838,842,857,820
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"D7K Other current transfers, expenditure",138,130,135,133,137,134
+S14 Households,HVA06 Kanta-Häme wellbeing services county,"B6N Disposable income, net",3535,3567,3679,3703,3836,3801
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"B2N Operating surplus, net",817,841,839,847,828,843
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"B3N Mixed income, net",698,735,741,717,721,732
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D11R Wages and salaries received, income",7404,7542,7700,8124,8462,8481
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D12R Employer's social security contributions, income",1716,1766,1655,1674,1706,1612
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",992,927,1045,1123,998,1101
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D4K Property income, expenditure",82,61,51,58,58,47
+S14 Households,HVA08 Pirkanmaa wellbeing services county,B5N Net national income,11546,11750,11929,12428,12656,12723
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D62R Social benefits other than social transfers in kind, income",3901,3961,3993,4035,4141,4350
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D7R Other current transfers, income",198,199,228,208,223,210
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",2582,2635,2640,2716,2769,2848
+S14 Households,HVA08 Pirkanmaa wellbeing services county,D61K Employer's social security contributions,2500,2588,2531,2607,2688,2597
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"D7K Other current transfers, expenditure",399,383,395,390,405,397
+S14 Households,HVA08 Pirkanmaa wellbeing services county,"B6N Disposable income, net",10164,10303,10583,10958,11159,11441
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"B2N Operating surplus, net",339,349,347,350,342,363
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"B3N Mixed income, net",295,304,310,320,308,303
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D11R Wages and salaries received, income",2748,2783,2820,2917,3002,2954
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D12R Employer's social security contributions, income",637,653,607,602,606,562
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",385,363,460,407,493,428
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D4K Property income, expenditure",32,24,20,22,22,17
+S14 Households,HVA09 Päijät-Häme wellbeing services county,B5N Net national income,4371,4428,4524,4575,4728,4593
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1727,1746,1767,1786,1823,1907
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D7R Other current transfers, income",82,84,94,85,92,87
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",993,1003,1011,1014,1060,1052
+S14 Households,HVA09 Päijät-Häme wellbeing services county,D61K Employer's social security contributions,932,961,932,941,962,912
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"D7K Other current transfers, expenditure",155,146,152,149,154,150
+S14 Households,HVA09 Päijät-Häme wellbeing services county,"B6N Disposable income, net",4100,4147,4290,4341,4467,4473
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"B2N Operating surplus, net",303,309,308,301,282,332
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"B3N Mixed income, net",198,203,204,180,191,199
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D11R Wages and salaries received, income",2281,2270,2289,2381,2449,2425
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D12R Employer's social security contributions, income",523,527,487,486,489,457
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",265,256,336,339,338,250
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D4K Property income, expenditure",23,17,14,16,16,12
+S14 Households,HVA10 Kymenlaakso wellbeing services county,B5N Net national income,3546,3547,3610,3672,3733,3650
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1550,1560,1561,1556,1572,1628
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D7R Other current transfers, income",73,75,83,75,81,78
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",841,849,848,847,869,877
+S14 Households,HVA10 Kymenlaakso wellbeing services county,D61K Employer's social security contributions,773,783,757,769,780,745
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"D7K Other current transfers, expenditure",138,129,134,131,134,132
+S14 Households,HVA10 Kymenlaakso wellbeing services county,"B6N Disposable income, net",3417,3421,3515,3557,3602,3602
+S14 Households,HVA11 South Karelia wellbeing services county,"B2N Operating surplus, net",206,210,208,217,219,284
+S14 Households,HVA11 South Karelia wellbeing services county,"B3N Mixed income, net",177,181,180,182,183,177
+S14 Households,HVA11 South Karelia wellbeing services county,"D11R Wages and salaries received, income",1752,1742,1757,1825,1865,1848
+S14 Households,HVA11 South Karelia wellbeing services county,"D12R Employer's social security contributions, income",406,408,377,376,376,351
+S14 Households,HVA11 South Karelia wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",214,199,278,244,258,191
+S14 Households,HVA11 South Karelia wellbeing services county,"D4K Property income, expenditure",19,14,12,13,13,10
+S14 Households,HVA11 South Karelia wellbeing services county,B5N Net national income,2737,2727,2790,2831,2889,2842
+S14 Households,HVA11 South Karelia wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1127,1138,1139,1143,1160,1210
+S14 Households,HVA11 South Karelia wellbeing services county,"D7R Other current transfers, income",54,57,64,58,62,61
+S14 Households,HVA11 South Karelia wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",639,638,631,629,639,649
+S14 Households,HVA11 South Karelia wellbeing services county,D61K Employer's social security contributions,598,605,584,594,598,572
+S14 Households,HVA11 South Karelia wellbeing services county,"D7K Other current transfers, expenditure",104,97,101,100,103,103
+S14 Households,HVA11 South Karelia wellbeing services county,"B6N Disposable income, net",2578,2581,2675,2710,2770,2788
+S14 Households,HVA12 South Savo wellbeing services county,"B2N Operating surplus, net",255,258,256,252,238,261
+S14 Households,HVA12 South Savo wellbeing services county,"B3N Mixed income, net",279,297,305,311,309,271
+S14 Households,HVA12 South Savo wellbeing services county,"D11R Wages and salaries received, income",1644,1643,1650,1700,1723,1687
+S14 Households,HVA12 South Savo wellbeing services county,"D12R Employer's social security contributions, income",381,385,355,351,348,321
+S14 Households,HVA12 South Savo wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",262,242,302,277,299,229
+S14 Households,HVA12 South Savo wellbeing services county,"D4K Property income, expenditure",23,17,15,16,16,13
+S14 Households,HVA12 South Savo wellbeing services county,B5N Net national income,2799,2808,2854,2875,2899,2756
+S14 Households,HVA12 South Savo wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1224,1232,1236,1241,1256,1303
+S14 Households,HVA12 South Savo wellbeing services county,"D7R Other current transfers, income",60,63,71,64,69,66
+S14 Households,HVA12 South Savo wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",627,636,632,628,638,645
+S14 Households,HVA12 South Savo wellbeing services county,D61K Employer's social security contributions,563,572,551,553,555,525
+S14 Households,HVA12 South Savo wellbeing services county,"D7K Other current transfers, expenditure",113,106,110,107,110,108
+S14 Households,HVA12 South Savo wellbeing services county,"B6N Disposable income, net",2779,2788,2868,2892,2921,2848
+S14 Households,HVA13 North Savo wellbeing services county,"B2N Operating surplus, net",410,420,418,418,414,431
+S14 Households,HVA13 North Savo wellbeing services county,"B3N Mixed income, net",413,434,452,474,480,463
+S14 Households,HVA13 North Savo wellbeing services county,"D11R Wages and salaries received, income",3210,3258,3316,3470,3585,3573
+S14 Households,HVA13 North Savo wellbeing services county,"D12R Employer's social security contributions, income",745,764,713,716,724,680
+S14 Households,HVA13 North Savo wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",411,426,487,488,507,414
+S14 Households,HVA13 North Savo wellbeing services county,"D4K Property income, expenditure",47,34,29,32,32,25
+S14 Households,HVA13 North Savo wellbeing services county,B5N Net national income,5142,5267,5358,5534,5677,5535
+S14 Households,HVA13 North Savo wellbeing services county,"D62R Social benefits other than social transfers in kind, income",2047,2064,2067,2083,2125,2217
+S14 Households,HVA13 North Savo wellbeing services county,"D7R Other current transfers, income",103,108,124,112,122,116
+S14 Households,HVA13 North Savo wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1146,1178,1159,1187,1210,1228
+S14 Households,HVA13 North Savo wellbeing services county,D61K Employer's social security contributions,1094,1129,1100,1123,1147,1101
+S14 Households,HVA13 North Savo wellbeing services county,"D7K Other current transfers, expenditure",197,188,195,191,197,193
+S14 Households,HVA13 North Savo wellbeing services county,"B6N Disposable income, net",4856,4945,5095,5229,5370,5346
+S14 Households,HVA14 North Karelia wellbeing services county,"B2N Operating surplus, net",264,268,266,275,279,300
+S14 Households,HVA14 North Karelia wellbeing services county,"B3N Mixed income, net",281,282,293,299,292,286
+S14 Households,HVA14 North Karelia wellbeing services county,"D11R Wages and salaries received, income",1908,1914,1944,2024,2081,2063
+S14 Households,HVA14 North Karelia wellbeing services county,"D12R Employer's social security contributions, income",443,449,418,417,420,392
+S14 Households,HVA14 North Karelia wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",281,259,330,318,355,293
+S14 Households,HVA14 North Karelia wellbeing services county,"D4K Property income, expenditure",28,21,17,19,19,15
+S14 Households,HVA14 North Karelia wellbeing services county,B5N Net national income,3148,3150,3233,3314,3408,3320
+S14 Households,HVA14 North Karelia wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1391,1405,1407,1414,1437,1496
+S14 Households,HVA14 North Karelia wellbeing services county,"D7R Other current transfers, income",72,76,84,76,82,78
+S14 Households,HVA14 North Karelia wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",696,701,693,700,711,718
+S14 Households,HVA14 North Karelia wellbeing services county,D61K Employer's social security contributions,651,665,647,657,668,638
+S14 Households,HVA14 North Karelia wellbeing services county,"D7K Other current transfers, expenditure",132,125,130,127,132,130
+S14 Households,HVA14 North Karelia wellbeing services county,"B6N Disposable income, net",3131,3140,3255,3321,3416,3408
+S14 Households,HVA15 Central Finland wellbeing services county,"B2N Operating surplus, net",452,467,466,470,460,463
+S14 Households,HVA15 Central Finland wellbeing services county,"B3N Mixed income, net",389,409,436,439,434,443
+S14 Households,HVA15 Central Finland wellbeing services county,"D11R Wages and salaries received, income",3488,3569,3668,3818,3944,3930
+S14 Households,HVA15 Central Finland wellbeing services county,"D12R Employer's social security contributions, income",808,836,789,787,795,747
+S14 Households,HVA15 Central Finland wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",470,442,531,555,478,531
+S14 Households,HVA15 Central Finland wellbeing services county,"D4K Property income, expenditure",41,31,26,29,30,23
+S14 Households,HVA15 Central Finland wellbeing services county,B5N Net national income,5566,5692,5864,6040,6081,6091
+S14 Households,HVA15 Central Finland wellbeing services county,"D62R Social benefits other than social transfers in kind, income",2153,2167,2177,2191,2233,2336
+S14 Households,HVA15 Central Finland wellbeing services county,"D7R Other current transfers, income",107,109,125,114,125,118
+S14 Households,HVA15 Central Finland wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1233,1259,1268,1288,1302,1340
+S14 Households,HVA15 Central Finland wellbeing services county,D61K Employer's social security contributions,1184,1232,1212,1232,1258,1208
+S14 Households,HVA15 Central Finland wellbeing services county,"D7K Other current transfers, expenditure",214,205,211,206,213,210
+S14 Households,HVA15 Central Finland wellbeing services county,"B6N Disposable income, net",5196,5272,5475,5620,5666,5786
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"B2N Operating surplus, net",346,355,350,352,342,367
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"B3N Mixed income, net",366,371,390,367,426,411
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D11R Wages and salaries received, income",2398,2413,2452,2554,2632,2622
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D12R Employer's social security contributions, income",556,566,528,527,532,499
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",389,379,413,389,370,397
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D4K Property income, expenditure",45,33,27,31,31,24
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,B5N Net national income,4012,4050,4105,4157,4271,4271
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1463,1473,1478,1480,1509,1574
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D7R Other current transfers, income",91,95,110,100,109,102
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",865,876,869,877,905,905
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,D61K Employer's social security contributions,815,835,812,825,843,809
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"D7K Other current transfers, expenditure",178,170,176,173,179,176
+S14 Households,HVA16 South Ostrobothnia wellbeing services county,"B6N Disposable income, net",3707,3738,3836,3863,3962,4058
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"B2N Operating surplus, net",285,293,296,296,287,299
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"B3N Mixed income, net",293,284,299,296,335,339
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D11R Wages and salaries received, income",2554,2556,2581,2680,2764,2749
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D12R Employer's social security contributions, income",593,600,556,553,558,523
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",358,368,361,377,350,391
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D4K Property income, expenditure",33,24,20,23,24,19
+S14 Households,HVA17 Ostrobothnia wellbeing services county,B5N Net national income,4049,4077,4073,4180,4270,4282
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1261,1284,1296,1288,1320,1379
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D7R Other current transfers, income",74,77,88,79,87,82
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",861,881,866,879,902,923
+S14 Households,HVA17 Ostrobothnia wellbeing services county,D61K Employer's social security contributions,864,880,851,862,880,844
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"D7K Other current transfers, expenditure",153,146,152,149,154,151
+S14 Households,HVA17 Ostrobothnia wellbeing services county,"B6N Disposable income, net",3507,3531,3589,3657,3741,3826
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"B2N Operating surplus, net",99,103,103,110,116,120
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"B3N Mixed income, net",118,118,119,123,123,127
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D11R Wages and salaries received, income",871,883,899,937,966,963
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D12R Employer's social security contributions, income",202,207,194,193,195,183
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",128,117,141,123,135,131
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D4K Property income, expenditure",16,11,9,10,11,8
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,B5N Net national income,1401,1418,1446,1476,1525,1515
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D62R Social benefits other than social transfers in kind, income",494,500,502,501,512,534
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D7R Other current transfers, income",29,29,34,31,34,31
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",309,314,317,319,325,332
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,D61K Employer's social security contributions,296,305,297,302,309,296
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"D7K Other current transfers, expenditure",57,54,56,55,57,55
+S14 Households,HVA18 Central Ostrobothnia wellbeing services county,"B6N Disposable income, net",1262,1274,1311,1331,1379,1397
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"B2N Operating surplus, net",626,639,635,641,628,671
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"B3N Mixed income, net",539,573,609,628,629,652
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D11R Wages and salaries received, income",5399,5515,5645,5937,6181,6221
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D12R Employer's social security contributions, income",1252,1291,1214,1224,1247,1183
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",857,691,792,804,847,816
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D4K Property income, expenditure",69,51,43,48,49,39
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,B5N Net national income,8605,8659,8853,9186,9483,9504
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D62R Social benefits other than social transfers in kind, income",2952,2981,3001,3009,3075,3236
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D7R Other current transfers, income",163,162,185,169,185,175
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1904,1895,1912,1952,2008,2059
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,D61K Employer's social security contributions,1827,1898,1861,1910,1964,1905
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"D7K Other current transfers, expenditure",312,296,308,304,315,310
+S14 Households,HVA19 North Ostrobothnia wellbeing services county,"B6N Disposable income, net",7677,7714,7957,8199,8456,8640
+S14 Households,HVA20 Kainuu wellbeing services county,"B2N Operating surplus, net",125,125,123,126,125,150
+S14 Households,HVA20 Kainuu wellbeing services county,"B3N Mixed income, net",107,114,119,128,129,129
+S14 Households,HVA20 Kainuu wellbeing services county,"D11R Wages and salaries received, income",891,910,922,959,981,972
+S14 Households,HVA20 Kainuu wellbeing services county,"D12R Employer's social security contributions, income",203,210,195,194,195,182
+S14 Households,HVA20 Kainuu wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",118,105,153,139,171,112
+S14 Households,HVA20 Kainuu wellbeing services county,"D4K Property income, expenditure",11,8,7,8,8,6
+S14 Households,HVA20 Kainuu wellbeing services county,B5N Net national income,1432,1456,1505,1538,1593,1539
+S14 Households,HVA20 Kainuu wellbeing services county,"D62R Social benefits other than social transfers in kind, income",660,656,654,650,656,682
+S14 Households,HVA20 Kainuu wellbeing services county,"D7R Other current transfers, income",31,33,38,35,37,36
+S14 Households,HVA20 Kainuu wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",322,325,322,327,337,333
+S14 Households,HVA20 Kainuu wellbeing services county,D61K Employer's social security contributions,299,311,303,307,311,297
+S14 Households,HVA20 Kainuu wellbeing services county,"D7K Other current transfers, expenditure",62,58,60,59,61,61
+S14 Households,HVA20 Kainuu wellbeing services county,"B6N Disposable income, net",1439,1450,1512,1531,1578,1567
+S14 Households,HVA21 Lapland wellbeing services county,"B2N Operating surplus, net",324,329,326,314,287,308
+S14 Households,HVA21 Lapland wellbeing services county,"B3N Mixed income, net",251,259,315,297,284,277
+S14 Households,HVA21 Lapland wellbeing services county,"D11R Wages and salaries received, income",2307,2327,2374,2472,2565,2534
+S14 Households,HVA21 Lapland wellbeing services county,"D12R Employer's social security contributions, income",533,543,509,508,516,480
+S14 Households,HVA21 Lapland wellbeing services county,"D4OMR  Property income, (incl. holding gains and losses), income",285,266,336,316,362,288
+S14 Households,HVA21 Lapland wellbeing services county,"D4K Property income, expenditure",27,20,17,19,19,15
+S14 Households,HVA21 Lapland wellbeing services county,B5N Net national income,3674,3704,3843,3888,3994,3873
+S14 Households,HVA21 Lapland wellbeing services county,"D62R Social benefits other than social transfers in kind, income",1529,1538,1541,1521,1545,1620
+S14 Households,HVA21 Lapland wellbeing services county,"D7R Other current transfers, income",79,82,93,85,91,87
+S14 Households,HVA21 Lapland wellbeing services county,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",826,836,834,839,865,880
+S14 Households,HVA21 Lapland wellbeing services county,D61K Employer's social security contributions,782,804,783,797,819,780
+S14 Households,HVA21 Lapland wellbeing services county,"D7K Other current transfers, expenditure",145,137,143,140,145,143
+S14 Households,HVA21 Lapland wellbeing services county,"B6N Disposable income, net",3529,3549,3717,3718,3801,3777
+S14 Households,HVA90 City of Helsinki,"B2N Operating surplus, net",959,1009,1024,1042,1048,997
+S14 Households,HVA90 City of Helsinki,"B3N Mixed income, net",904,833,954,1161,1136,1171
+S14 Households,HVA90 City of Helsinki,"D11R Wages and salaries received, income",12277,12565,13048,13792,14354,14296
+S14 Households,HVA90 City of Helsinki,"D12R Employer's social security contributions, income",2839,2936,2792,2836,2879,2697
+S14 Households,HVA90 City of Helsinki,"D4OMR  Property income, (incl. holding gains and losses), income",2157,2009,2061,2372,2160,2398
+S14 Households,HVA90 City of Helsinki,"D4K Property income, expenditure",96,66,57,65,67,56
+S14 Households,HVA90 City of Helsinki,B5N Net national income,19040,19286,19822,21137,21510,21503
+S14 Households,HVA90 City of Helsinki,"D62R Social benefits other than social transfers in kind, income",5021,5134,5182,5309,5430,5732
+S14 Households,HVA90 City of Helsinki,"D7R Other current transfers, income",171,174,195,177,191,184
+S14 Households,HVA90 City of Helsinki,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",4455,4507,4686,4756,4892,5010
+S14 Households,HVA90 City of Helsinki,D61K Employer's social security contributions,4101,4269,4220,4362,4507,4325
+S14 Households,HVA90 City of Helsinki,"D7K Other current transfers, expenditure",370,355,367,362,374,371
+S14 Households,HVA90 City of Helsinki,"B6N Disposable income, net",15307,15463,15926,17142,17358,17713
+S14 Households,HVA91 Åland,"B2N Operating surplus, net",61,63,64,61,55,58
+S14 Households,HVA91 Åland,"B3N Mixed income, net",58,45,55,47,62,62
+S14 Households,HVA91 Åland,"D11R Wages and salaries received, income",510,516,520,534,557,542
+S14 Households,HVA91 Åland,"D12R Employer's social security contributions, income",118,121,112,110,113,103
+S14 Households,HVA91 Åland,"D4OMR  Property income, (incl. holding gains and losses), income",122,110,91,101,104,100
+S14 Households,HVA91 Åland,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,HVA91 Åland,B5N Net national income,862,850,839,848,886,861
+S14 Households,HVA91 Åland,"D62R Social benefits other than social transfers in kind, income",221,225,231,219,226,240
+S14 Households,HVA91 Åland,"D7R Other current transfers, income",12,12,14,13,14,13
+S14 Households,HVA91 Åland,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",173,171,170,159,176,174
+S14 Households,HVA91 Åland,D61K Employer's social security contributions,171,174,168,169,176,166
+S14 Households,HVA91 Åland,"D7K Other current transfers, expenditure",33,33,33,31,33,34
+S14 Households,HVA91 Åland,"B6N Disposable income, net",718,708,713,720,742,741
+S14 Households,SK011 Helsinki,"B2N Operating surplus, net",2466,2579,2618,2748,2871,2775
+S14 Households,SK011 Helsinki,"B3N Mixed income, net",1993,2033,2003,2145,2216,2213
+S14 Households,SK011 Helsinki,"D11R Wages and salaries received, income",29442,30063,31083,32643,33865,33855
+S14 Households,SK011 Helsinki,"D12R Employer's social security contributions, income",6807,7025,6649,6711,6794,6395
+S14 Households,SK011 Helsinki,"D4OMR  Property income, (incl. holding gains and losses), income",4338,4166,4389,4954,4558,4977
+S14 Households,SK011 Helsinki,"D4K Property income, expenditure",247,172,146,165,169,140
+S14 Households,SK011 Helsinki,B5N Net national income,44799,45695,46596,49036,50135,50075
+S14 Households,SK011 Helsinki,"D62R Social benefits other than social transfers in kind, income",11255,11532,11713,11990,12325,13070
+S14 Households,SK011 Helsinki,"D7R Other current transfers, income",489,477,546,500,542,519
+S14 Households,SK011 Helsinki,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",10329,10547,10832,10946,11279,11540
+S14 Households,SK011 Helsinki,D61K Employer's social security contributions,9834,10221,10063,10342,10634,10248
+S14 Households,SK011 Helsinki,"D7K Other current transfers, expenditure",994,947,987,977,1012,999
+S14 Households,SK011 Helsinki,"B6N Disposable income, net",35386,35989,36973,39261,40078,40876
+S14 Households,SK014 Raasepori,"B2N Operating surplus, net",67,67,67,75,82,97
+S14 Households,SK014 Raasepori,"B3N Mixed income, net",60,63,63,60,63,68
+S14 Households,SK014 Raasepori,"D11R Wages and salaries received, income",603,606,607,620,633,621
+S14 Households,SK014 Raasepori,"D12R Employer's social security contributions, income",138,141,129,127,127,117
+S14 Households,SK014 Raasepori,"D4OMR  Property income, (incl. holding gains and losses), income",113,96,100,109,105,101
+S14 Households,SK014 Raasepori,"D4K Property income, expenditure",8,6,5,5,5,4
+S14 Households,SK014 Raasepori,B5N Net national income,972,966,961,986,1005,1000
+S14 Households,SK014 Raasepori,"D62R Social benefits other than social transfers in kind, income",363,364,366,366,373,390
+S14 Households,SK014 Raasepori,"D7R Other current transfers, income",19,21,23,20,22,22
+S14 Households,SK014 Raasepori,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",237,236,235,234,238,238
+S14 Households,SK014 Raasepori,D61K Employer's social security contributions,203,207,199,199,202,191
+S14 Households,SK014 Raasepori,"D7K Other current transfers, expenditure",36,33,35,34,35,35
+S14 Households,SK014 Raasepori,"B6N Disposable income, net",879,875,881,905,925,947
+S14 Households,SK015 Porvoo,"B2N Operating surplus, net",102,105,107,110,111,107
+S14 Households,SK015 Porvoo,"B3N Mixed income, net",111,91,92,95,101,99
+S14 Households,SK015 Porvoo,"D11R Wages and salaries received, income",1027,1023,1043,1071,1103,1091
+S14 Households,SK015 Porvoo,"D12R Employer's social security contributions, income",238,240,224,221,222,207
+S14 Households,SK015 Porvoo,"D4OMR  Property income, (incl. holding gains and losses), income",119,113,138,140,139,127
+S14 Households,SK015 Porvoo,"D4K Property income, expenditure",12,9,7,8,8,7
+S14 Households,SK015 Porvoo,B5N Net national income,1585,1564,1596,1629,1669,1625
+S14 Households,SK015 Porvoo,"D62R Social benefits other than social transfers in kind, income",433,444,449,456,467,495
+S14 Households,SK015 Porvoo,"D7R Other current transfers, income",25,25,28,26,28,26
+S14 Households,SK015 Porvoo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",354,350,357,355,366,366
+S14 Households,SK015 Porvoo,D61K Employer's social security contributions,345,350,341,343,350,334
+S14 Households,SK015 Porvoo,"D7K Other current transfers, expenditure",49,46,48,47,49,47
+S14 Households,SK015 Porvoo,"B6N Disposable income, net",1295,1286,1328,1366,1400,1399
+S14 Households,SK016 Loviisa,"B2N Operating surplus, net",24,24,24,29,34,45
+S14 Households,SK016 Loviisa,"B3N Mixed income, net",31,34,35,32,38,36
+S14 Households,SK016 Loviisa,"D11R Wages and salaries received, income",243,238,239,247,251,245
+S14 Households,SK016 Loviisa,"D12R Employer's social security contributions, income",56,56,51,51,51,47
+S14 Households,SK016 Loviisa,"D4OMR  Property income, (incl. holding gains and losses), income",43,38,39,44,42,44
+S14 Households,SK016 Loviisa,"D4K Property income, expenditure",4,3,2,3,3,2
+S14 Households,SK016 Loviisa,B5N Net national income,393,386,385,400,413,414
+S14 Households,SK016 Loviisa,"D62R Social benefits other than social transfers in kind, income",150,154,154,154,156,163
+S14 Households,SK016 Loviisa,"D7R Other current transfers, income",9,9,11,9,10,10
+S14 Households,SK016 Loviisa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",88,87,86,86,87,88
+S14 Households,SK016 Loviisa,D61K Employer's social security contributions,82,82,79,80,81,76
+S14 Households,SK016 Loviisa,"D7K Other current transfers, expenditure",15,14,15,15,15,16
+S14 Households,SK016 Loviisa,"B6N Disposable income, net",367,367,370,383,397,408
+S14 Households,SK021 Åboland-Turunmaa,"B2N Operating surplus, net",37,38,38,42,46,51
+S14 Households,SK021 Åboland-Turunmaa,"B3N Mixed income, net",42,45,46,48,45,48
+S14 Households,SK021 Åboland-Turunmaa,"D11R Wages and salaries received, income",310,310,311,318,325,319
+S14 Households,SK021 Åboland-Turunmaa,"D12R Employer's social security contributions, income",72,73,67,66,66,61
+S14 Households,SK021 Åboland-Turunmaa,"D4OMR  Property income, (incl. holding gains and losses), income",56,50,54,58,64,57
+S14 Households,SK021 Åboland-Turunmaa,"D4K Property income, expenditure",5,4,3,3,3,3
+S14 Households,SK021 Åboland-Turunmaa,B5N Net national income,513,513,513,528,541,532
+S14 Households,SK021 Åboland-Turunmaa,"D62R Social benefits other than social transfers in kind, income",188,193,196,194,199,207
+S14 Households,SK021 Åboland-Turunmaa,"D7R Other current transfers, income",11,11,13,11,12,11
+S14 Households,SK021 Åboland-Turunmaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",116,118,118,120,122,122
+S14 Households,SK021 Åboland-Turunmaa,D61K Employer's social security contributions,106,107,102,103,104,99
+S14 Households,SK021 Åboland-Turunmaa,"D7K Other current transfers, expenditure",19,18,19,19,19,19
+S14 Households,SK021 Åboland-Turunmaa,"B6N Disposable income, net",471,475,482,493,506,511
+S14 Households,SK022 Salo,"B2N Operating surplus, net",111,114,112,114,112,111
+S14 Households,SK022 Salo,"B3N Mixed income, net",109,103,100,120,113,105
+S14 Households,SK022 Salo,"D11R Wages and salaries received, income",794,795,775,802,826,825
+S14 Households,SK022 Salo,"D12R Employer's social security contributions, income",184,186,167,165,167,157
+S14 Households,SK022 Salo,"D4OMR  Property income, (incl. holding gains and losses), income",145,146,139,124,142,132
+S14 Households,SK022 Salo,"D4K Property income, expenditure",13,9,8,9,9,7
+S14 Households,SK022 Salo,B5N Net national income,1329,1334,1284,1316,1351,1323
+S14 Households,SK022 Salo,"D62R Social benefits other than social transfers in kind, income",508,511,518,518,523,547
+S14 Households,SK022 Salo,"D7R Other current transfers, income",29,29,34,31,33,30
+S14 Households,SK022 Salo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",301,307,284,284,291,293
+S14 Households,SK022 Salo,D61K Employer's social security contributions,268,272,256,259,265,255
+S14 Households,SK022 Salo,"D7K Other current transfers, expenditure",51,47,49,48,50,48
+S14 Households,SK022 Salo,"B6N Disposable income, net",1246,1248,1247,1274,1301,1304
+S14 Households,SK023 Turku,"B2N Operating surplus, net",518,538,539,533,511,496
+S14 Households,SK023 Turku,"B3N Mixed income, net",392,401,404,434,424,443
+S14 Households,SK023 Turku,"D11R Wages and salaries received, income",4853,4950,5095,5366,5624,5628
+S14 Households,SK023 Turku,"D12R Employer's social security contributions, income",1125,1159,1096,1107,1135,1070
+S14 Households,SK023 Turku,"D4OMR  Property income, (incl. holding gains and losses), income",731,737,834,866,838,805
+S14 Households,SK023 Turku,"D4K Property income, expenditure",50,36,31,35,36,30
+S14 Households,SK023 Turku,B5N Net national income,7570,7751,7937,8270,8496,8413
+S14 Households,SK023 Turku,"D62R Social benefits other than social transfers in kind, income",2538,2571,2590,2618,2687,2823
+S14 Households,SK023 Turku,"D7R Other current transfers, income",121,120,138,124,134,125
+S14 Households,SK023 Turku,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1697,1738,1755,1802,1830,1853
+S14 Households,SK023 Turku,D61K Employer's social security contributions,1639,1697,1672,1718,1786,1722
+S14 Households,SK023 Turku,"D7K Other current transfers, expenditure",223,210,221,224,231,225
+S14 Households,SK023 Turku,"B6N Disposable income, net",6670,6797,7017,7268,7470,7562
+S14 Households,SK024 Vakka-Suomi,"B2N Operating surplus, net",48,50,49,53,58,73
+S14 Households,SK024 Vakka-Suomi,"B3N Mixed income, net",62,63,68,67,72,73
+S14 Households,SK024 Vakka-Suomi,"D11R Wages and salaries received, income",405,404,422,456,475,452
+S14 Households,SK024 Vakka-Suomi,"D12R Employer's social security contributions, income",94,95,91,94,96,86
+S14 Households,SK024 Vakka-Suomi,"D4OMR  Property income, (incl. holding gains and losses), income",70,67,75,66,69,65
+S14 Households,SK024 Vakka-Suomi,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,SK024 Vakka-Suomi,B5N Net national income,672,673,700,732,765,745
+S14 Households,SK024 Vakka-Suomi,"D62R Social benefits other than social transfers in kind, income",249,254,254,256,263,278
+S14 Households,SK024 Vakka-Suomi,"D7R Other current transfers, income",15,16,18,17,18,18
+S14 Households,SK024 Vakka-Suomi,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",150,151,153,154,158,156
+S14 Households,SK024 Vakka-Suomi,D61K Employer's social security contributions,138,140,140,148,152,140
+S14 Households,SK024 Vakka-Suomi,"D7K Other current transfers, expenditure",27,26,27,27,28,28
+S14 Households,SK024 Vakka-Suomi,"B6N Disposable income, net",622,627,652,675,708,717
+S14 Households,SK025 Loimaa,"B2N Operating surplus, net",51,53,53,61,69,73
+S14 Households,SK025 Loimaa,"B3N Mixed income, net",64,76,78,86,94,90
+S14 Households,SK025 Loimaa,"D11R Wages and salaries received, income",409,412,417,430,443,439
+S14 Households,SK025 Loimaa,"D12R Employer's social security contributions, income",95,97,90,89,89,84
+S14 Households,SK025 Loimaa,"D4OMR  Property income, (incl. holding gains and losses), income",81,76,76,71,75,71
+S14 Households,SK025 Loimaa,"D4K Property income, expenditure",10,7,6,7,7,5
+S14 Households,SK025 Loimaa,B5N Net national income,690,707,707,728,763,752
+S14 Households,SK025 Loimaa,"D62R Social benefits other than social transfers in kind, income",262,263,264,267,272,284
+S14 Households,SK025 Loimaa,"D7R Other current transfers, income",18,18,22,20,21,20
+S14 Households,SK025 Loimaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",149,154,151,151,156,157
+S14 Households,SK025 Loimaa,D61K Employer's social security contributions,139,142,138,138,142,136
+S14 Households,SK025 Loimaa,"D7K Other current transfers, expenditure",30,28,30,30,31,30
+S14 Households,SK025 Loimaa,"B6N Disposable income, net",651,663,674,695,728,734
+S14 Households,SK041 Rauma,"B2N Operating surplus, net",122,125,125,121,112,141
+S14 Households,SK041 Rauma,"B3N Mixed income, net",96,99,116,90,108,109
+S14 Households,SK041 Rauma,"D11R Wages and salaries received, income",1035,1071,1089,1124,1141,1138
+S14 Households,SK041 Rauma,"D12R Employer's social security contributions, income",237,249,232,230,228,215
+S14 Households,SK041 Rauma,"D4OMR  Property income, (incl. holding gains and losses), income",127,124,140,154,130,134
+S14 Households,SK041 Rauma,"D4K Property income, expenditure",13,10,8,9,9,7
+S14 Households,SK041 Rauma,B5N Net national income,1605,1658,1695,1711,1711,1730
+S14 Households,SK041 Rauma,"D62R Social benefits other than social transfers in kind, income",560,559,558,561,574,597
+S14 Households,SK041 Rauma,"D7R Other current transfers, income",31,32,37,33,36,36
+S14 Households,SK041 Rauma,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",349,371,367,364,372,386
+S14 Households,SK041 Rauma,D61K Employer's social security contributions,346,362,353,357,361,347
+S14 Households,SK041 Rauma,"D7K Other current transfers, expenditure",61,58,60,59,60,61
+S14 Households,SK041 Rauma,"B6N Disposable income, net",1441,1458,1509,1525,1527,1569
+S14 Households,SK043 Pori,"B2N Operating surplus, net",240,247,248,239,219,249
+S14 Households,SK043 Pori,"B3N Mixed income, net",192,188,207,173,194,190
+S14 Households,SK043 Pori,"D11R Wages and salaries received, income",1758,1746,1779,1848,1889,1849
+S14 Households,SK043 Pori,"D12R Employer's social security contributions, income",408,409,383,381,381,352
+S14 Households,SK043 Pori,"D4OMR  Property income, (incl. holding gains and losses), income",225,238,263,253,237,223
+S14 Households,SK043 Pori,"D4K Property income, expenditure",21,16,13,15,15,12
+S14 Households,SK043 Pori,B5N Net national income,2802,2813,2865,2878,2904,2850
+S14 Households,SK043 Pori,"D62R Social benefits other than social transfers in kind, income",1134,1151,1149,1143,1167,1215
+S14 Households,SK043 Pori,"D7R Other current transfers, income",61,63,70,65,71,67
+S14 Households,SK043 Pori,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",623,633,625,621,643,639
+S14 Households,SK043 Pori,D61K Employer's social security contributions,598,605,589,597,606,572
+S14 Households,SK043 Pori,"D7K Other current transfers, expenditure",118,112,116,113,117,115
+S14 Households,SK043 Pori,"B6N Disposable income, net",2656,2676,2754,2754,2776,2806
+S14 Households,SK044 Pohjois-Satakunta,"B2N Operating surplus, net",32,33,33,33,30,35
+S14 Households,SK044 Pohjois-Satakunta,"B3N Mixed income, net",39,42,45,48,52,49
+S14 Households,SK044 Pohjois-Satakunta,"D11R Wages and salaries received, income",220,217,216,222,225,223
+S14 Households,SK044 Pohjois-Satakunta,"D12R Employer's social security contributions, income",49,49,45,44,44,41
+S14 Households,SK044 Pohjois-Satakunta,"D4OMR  Property income, (incl. holding gains and losses), income",41,32,35,33,31,32
+S14 Households,SK044 Pohjois-Satakunta,"D4K Property income, expenditure",5,4,3,3,3,2
+S14 Households,SK044 Pohjois-Satakunta,B5N Net national income,377,369,372,377,379,378
+S14 Households,SK044 Pohjois-Satakunta,"D62R Social benefits other than social transfers in kind, income",152,153,153,153,156,161
+S14 Households,SK044 Pohjois-Satakunta,"D7R Other current transfers, income",10,11,12,11,12,11
+S14 Households,SK044 Pohjois-Satakunta,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",82,79,77,77,79,79
+S14 Households,SK044 Pohjois-Satakunta,D61K Employer's social security contributions,72,72,69,69,70,67
+S14 Households,SK044 Pohjois-Satakunta,"D7K Other current transfers, expenditure",18,17,18,17,18,18
+S14 Households,SK044 Pohjois-Satakunta,"B6N Disposable income, net",367,364,373,377,381,387
+S14 Households,SK051 Hämeenlinna,"B2N Operating surplus, net",187,193,193,186,171,186
+S14 Households,SK051 Hämeenlinna,"B3N Mixed income, net",126,137,133,137,137,132
+S14 Households,SK051 Hämeenlinna,"D11R Wages and salaries received, income",1393,1401,1415,1454,1498,1492
+S14 Households,SK051 Hämeenlinna,"D12R Employer's social security contributions, income",320,326,302,297,300,282
+S14 Households,SK051 Hämeenlinna,"D4OMR  Property income, (incl. holding gains and losses), income",174,165,219,184,194,165
+S14 Households,SK051 Hämeenlinna,"D4K Property income, expenditure",17,12,10,11,11,9
+S14 Households,SK051 Hämeenlinna,B5N Net national income,2184,2209,2251,2247,2287,2248
+S14 Households,SK051 Hämeenlinna,"D62R Social benefits other than social transfers in kind, income",769,779,791,799,819,854
+S14 Households,SK051 Hämeenlinna,"D7R Other current transfers, income",40,40,46,41,44,41
+S14 Households,SK051 Hämeenlinna,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",486,493,503,495,507,514
+S14 Households,SK051 Hämeenlinna,D61K Employer's social security contributions,467,479,463,465,475,456
+S14 Households,SK051 Hämeenlinna,"D7K Other current transfers, expenditure",74,69,72,71,74,72
+S14 Households,SK051 Hämeenlinna,"B6N Disposable income, net",1965,1986,2049,2056,2094,2100
+S14 Households,SK052 Riihimäki,"B2N Operating surplus, net",79,82,82,87,90,94
+S14 Households,SK052 Riihimäki,"B3N Mixed income, net",57,58,62,55,60,57
+S14 Households,SK052 Riihimäki,"D11R Wages and salaries received, income",706,708,714,738,757,749
+S14 Households,SK052 Riihimäki,"D12R Employer's social security contributions, income",163,166,153,152,153,142
+S14 Households,SK052 Riihimäki,"D4OMR  Property income, (incl. holding gains and losses), income",73,74,88,78,152,68
+S14 Households,SK052 Riihimäki,"D4K Property income, expenditure",8,6,5,5,6,4
+S14 Households,SK052 Riihimäki,B5N Net national income,1070,1082,1094,1105,1207,1105
+S14 Households,SK052 Riihimäki,"D62R Social benefits other than social transfers in kind, income",340,344,346,350,356,373
+S14 Households,SK052 Riihimäki,"D7R Other current transfers, income",20,20,22,20,21,20
+S14 Households,SK052 Riihimäki,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",231,236,232,233,261,238
+S14 Households,SK052 Riihimäki,D61K Employer's social security contributions,238,243,235,237,241,229
+S14 Households,SK052 Riihimäki,"D7K Other current transfers, expenditure",36,34,35,35,36,34
+S14 Households,SK052 Riihimäki,"B6N Disposable income, net",924,933,961,970,1047,997
+S14 Households,SK053 Forssa,"B2N Operating surplus, net",49,50,49,55,59,68
+S14 Households,SK053 Forssa,"B3N Mixed income, net",50,53,55,56,58,59
+S14 Households,SK053 Forssa,"D11R Wages and salaries received, income",418,421,422,433,440,436
+S14 Households,SK053 Forssa,"D12R Employer's social security contributions, income",97,99,91,89,89,83
+S14 Households,SK053 Forssa,"D4OMR  Property income, (incl. holding gains and losses), income",62,56,72,62,67,60
+S14 Households,SK053 Forssa,"D4K Property income, expenditure",7,5,4,4,5,4
+S14 Households,SK053 Forssa,B5N Net national income,670,674,685,692,708,701
+S14 Households,SK053 Forssa,"D62R Social benefits other than social transfers in kind, income",278,279,281,285,290,300
+S14 Households,SK053 Forssa,"D7R Other current transfers, income",16,16,19,17,18,17
+S14 Households,SK053 Forssa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",148,148,149,149,151,152
+S14 Households,SK053 Forssa,D61K Employer's social security contributions,142,146,140,140,141,135
+S14 Households,SK053 Forssa,"D7K Other current transfers, expenditure",28,27,28,27,28,28
+S14 Households,SK053 Forssa,"B6N Disposable income, net",646,649,669,677,695,703
+S14 Households,SK061 Luoteis-Pirkanmaa,"B2N Operating surplus, net",33,34,33,33,31,39
+S14 Households,SK061 Luoteis-Pirkanmaa,"B3N Mixed income, net",30,33,35,35,37,34
+S14 Households,SK061 Luoteis-Pirkanmaa,"D11R Wages and salaries received, income",172,168,167,171,174,170
+S14 Households,SK061 Luoteis-Pirkanmaa,"D12R Employer's social security contributions, income",40,39,36,35,35,32
+S14 Households,SK061 Luoteis-Pirkanmaa,"D4OMR  Property income, (incl. holding gains and losses), income",36,28,30,28,29,30
+S14 Households,SK061 Luoteis-Pirkanmaa,"D4K Property income, expenditure",3,2,2,2,2,2
+S14 Households,SK061 Luoteis-Pirkanmaa,B5N Net national income,307,299,299,301,305,304
+S14 Households,SK061 Luoteis-Pirkanmaa,"D62R Social benefits other than social transfers in kind, income",134,136,136,136,138,144
+S14 Households,SK061 Luoteis-Pirkanmaa,"D7R Other current transfers, income",8,8,10,9,9,9
+S14 Households,SK061 Luoteis-Pirkanmaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",65,66,65,66,68,67
+S14 Households,SK061 Luoteis-Pirkanmaa,D61K Employer's social security contributions,59,58,55,56,56,53
+S14 Households,SK061 Luoteis-Pirkanmaa,"D7K Other current transfers, expenditure",15,14,14,14,15,15
+S14 Households,SK061 Luoteis-Pirkanmaa,"B6N Disposable income, net",311,305,310,311,314,322
+S14 Households,SK063 Etelä-Pirkanmaa,"B2N Operating surplus, net",74,76,75,76,74,91
+S14 Households,SK063 Etelä-Pirkanmaa,"B3N Mixed income, net",47,49,52,49,50,50
+S14 Households,SK063 Etelä-Pirkanmaa,"D11R Wages and salaries received, income",574,584,589,614,630,622
+S14 Households,SK063 Etelä-Pirkanmaa,"D12R Employer's social security contributions, income",133,137,127,127,127,118
+S14 Households,SK063 Etelä-Pirkanmaa,"D4OMR  Property income, (incl. holding gains and losses), income",69,71,71,67,65,68
+S14 Households,SK063 Etelä-Pirkanmaa,"D4K Property income, expenditure",7,5,5,5,5,4
+S14 Households,SK063 Etelä-Pirkanmaa,B5N Net national income,889,912,909,927,940,946
+S14 Households,SK063 Etelä-Pirkanmaa,"D62R Social benefits other than social transfers in kind, income",354,354,355,356,361,377
+S14 Households,SK063 Etelä-Pirkanmaa,"D7R Other current transfers, income",19,19,22,20,22,21
+S14 Households,SK063 Etelä-Pirkanmaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",202,207,202,204,211,212
+S14 Households,SK063 Etelä-Pirkanmaa,D61K Employer's social security contributions,195,202,195,198,202,192
+S14 Households,SK063 Etelä-Pirkanmaa,"D7K Other current transfers, expenditure",37,35,37,36,37,37
+S14 Households,SK063 Etelä-Pirkanmaa,"B6N Disposable income, net",829,841,853,866,874,902
+S14 Households,SK064 Tampere,"B2N Operating surplus, net",636,655,656,651,624,597
+S14 Households,SK064 Tampere,"B3N Mixed income, net",520,551,544,511,516,531
+S14 Households,SK064 Tampere,"D11R Wages and salaries received, income",6080,6210,6359,6742,7052,7096
+S14 Households,SK064 Tampere,"D12R Employer's social security contributions, income",1408,1454,1366,1389,1422,1348
+S14 Households,SK064 Tampere,"D4OMR  Property income, (incl. holding gains and losses), income",784,733,848,923,816,903
+S14 Households,SK064 Tampere,"D4K Property income, expenditure",61,46,38,43,44,36
+S14 Households,SK064 Tampere,B5N Net national income,9366,9556,9735,10172,10385,10440
+S14 Households,SK064 Tampere,"D62R Social benefits other than social transfers in kind, income",2962,3018,3047,3087,3178,3350
+S14 Households,SK064 Tampere,"D7R Other current transfers, income",144,143,164,149,161,150
+S14 Households,SK064 Tampere,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",2087,2132,2144,2214,2261,2338
+S14 Households,SK064 Tampere,D61K Employer's social security contributions,2048,2126,2086,2159,2234,2167
+S14 Households,SK064 Tampere,"D7K Other current transfers, expenditure",299,288,297,294,305,299
+S14 Households,SK064 Tampere,"B6N Disposable income, net",8039,8170,8419,8742,8924,9136
+S14 Households,SK068 Lounais-Pirkanmaa,"B2N Operating surplus, net",41,42,42,48,53,63
+S14 Households,SK068 Lounais-Pirkanmaa,"B3N Mixed income, net",56,55,58,67,65,67
+S14 Households,SK068 Lounais-Pirkanmaa,"D11R Wages and salaries received, income",319,321,325,334,341,335
+S14 Households,SK068 Lounais-Pirkanmaa,"D12R Employer's social security contributions, income",74,75,70,69,69,64
+S14 Households,SK068 Lounais-Pirkanmaa,"D4OMR  Property income, (incl. holding gains and losses), income",60,55,56,50,48,60
+S14 Households,SK068 Lounais-Pirkanmaa,"D4K Property income, expenditure",6,5,4,4,4,3
+S14 Households,SK068 Lounais-Pirkanmaa,B5N Net national income,544,544,546,563,573,585
+S14 Households,SK068 Lounais-Pirkanmaa,"D62R Social benefits other than social transfers in kind, income",225,227,231,232,237,245
+S14 Households,SK068 Lounais-Pirkanmaa,"D7R Other current transfers, income",15,16,18,16,18,17
+S14 Households,SK068 Lounais-Pirkanmaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",121,122,122,121,122,125
+S14 Households,SK068 Lounais-Pirkanmaa,D61K Employer's social security contributions,109,111,108,108,110,104
+S14 Households,SK068 Lounais-Pirkanmaa,"D7K Other current transfers, expenditure",26,25,26,26,27,26
+S14 Households,SK068 Lounais-Pirkanmaa,"B6N Disposable income, net",528,529,539,556,569,592
+S14 Households,SK069 Ylä-Pirkanmaa,"B2N Operating surplus, net",33,34,33,39,45,53
+S14 Households,SK069 Ylä-Pirkanmaa,"B3N Mixed income, net",46,47,53,55,53,51
+S14 Households,SK069 Ylä-Pirkanmaa,"D11R Wages and salaries received, income",260,259,260,264,265,258
+S14 Households,SK069 Ylä-Pirkanmaa,"D12R Employer's social security contributions, income",60,61,56,54,53,49
+S14 Households,SK069 Ylä-Pirkanmaa,"D4OMR  Property income, (incl. holding gains and losses), income",45,41,40,55,40,40
+S14 Households,SK069 Ylä-Pirkanmaa,"D4K Property income, expenditure",4,3,2,3,3,2
+S14 Households,SK069 Ylä-Pirkanmaa,B5N Net national income,439,439,439,465,452,449
+S14 Households,SK069 Ylä-Pirkanmaa,"D62R Social benefits other than social transfers in kind, income",226,225,224,224,226,233
+S14 Households,SK069 Ylä-Pirkanmaa,"D7R Other current transfers, income",12,12,14,13,14,13
+S14 Households,SK069 Ylä-Pirkanmaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",108,108,106,111,107,105
+S14 Households,SK069 Ylä-Pirkanmaa,D61K Employer's social security contributions,89,91,87,86,86,81
+S14 Households,SK069 Ylä-Pirkanmaa,"D7K Other current transfers, expenditure",22,21,21,21,21,21
+S14 Households,SK069 Ylä-Pirkanmaa,"B6N Disposable income, net",458,458,463,484,479,488
+S14 Households,SK071 Lahti,"B2N Operating surplus, net",339,349,347,350,342,363
+S14 Households,SK071 Lahti,"B3N Mixed income, net",295,304,310,320,308,303
+S14 Households,SK071 Lahti,"D11R Wages and salaries received, income",2748,2783,2820,2917,3002,2954
+S14 Households,SK071 Lahti,"D12R Employer's social security contributions, income",637,653,607,602,606,562
+S14 Households,SK071 Lahti,"D4OMR  Property income, (incl. holding gains and losses), income",385,363,460,407,493,428
+S14 Households,SK071 Lahti,"D4K Property income, expenditure",32,24,20,22,22,17
+S14 Households,SK071 Lahti,B5N Net national income,4371,4428,4524,4575,4728,4593
+S14 Households,SK071 Lahti,"D62R Social benefits other than social transfers in kind, income",1727,1746,1767,1786,1823,1907
+S14 Households,SK071 Lahti,"D7R Other current transfers, income",82,84,94,85,92,87
+S14 Households,SK071 Lahti,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",993,1003,1011,1014,1060,1052
+S14 Households,SK071 Lahti,D61K Employer's social security contributions,932,961,932,941,962,912
+S14 Households,SK071 Lahti,"D7K Other current transfers, expenditure",155,146,152,149,154,150
+S14 Households,SK071 Lahti,"B6N Disposable income, net",4100,4147,4290,4341,4467,4473
+S14 Households,SK081 Kouvola,"B2N Operating surplus, net",157,161,160,154,140,163
+S14 Households,SK081 Kouvola,"B3N Mixed income, net",105,110,107,103,104,103
+S14 Households,SK081 Kouvola,"D11R Wages and salaries received, income",1155,1149,1158,1194,1224,1203
+S14 Households,SK081 Kouvola,"D12R Employer's social security contributions, income",264,265,245,243,243,225
+S14 Households,SK081 Kouvola,"D4OMR  Property income, (incl. holding gains and losses), income",134,128,173,169,174,131
+S14 Households,SK081 Kouvola,"D4K Property income, expenditure",12,9,7,8,8,6
+S14 Households,SK081 Kouvola,B5N Net national income,1803,1804,1837,1854,1877,1818
+S14 Households,SK081 Kouvola,"D62R Social benefits other than social transfers in kind, income",769,773,776,777,786,812
+S14 Households,SK081 Kouvola,"D7R Other current transfers, income",38,39,44,40,42,41
+S14 Households,SK081 Kouvola,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",423,428,425,422,432,436
+S14 Households,SK081 Kouvola,D61K Employer's social security contributions,389,394,381,384,388,368
+S14 Households,SK081 Kouvola,"D7K Other current transfers, expenditure",72,67,70,69,70,69
+S14 Households,SK081 Kouvola,"B6N Disposable income, net",1726,1727,1781,1797,1815,1799
+S14 Households,SK082 Kotka-Hamina,"B2N Operating surplus, net",146,149,147,147,142,169
+S14 Households,SK082 Kotka-Hamina,"B3N Mixed income, net",93,92,97,77,87,96
+S14 Households,SK082 Kotka-Hamina,"D11R Wages and salaries received, income",1126,1121,1131,1187,1225,1222
+S14 Households,SK082 Kotka-Hamina,"D12R Employer's social security contributions, income",260,261,242,244,246,231
+S14 Households,SK082 Kotka-Hamina,"D4OMR  Property income, (incl. holding gains and losses), income",130,128,163,171,164,120
+S14 Households,SK082 Kotka-Hamina,"D4K Property income, expenditure",11,8,7,8,8,6
+S14 Households,SK082 Kotka-Hamina,B5N Net national income,1743,1743,1773,1818,1856,1832
+S14 Households,SK082 Kotka-Hamina,"D62R Social benefits other than social transfers in kind, income",780,787,785,779,787,816
+S14 Households,SK082 Kotka-Hamina,"D7R Other current transfers, income",34,36,39,35,38,37
+S14 Households,SK082 Kotka-Hamina,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",417,421,423,424,438,441
+S14 Households,SK082 Kotka-Hamina,D61K Employer's social security contributions,383,389,376,385,392,377
+S14 Households,SK082 Kotka-Hamina,"D7K Other current transfers, expenditure",65,61,64,62,64,63
+S14 Households,SK082 Kotka-Hamina,"B6N Disposable income, net",1692,1694,1735,1760,1787,1804
+S14 Households,SK091 Lappeenranta,"B2N Operating surplus, net",134,138,137,146,151,197
+S14 Households,SK091 Lappeenranta,"B3N Mixed income, net",119,126,128,128,127,129
+S14 Households,SK091 Lappeenranta,"D11R Wages and salaries received, income",1232,1228,1246,1299,1335,1339
+S14 Households,SK091 Lappeenranta,"D12R Employer's social security contributions, income",286,288,267,268,270,255
+S14 Households,SK091 Lappeenranta,"D4OMR  Property income, (incl. holding gains and losses), income",149,142,198,172,182,139
+S14 Households,SK091 Lappeenranta,"D4K Property income, expenditure",13,10,8,9,9,7
+S14 Households,SK091 Lappeenranta,B5N Net national income,1907,1911,1968,2003,2057,2050
+S14 Households,SK091 Lappeenranta,"D62R Social benefits other than social transfers in kind, income",723,732,734,737,750,783
+S14 Households,SK091 Lappeenranta,"D7R Other current transfers, income",36,37,42,38,41,40
+S14 Households,SK091 Lappeenranta,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",440,441,440,438,446,457
+S14 Households,SK091 Lappeenranta,D61K Employer's social security contributions,419,426,413,421,427,412
+S14 Households,SK091 Lappeenranta,"D7K Other current transfers, expenditure",69,65,68,66,69,69
+S14 Households,SK091 Lappeenranta,"B6N Disposable income, net",1738,1749,1823,1853,1905,1934
+S14 Households,SK093 Imatra,"B2N Operating surplus, net",72,73,71,71,68,87
+S14 Households,SK093 Imatra,"B3N Mixed income, net",58,55,52,54,56,48
+S14 Households,SK093 Imatra,"D11R Wages and salaries received, income",520,514,512,526,529,509
+S14 Households,SK093 Imatra,"D12R Employer's social security contributions, income",121,120,110,108,107,97
+S14 Households,SK093 Imatra,"D4OMR  Property income, (incl. holding gains and losses), income",65,57,80,72,76,53
+S14 Households,SK093 Imatra,"D4K Property income, expenditure",5,4,3,4,4,3
+S14 Households,SK093 Imatra,B5N Net national income,830,815,822,828,832,791
+S14 Households,SK093 Imatra,"D62R Social benefits other than social transfers in kind, income",404,406,405,407,410,427
+S14 Households,SK093 Imatra,"D7R Other current transfers, income",18,20,22,20,21,21
+S14 Households,SK093 Imatra,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",199,197,191,191,193,191
+S14 Households,SK093 Imatra,D61K Employer's social security contributions,179,180,172,173,171,160
+S14 Households,SK093 Imatra,"D7K Other current transfers, expenditure",35,32,34,33,34,34
+S14 Households,SK093 Imatra,"B6N Disposable income, net",840,832,852,857,865,855
+S14 Households,SK101 Mikkeli,"B2N Operating surplus, net",140,144,143,139,129,143
+S14 Households,SK101 Mikkeli,"B3N Mixed income, net",145,159,161,164,168,146
+S14 Households,SK101 Mikkeli,"D11R Wages and salaries received, income",882,885,895,928,946,928
+S14 Households,SK101 Mikkeli,"D12R Employer's social security contributions, income",205,208,193,192,191,177
+S14 Households,SK101 Mikkeli,"D4OMR  Property income, (incl. holding gains and losses), income",143,134,162,150,163,126
+S14 Households,SK101 Mikkeli,"D4K Property income, expenditure",12,9,8,9,9,7
+S14 Households,SK101 Mikkeli,B5N Net national income,1502,1520,1546,1565,1587,1513
+S14 Households,SK101 Mikkeli,"D62R Social benefits other than social transfers in kind, income",611,617,621,625,635,660
+S14 Households,SK101 Mikkeli,"D7R Other current transfers, income",30,31,35,32,34,33
+S14 Households,SK101 Mikkeli,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",326,331,333,334,340,348
+S14 Households,SK101 Mikkeli,D61K Employer's social security contributions,301,308,298,302,304,288
+S14 Households,SK101 Mikkeli,"D7K Other current transfers, expenditure",58,55,57,55,57,56
+S14 Households,SK101 Mikkeli,"B6N Disposable income, net",1458,1475,1515,1531,1556,1515
+S14 Households,SK103 Savonlinna,"B2N Operating surplus, net",69,69,68,69,68,73
+S14 Households,SK103 Savonlinna,"B3N Mixed income, net",82,83,87,90,84,76
+S14 Households,SK103 Savonlinna,"D11R Wages and salaries received, income",485,483,481,490,492,477
+S14 Households,SK103 Savonlinna,"D12R Employer's social security contributions, income",113,113,104,101,99,91
+S14 Households,SK103 Savonlinna,"D4OMR  Property income, (incl. holding gains and losses), income",73,67,87,81,85,66
+S14 Households,SK103 Savonlinna,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,SK103 Savonlinna,B5N Net national income,815,810,823,827,823,779
+S14 Households,SK103 Savonlinna,"D62R Social benefits other than social transfers in kind, income",387,389,389,389,394,407
+S14 Households,SK103 Savonlinna,"D7R Other current transfers, income",19,20,22,20,22,20
+S14 Households,SK103 Savonlinna,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",193,196,191,188,190,191
+S14 Households,SK103 Savonlinna,D61K Employer's social security contributions,166,168,161,160,159,149
+S14 Households,SK103 Savonlinna,"D7K Other current transfers, expenditure",35,32,34,32,33,33
+S14 Households,SK103 Savonlinna,"B6N Disposable income, net",827,822,849,856,856,834
+S14 Households,SK105 Pieksämäki,"B2N Operating surplus, net",45,45,45,44,41,44
+S14 Households,SK105 Pieksämäki,"B3N Mixed income, net",52,55,57,58,57,49
+S14 Households,SK105 Pieksämäki,"D11R Wages and salaries received, income",277,275,274,281,285,282
+S14 Households,SK105 Pieksämäki,"D12R Employer's social security contributions, income",64,65,59,58,57,54
+S14 Households,SK105 Pieksämäki,"D4OMR  Property income, (incl. holding gains and losses), income",46,41,53,45,51,38
+S14 Households,SK105 Pieksämäki,"D4K Property income, expenditure",4,3,3,3,3,2
+S14 Households,SK105 Pieksämäki,B5N Net national income,481,479,485,483,488,465
+S14 Households,SK105 Pieksämäki,"D62R Social benefits other than social transfers in kind, income",226,225,226,226,228,235
+S14 Households,SK105 Pieksämäki,"D7R Other current transfers, income",11,12,13,12,13,12
+S14 Households,SK105 Pieksämäki,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",108,110,108,107,108,106
+S14 Households,SK105 Pieksämäki,D61K Employer's social security contributions,95,96,92,92,92,88
+S14 Households,SK105 Pieksämäki,"D7K Other current transfers, expenditure",21,19,20,19,20,19
+S14 Households,SK105 Pieksämäki,"B6N Disposable income, net",494,491,504,504,509,499
+S14 Households,SK111 Ylä-Savo,"B2N Operating surplus, net",94,94,92,93,91,95
+S14 Households,SK111 Ylä-Savo,"B3N Mixed income, net",104,119,119,125,135,126
+S14 Households,SK111 Ylä-Savo,"D11R Wages and salaries received, income",597,599,609,632,641,627
+S14 Households,SK111 Ylä-Savo,"D12R Employer's social security contributions, income",139,141,131,130,130,119
+S14 Households,SK111 Ylä-Savo,"D4OMR  Property income, (incl. holding gains and losses), income",97,92,110,117,115,97
+S14 Households,SK111 Ylä-Savo,"D4K Property income, expenditure",13,10,8,9,9,7
+S14 Households,SK111 Ylä-Savo,B5N Net national income,1018,1035,1053,1087,1103,1058
+S14 Households,SK111 Ylä-Savo,"D62R Social benefits other than social transfers in kind, income",454,453,450,448,456,475
+S14 Households,SK111 Ylä-Savo,"D7R Other current transfers, income",26,28,33,29,31,29
+S14 Households,SK111 Ylä-Savo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",221,224,222,231,229,225
+S14 Households,SK111 Ylä-Savo,D61K Employer's social security contributions,204,209,203,205,207,195
+S14 Households,SK111 Ylä-Savo,"D7K Other current transfers, expenditure",45,43,45,44,46,44
+S14 Households,SK111 Ylä-Savo,"B6N Disposable income, net",1027,1040,1065,1084,1109,1099
+S14 Households,SK112 Kuopio,"B2N Operating surplus, net",231,240,242,236,222,223
+S14 Households,SK112 Kuopio,"B3N Mixed income, net",202,207,218,225,227,227
+S14 Households,SK112 Kuopio,"D11R Wages and salaries received, income",1959,2007,2048,2161,2255,2268
+S14 Households,SK112 Kuopio,"D12R Employer's social security contributions, income",455,470,440,445,455,431
+S14 Households,SK112 Kuopio,"D4OMR  Property income, (incl. holding gains and losses), income",227,251,276,273,291,238
+S14 Households,SK112 Kuopio,"D4K Property income, expenditure",24,18,15,17,17,13
+S14 Households,SK112 Kuopio,B5N Net national income,3049,3157,3209,3323,3433,3374
+S14 Households,SK112 Kuopio,"D62R Social benefits other than social transfers in kind, income",1067,1084,1091,1108,1134,1188
+S14 Households,SK112 Kuopio,"D7R Other current transfers, income",51,52,60,55,59,56
+S14 Households,SK112 Kuopio,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",676,704,689,703,728,750
+S14 Households,SK112 Kuopio,D61K Employer's social security contributions,665,693,677,697,718,695
+S14 Households,SK112 Kuopio,"D7K Other current transfers, expenditure",104,100,103,101,105,103
+S14 Households,SK112 Kuopio,"B6N Disposable income, net",2721,2796,2891,2984,3076,3070
+S14 Households,SK113 Koillis-Savo,"B2N Operating surplus, net",12,12,11,13,14,15
+S14 Households,SK113 Koillis-Savo,"B3N Mixed income, net",17,17,19,23,21,20
+S14 Households,SK113 Koillis-Savo,"D11R Wages and salaries received, income",66,65,64,67,68,66
+S14 Households,SK113 Koillis-Savo,"D12R Employer's social security contributions, income",15,15,14,14,14,12
+S14 Households,SK113 Koillis-Savo,"D4OMR  Property income, (incl. holding gains and losses), income",10,10,12,11,13,9
+S14 Households,SK113 Koillis-Savo,"D4K Property income, expenditure",1,1,1,1,1,1
+S14 Households,SK113 Koillis-Savo,B5N Net national income,119,118,120,126,128,121
+S14 Households,SK113 Koillis-Savo,"D62R Social benefits other than social transfers in kind, income",70,70,69,69,69,71
+S14 Households,SK113 Koillis-Savo,"D7R Other current transfers, income",4,4,5,4,5,4
+S14 Households,SK113 Koillis-Savo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",27,27,26,27,27,27
+S14 Households,SK113 Koillis-Savo,D61K Employer's social security contributions,23,23,22,22,22,21
+S14 Households,SK113 Koillis-Savo,"D7K Other current transfers, expenditure",6,6,6,6,6,6
+S14 Households,SK113 Koillis-Savo,"B6N Disposable income, net",137,137,140,144,146,143
+S14 Households,SK114 Varkaus,"B2N Operating surplus, net",56,56,55,59,61,69
+S14 Households,SK114 Varkaus,"B3N Mixed income, net",54,55,59,62,58,53
+S14 Households,SK114 Varkaus,"D11R Wages and salaries received, income",447,446,453,463,469,462
+S14 Households,SK114 Varkaus,"D12R Employer's social security contributions, income",104,105,98,96,95,88
+S14 Households,SK114 Varkaus,"D4OMR  Property income, (incl. holding gains and losses), income",54,51,64,61,63,50
+S14 Households,SK114 Varkaus,"D4K Property income, expenditure",5,4,3,3,3,3
+S14 Households,SK114 Varkaus,B5N Net national income,709,710,725,737,744,719
+S14 Households,SK114 Varkaus,"D62R Social benefits other than social transfers in kind, income",329,331,330,332,337,350
+S14 Households,SK114 Varkaus,"D7R Other current transfers, income",16,17,19,17,18,18
+S14 Households,SK114 Varkaus,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",165,166,166,167,168,168
+S14 Households,SK114 Varkaus,D61K Employer's social security contributions,153,156,151,151,151,144
+S14 Households,SK114 Varkaus,"D7K Other current transfers, expenditure",30,28,29,28,29,28
+S14 Households,SK114 Varkaus,"B6N Disposable income, net",706,708,728,739,750,746
+S14 Households,SK115 Sisä-Savo,"B2N Operating surplus, net",19,19,18,19,26,29
+S14 Households,SK115 Sisä-Savo,"B3N Mixed income, net",35,35,37,40,38,36
+S14 Households,SK115 Sisä-Savo,"D11R Wages and salaries received, income",141,141,142,148,151,150
+S14 Households,SK115 Sisä-Savo,"D12R Employer's social security contributions, income",33,33,31,30,31,29
+S14 Households,SK115 Sisä-Savo,"D4OMR  Property income, (incl. holding gains and losses), income",23,22,25,26,26,20
+S14 Households,SK115 Sisä-Savo,"D4K Property income, expenditure",3,2,2,2,2,2
+S14 Households,SK115 Sisä-Savo,B5N Net national income,248,248,251,261,270,263
+S14 Households,SK115 Sisä-Savo,"D62R Social benefits other than social transfers in kind, income",127,127,127,127,128,133
+S14 Households,SK115 Sisä-Savo,"D7R Other current transfers, income",7,7,8,8,8,8
+S14 Households,SK115 Sisä-Savo,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",57,58,56,59,57,58
+S14 Households,SK115 Sisä-Savo,D61K Employer's social security contributions,48,49,47,48,49,47
+S14 Households,SK115 Sisä-Savo,"D7K Other current transfers, expenditure",12,11,12,12,12,12
+S14 Households,SK115 Sisä-Savo,"B6N Disposable income, net",265,264,271,277,288,288
+S14 Households,SK122 Joensuu,"B2N Operating surplus, net",200,203,203,207,206,212
+S14 Households,SK122 Joensuu,"B3N Mixed income, net",204,205,209,216,204,201
+S14 Households,SK122 Joensuu,"D11R Wages and salaries received, income",1542,1551,1582,1653,1703,1698
+S14 Households,SK122 Joensuu,"D12R Employer's social security contributions, income",358,364,340,341,344,323
+S14 Households,SK122 Joensuu,"D4OMR  Property income, (incl. holding gains and losses), income",215,198,254,246,280,233
+S14 Households,SK122 Joensuu,"D4K Property income, expenditure",21,15,13,14,14,11
+S14 Households,SK122 Joensuu,B5N Net national income,2496,2507,2575,2648,2722,2655
+S14 Households,SK122 Joensuu,"D62R Social benefits other than social transfers in kind, income",1016,1031,1035,1044,1065,1113
+S14 Households,SK122 Joensuu,"D7R Other current transfers, income",53,55,61,56,60,56
+S14 Households,SK122 Joensuu,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",541,547,542,550,561,569
+S14 Households,SK122 Joensuu,D61K Employer's social security contributions,525,538,525,535,545,523
+S14 Households,SK122 Joensuu,"D7K Other current transfers, expenditure",100,95,98,96,100,98
+S14 Households,SK122 Joensuu,"B6N Disposable income, net",2400,2414,2506,2567,2641,2634
+S14 Households,SK124 Keski-Karjala,"B2N Operating surplus, net",29,29,28,31,34,43
+S14 Households,SK124 Keski-Karjala,"B3N Mixed income, net",44,41,46,44,48,45
+S14 Households,SK124 Keski-Karjala,"D11R Wages and salaries received, income",161,160,159,164,167,159
+S14 Households,SK124 Keski-Karjala,"D12R Employer's social security contributions, income",37,38,34,34,34,30
+S14 Households,SK124 Keski-Karjala,"D4OMR  Property income, (incl. holding gains and losses), income",33,31,38,32,36,28
+S14 Households,SK124 Keski-Karjala,"D4K Property income, expenditure",4,3,2,2,3,2
+S14 Households,SK124 Keski-Karjala,B5N Net national income,300,296,303,303,316,303
+S14 Households,SK124 Keski-Karjala,"D62R Social benefits other than social transfers in kind, income",160,161,161,160,161,168
+S14 Households,SK124 Keski-Karjala,"D7R Other current transfers, income",9,10,11,9,10,10
+S14 Households,SK124 Keski-Karjala,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",71,71,69,67,68,67
+S14 Households,SK124 Keski-Karjala,D61K Employer's social security contributions,56,56,53,54,54,50
+S14 Households,SK124 Keski-Karjala,"D7K Other current transfers, expenditure",15,14,15,14,15,15
+S14 Households,SK124 Keski-Karjala,"B6N Disposable income, net",328,325,337,337,350,349
+S14 Households,SK125 Pielisen Karjala,"B2N Operating surplus, net",36,36,35,37,39,46
+S14 Households,SK125 Pielisen Karjala,"B3N Mixed income, net",33,35,38,38,40,40
+S14 Households,SK125 Pielisen Karjala,"D11R Wages and salaries received, income",205,202,203,207,210,207
+S14 Households,SK125 Pielisen Karjala,"D12R Employer's social security contributions, income",48,47,44,43,42,39
+S14 Households,SK125 Pielisen Karjala,"D4OMR  Property income, (incl. holding gains and losses), income",33,30,38,40,40,32
+S14 Households,SK125 Pielisen Karjala,"D4K Property income, expenditure",4,3,2,2,2,2
+S14 Households,SK125 Pielisen Karjala,B5N Net national income,351,348,355,363,369,362
+S14 Households,SK125 Pielisen Karjala,"D62R Social benefits other than social transfers in kind, income",214,213,211,211,211,216
+S14 Households,SK125 Pielisen Karjala,"D7R Other current transfers, income",10,11,12,11,12,12
+S14 Households,SK125 Pielisen Karjala,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",84,83,81,83,82,82
+S14 Households,SK125 Pielisen Karjala,D61K Employer's social security contributions,71,71,69,68,69,65
+S14 Households,SK125 Pielisen Karjala,"D7K Other current transfers, expenditure",18,17,17,17,17,17
+S14 Households,SK125 Pielisen Karjala,"B6N Disposable income, net",403,401,412,417,425,425
+S14 Households,SK131 Jyväskylä,"B2N Operating surplus, net",293,304,306,301,286,277
+S14 Households,SK131 Jyväskylä,"B3N Mixed income, net",224,236,252,251,242,269
+S14 Households,SK131 Jyväskylä,"D11R Wages and salaries received, income",2495,2569,2655,2786,2903,2911
+S14 Households,SK131 Jyväskylä,"D12R Employer's social security contributions, income",578,602,571,574,585,553
+S14 Households,SK131 Jyväskylä,"D4OMR  Property income, (incl. holding gains and losses), income",314,294,371,401,339,393
+S14 Households,SK131 Jyväskylä,"D4K Property income, expenditure",26,20,17,19,19,15
+S14 Households,SK131 Jyväskylä,B5N Net national income,3877,3985,4139,4294,4336,4388
+S14 Households,SK131 Jyväskylä,"D62R Social benefits other than social transfers in kind, income",1339,1355,1369,1386,1421,1490
+S14 Households,SK131 Jyväskylä,"D7R Other current transfers, income",66,65,74,68,75,70
+S14 Households,SK131 Jyväskylä,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",844,864,879,897,913,952
+S14 Households,SK131 Jyväskylä,D61K Employer's social security contributions,844,884,874,895,922,890
+S14 Households,SK131 Jyväskylä,"D7K Other current transfers, expenditure",136,131,135,132,137,135
+S14 Households,SK131 Jyväskylä,"B6N Disposable income, net",3459,3526,3694,3824,3860,3970
+S14 Households,SK132 Joutsa,"B2N Operating surplus, net",10,10,10,11,11,13
+S14 Households,SK132 Joutsa,"B3N Mixed income, net",16,17,21,21,19,15
+S14 Households,SK132 Joutsa,"D11R Wages and salaries received, income",50,51,51,53,53,52
+S14 Households,SK132 Joutsa,"D12R Employer's social security contributions, income",12,12,11,11,11,10
+S14 Households,SK132 Joutsa,"D4OMR  Property income, (incl. holding gains and losses), income",10,10,10,10,9,11
+S14 Households,SK132 Joutsa,"D4K Property income, expenditure",1,1,1,1,1,1
+S14 Households,SK132 Joutsa,B5N Net national income,96,99,102,105,102,100
+S14 Households,SK132 Joutsa,"D62R Social benefits other than social transfers in kind, income",50,50,50,50,50,51
+S14 Households,SK132 Joutsa,"D7R Other current transfers, income",3,3,3,3,3,3
+S14 Households,SK132 Joutsa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",22,22,22,23,22,22
+S14 Households,SK132 Joutsa,D61K Employer's social security contributions,17,18,17,17,17,16
+S14 Households,SK132 Joutsa,"D7K Other current transfers, expenditure",5,4,5,4,5,5
+S14 Households,SK132 Joutsa,"B6N Disposable income, net",106,108,112,113,112,112
+S14 Households,SK133 Keuruu,"B2N Operating surplus, net",23,24,23,23,22,24
+S14 Households,SK133 Keuruu,"B3N Mixed income, net",23,23,24,24,26,22
+S14 Households,SK133 Keuruu,"D11R Wages and salaries received, income",121,122,123,126,128,125
+S14 Households,SK133 Keuruu,"D12R Employer's social security contributions, income",28,29,27,26,26,24
+S14 Households,SK133 Keuruu,"D4OMR  Property income, (incl. holding gains and losses), income",23,22,21,19,18,24
+S14 Households,SK133 Keuruu,"D4K Property income, expenditure",2,1,1,1,1,1
+S14 Households,SK133 Keuruu,B5N Net national income,216,219,217,217,219,218
+S14 Households,SK133 Keuruu,"D62R Social benefits other than social transfers in kind, income",109,109,108,109,110,113
+S14 Households,SK133 Keuruu,"D7R Other current transfers, income",5,6,6,6,6,6
+S14 Households,SK133 Keuruu,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",49,50,48,49,50,50
+S14 Households,SK133 Keuruu,D61K Employer's social security contributions,41,43,41,41,42,39
+S14 Households,SK133 Keuruu,"D7K Other current transfers, expenditure",10,10,10,10,10,10
+S14 Households,SK133 Keuruu,"B6N Disposable income, net",230,232,233,232,234,238
+S14 Households,SK134 Jämsä,"B2N Operating surplus, net",36,37,36,39,40,46
+S14 Households,SK134 Jämsä,"B3N Mixed income, net",31,32,34,39,37,35
+S14 Households,SK134 Jämsä,"D11R Wages and salaries received, income",274,271,274,277,280,269
+S14 Households,SK134 Jämsä,"D12R Employer's social security contributions, income",64,64,59,57,56,51
+S14 Households,SK134 Jämsä,"D4OMR  Property income, (incl. holding gains and losses), income",32,33,34,35,34,29
+S14 Households,SK134 Jämsä,"D4K Property income, expenditure",3,2,2,2,2,1
+S14 Households,SK134 Jämsä,B5N Net national income,434,434,435,444,445,428
+S14 Households,SK134 Jämsä,"D62R Social benefits other than social transfers in kind, income",197,198,197,199,201,210
+S14 Households,SK134 Jämsä,"D7R Other current transfers, income",10,10,12,11,12,11
+S14 Households,SK134 Jämsä,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",105,105,103,103,105,102
+S14 Households,SK134 Jämsä,D61K Employer's social security contributions,94,95,91,90,90,84
+S14 Households,SK134 Jämsä,"D7K Other current transfers, expenditure",19,18,18,18,18,18
+S14 Households,SK134 Jämsä,"B6N Disposable income, net",424,425,432,443,445,444
+S14 Households,SK135 Äänekoski,"B2N Operating surplus, net",39,41,40,40,39,41
+S14 Households,SK135 Äänekoski,"B3N Mixed income, net",31,33,35,33,32,31
+S14 Households,SK135 Äänekoski,"D11R Wages and salaries received, income",265,270,277,281,285,281
+S14 Households,SK135 Äänekoski,"D12R Employer's social security contributions, income",61,63,60,58,57,53
+S14 Households,SK135 Äänekoski,"D4OMR  Property income, (incl. holding gains and losses), income",33,33,42,34,30,28
+S14 Households,SK135 Äänekoski,"D4K Property income, expenditure",3,2,2,2,2,2
+S14 Households,SK135 Äänekoski,B5N Net national income,426,438,452,444,441,433
+S14 Households,SK135 Äänekoski,"D62R Social benefits other than social transfers in kind, income",193,192,191,190,192,201
+S14 Households,SK135 Äänekoski,"D7R Other current transfers, income",9,10,11,10,11,11
+S14 Households,SK135 Äänekoski,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",100,103,102,99,99,100
+S14 Households,SK135 Äänekoski,D61K Employer's social security contributions,91,94,92,92,92,87
+S14 Households,SK135 Äänekoski,"D7K Other current transfers, expenditure",19,18,18,18,18,18
+S14 Households,SK135 Äänekoski,"B6N Disposable income, net",419,426,441,435,435,439
+S14 Households,SK138 Saarijärvi-Viitasaari,"B2N Operating surplus, net",50,52,51,56,61,63
+S14 Households,SK138 Saarijärvi-Viitasaari,"B3N Mixed income, net",64,67,70,71,77,72
+S14 Households,SK138 Saarijärvi-Viitasaari,"D11R Wages and salaries received, income",283,286,287,295,295,291
+S14 Households,SK138 Saarijärvi-Viitasaari,"D12R Employer's social security contributions, income",66,67,62,61,60,55
+S14 Households,SK138 Saarijärvi-Viitasaari,"D4OMR  Property income, (incl. holding gains and losses), income",58,49,52,56,48,47
+S14 Households,SK138 Saarijärvi-Viitasaari,"D4K Property income, expenditure",6,4,4,4,4,3
+S14 Households,SK138 Saarijärvi-Viitasaari,B5N Net national income,516,516,518,536,537,525
+S14 Households,SK138 Saarijärvi-Viitasaari,"D62R Social benefits other than social transfers in kind, income",264,264,262,258,260,271
+S14 Households,SK138 Saarijärvi-Viitasaari,"D7R Other current transfers, income",14,16,18,16,17,17
+S14 Households,SK138 Saarijärvi-Viitasaari,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",113,115,112,116,114,114
+S14 Households,SK138 Saarijärvi-Viitasaari,D61K Employer's social security contributions,97,100,96,96,96,91
+S14 Households,SK138 Saarijärvi-Viitasaari,"D7K Other current transfers, expenditure",26,25,25,25,25,25
+S14 Households,SK138 Saarijärvi-Viitasaari,"B6N Disposable income, net",558,556,565,573,580,583
+S14 Households,SK141 Suupohja,"B2N Operating surplus, net",44,44,43,43,40,45
+S14 Households,SK141 Suupohja,"B3N Mixed income, net",45,49,52,52,58,60
+S14 Households,SK141 Suupohja,"D11R Wages and salaries received, income",242,242,245,250,256,252
+S14 Households,SK141 Suupohja,"D12R Employer's social security contributions, income",56,57,53,52,52,48
+S14 Households,SK141 Suupohja,"D4OMR  Property income, (incl. holding gains and losses), income",45,46,47,42,41,40
+S14 Households,SK141 Suupohja,"D4K Property income, expenditure",6,4,3,4,4,3
+S14 Households,SK141 Suupohja,B5N Net national income,426,433,436,435,442,442
+S14 Households,SK141 Suupohja,"D62R Social benefits other than social transfers in kind, income",176,176,175,173,175,182
+S14 Households,SK141 Suupohja,"D7R Other current transfers, income",11,12,14,12,14,13
+S14 Households,SK141 Suupohja,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",93,95,92,92,94,93
+S14 Households,SK141 Suupohja,D61K Employer's social security contributions,82,84,81,81,82,78
+S14 Households,SK141 Suupohja,"D7K Other current transfers, expenditure",21,20,21,20,21,20
+S14 Households,SK141 Suupohja,"B6N Disposable income, net",417,422,431,427,434,445
+S14 Households,SK142 Seinäjoki,"B2N Operating surplus, net",230,237,234,235,229,244
+S14 Households,SK142 Seinäjoki,"B3N Mixed income, net",237,235,247,222,268,255
+S14 Households,SK142 Seinäjoki,"D11R Wages and salaries received, income",1715,1729,1762,1842,1909,1913
+S14 Households,SK142 Seinäjoki,"D12R Employer's social security contributions, income",398,405,379,380,386,364
+S14 Households,SK142 Seinäjoki,"D4OMR  Property income, (incl. holding gains and losses), income",261,254,278,269,253,270
+S14 Households,SK142 Seinäjoki,"D4K Property income, expenditure",30,23,19,21,22,17
+S14 Households,SK142 Seinäjoki,B5N Net national income,2811,2837,2883,2926,3023,3030
+S14 Households,SK142 Seinäjoki,"D62R Social benefits other than social transfers in kind, income",959,968,974,982,1006,1049
+S14 Households,SK142 Seinäjoki,"D7R Other current transfers, income",59,61,71,65,71,66
+S14 Households,SK142 Seinäjoki,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",608,613,611,619,642,643
+S14 Households,SK142 Seinäjoki,D61K Employer's social security contributions,583,598,583,595,610,589
+S14 Households,SK142 Seinäjoki,"D7K Other current transfers, expenditure",119,114,118,117,121,119
+S14 Households,SK142 Seinäjoki,"B6N Disposable income, net",2519,2542,2615,2643,2728,2795
+S14 Households,SK144 Kuusiokunnat,"B2N Operating surplus, net",33,34,33,35,36,39
+S14 Households,SK144 Kuusiokunnat,"B3N Mixed income, net",42,43,44,49,51,48
+S14 Households,SK144 Kuusiokunnat,"D11R Wages and salaries received, income",227,228,229,237,240,235
+S14 Households,SK144 Kuusiokunnat,"D12R Employer's social security contributions, income",53,54,49,49,48,45
+S14 Households,SK144 Kuusiokunnat,"D4OMR  Property income, (incl. holding gains and losses), income",40,38,43,37,38,46
+S14 Households,SK144 Kuusiokunnat,"D4K Property income, expenditure",4,3,3,3,3,2
+S14 Households,SK144 Kuusiokunnat,B5N Net national income,390,394,396,404,411,411
+S14 Households,SK144 Kuusiokunnat,"D62R Social benefits other than social transfers in kind, income",169,171,171,169,171,179
+S14 Households,SK144 Kuusiokunnat,"D7R Other current transfers, income",10,11,13,12,13,12
+S14 Households,SK144 Kuusiokunnat,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",83,86,85,85,86,88
+S14 Households,SK144 Kuusiokunnat,D61K Employer's social security contributions,78,79,76,77,77,73
+S14 Households,SK144 Kuusiokunnat,"D7K Other current transfers, expenditure",20,18,19,19,19,19
+S14 Households,SK144 Kuusiokunnat,"B6N Disposable income, net",389,392,400,405,412,422
+S14 Households,SK146 Järviseutu,"B2N Operating surplus, net",39,40,39,39,36,38
+S14 Households,SK146 Järviseutu,"B3N Mixed income, net",42,44,47,44,49,47
+S14 Households,SK146 Järviseutu,"D11R Wages and salaries received, income",214,214,215,224,228,222
+S14 Households,SK146 Järviseutu,"D12R Employer's social security contributions, income",50,50,46,46,46,42
+S14 Households,SK146 Järviseutu,"D4OMR  Property income, (incl. holding gains and losses), income",44,42,45,41,38,41
+S14 Households,SK146 Järviseutu,"D4K Property income, expenditure",4,3,2,3,3,2
+S14 Households,SK146 Järviseutu,B5N Net national income,385,386,390,391,394,389
+S14 Households,SK146 Järviseutu,"D62R Social benefits other than social transfers in kind, income",159,158,158,155,156,164
+S14 Households,SK146 Järviseutu,"D7R Other current transfers, income",10,11,12,11,12,11
+S14 Households,SK146 Järviseutu,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",81,82,81,81,82,82
+S14 Households,SK146 Järviseutu,D61K Employer's social security contributions,73,74,71,72,73,69
+S14 Households,SK146 Järviseutu,"D7K Other current transfers, expenditure",18,17,18,18,18,18
+S14 Households,SK146 Järviseutu,"B6N Disposable income, net",382,381,390,386,388,396
+S14 Households,SK152 Vaasa,"B2N Operating surplus, net",186,192,193,188,175,175
+S14 Households,SK152 Vaasa,"B3N Mixed income, net",172,166,172,170,186,185
+S14 Households,SK152 Vaasa,"D11R Wages and salaries received, income",1679,1681,1693,1755,1812,1795
+S14 Households,SK152 Vaasa,"D12R Employer's social security contributions, income",390,394,364,362,366,342
+S14 Households,SK152 Vaasa,"D4OMR  Property income, (incl. holding gains and losses), income",203,213,219,209,214,212
+S14 Households,SK152 Vaasa,"D4K Property income, expenditure",19,14,12,13,13,11
+S14 Households,SK152 Vaasa,B5N Net national income,2612,2632,2630,2671,2739,2697
+S14 Households,SK152 Vaasa,"D62R Social benefits other than social transfers in kind, income",779,798,807,805,825,864
+S14 Households,SK152 Vaasa,"D7R Other current transfers, income",45,46,52,47,51,48
+S14 Households,SK152 Vaasa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",554,570,559,561,584,592
+S14 Households,SK152 Vaasa,D61K Employer's social security contributions,568,578,558,565,576,550
+S14 Households,SK152 Vaasa,"D7K Other current transfers, expenditure",93,89,93,91,94,92
+S14 Households,SK152 Vaasa,"B6N Disposable income, net",2221,2239,2279,2306,2361,2375
+S14 Households,SK153 Sydösterbotten,"B2N Operating surplus, net",28,29,29,31,33,39
+S14 Households,SK153 Sydösterbotten,"B3N Mixed income, net",38,40,42,46,53,56
+S14 Households,SK153 Sydösterbotten,"D11R Wages and salaries received, income",205,205,207,214,220,223
+S14 Households,SK153 Sydösterbotten,"D12R Employer's social security contributions, income",48,48,45,44,45,42
+S14 Households,SK153 Sydösterbotten,"D4OMR  Property income, (incl. holding gains and losses), income",41,40,39,41,36,45
+S14 Households,SK153 Sydösterbotten,"D4K Property income, expenditure",4,3,3,3,3,2
+S14 Households,SK153 Sydösterbotten,B5N Net national income,355,358,358,374,384,403
+S14 Households,SK153 Sydösterbotten,"D62R Social benefits other than social transfers in kind, income",141,142,144,139,143,148
+S14 Households,SK153 Sydösterbotten,"D7R Other current transfers, income",8,9,10,10,11,10
+S14 Households,SK153 Sydösterbotten,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",78,80,79,81,81,83
+S14 Households,SK153 Sydösterbotten,D61K Employer's social security contributions,70,71,69,69,71,69
+S14 Households,SK153 Sydösterbotten,"D7K Other current transfers, expenditure",16,15,16,15,16,16
+S14 Households,SK153 Sydösterbotten,"B6N Disposable income, net",340,343,349,356,369,392
+S14 Households,SK154 Jakobstadsregionen,"B2N Operating surplus, net",70,73,74,77,79,85
+S14 Households,SK154 Jakobstadsregionen,"B3N Mixed income, net",84,78,86,80,95,98
+S14 Households,SK154 Jakobstadsregionen,"D11R Wages and salaries received, income",669,671,681,711,732,731
+S14 Households,SK154 Jakobstadsregionen,"D12R Employer's social security contributions, income",155,157,147,147,148,139
+S14 Households,SK154 Jakobstadsregionen,"D4OMR  Property income, (incl. holding gains and losses), income",114,115,103,127,99,134
+S14 Households,SK154 Jakobstadsregionen,"D4K Property income, expenditure",10,7,6,7,7,6
+S14 Households,SK154 Jakobstadsregionen,B5N Net national income,1082,1087,1085,1135,1147,1182
+S14 Households,SK154 Jakobstadsregionen,"D62R Social benefits other than social transfers in kind, income",341,344,345,344,352,368
+S14 Households,SK154 Jakobstadsregionen,"D7R Other current transfers, income",21,22,25,23,25,24
+S14 Households,SK154 Jakobstadsregionen,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",229,231,227,236,236,248
+S14 Households,SK154 Jakobstadsregionen,D61K Employer's social security contributions,226,231,224,228,233,224
+S14 Households,SK154 Jakobstadsregionen,"D7K Other current transfers, expenditure",44,42,43,42,44,43
+S14 Households,SK154 Jakobstadsregionen,"B6N Disposable income, net",946,949,961,995,1011,1058
+S14 Households,SK161 Kaustinen,"B2N Operating surplus, net",19,19,19,23,28,27
+S14 Households,SK161 Kaustinen,"B3N Mixed income, net",38,39,40,40,43,45
+S14 Households,SK161 Kaustinen,"D11R Wages and salaries received, income",161,160,163,168,169,166
+S14 Households,SK161 Kaustinen,"D12R Employer's social security contributions, income",37,38,35,35,34,32
+S14 Households,SK161 Kaustinen,"D4OMR  Property income, (incl. holding gains and losses), income",34,32,30,29,32,30
+S14 Households,SK161 Kaustinen,"D4K Property income, expenditure",5,4,3,3,3,2
+S14 Households,SK161 Kaustinen,B5N Net national income,283,284,284,291,303,297
+S14 Households,SK161 Kaustinen,"D62R Social benefits other than social transfers in kind, income",109,110,111,110,111,115
+S14 Households,SK161 Kaustinen,"D7R Other current transfers, income",8,8,9,8,9,8
+S14 Households,SK161 Kaustinen,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",62,61,60,61,61,62
+S14 Households,SK161 Kaustinen,D61K Employer's social security contributions,55,55,54,54,54,52
+S14 Households,SK161 Kaustinen,"D7K Other current transfers, expenditure",13,13,13,13,13,13
+S14 Households,SK161 Kaustinen,"B6N Disposable income, net",270,273,277,281,295,295
+S14 Households,SK162 Kokkola,"B2N Operating surplus, net",80,83,84,87,88,93
+S14 Households,SK162 Kokkola,"B3N Mixed income, net",80,80,79,83,80,83
+S14 Households,SK162 Kokkola,"D11R Wages and salaries received, income",710,723,737,769,797,796
+S14 Households,SK162 Kokkola,"D12R Employer's social security contributions, income",165,170,159,159,161,152
+S14 Households,SK162 Kokkola,"D4OMR  Property income, (incl. holding gains and losses), income",94,85,111,94,103,101
+S14 Households,SK162 Kokkola,"D4K Property income, expenditure",10,7,6,7,7,6
+S14 Households,SK162 Kokkola,B5N Net national income,1118,1134,1162,1184,1221,1218
+S14 Households,SK162 Kokkola,"D62R Social benefits other than social transfers in kind, income",385,389,392,391,400,419
+S14 Households,SK162 Kokkola,"D7R Other current transfers, income",22,21,24,23,25,23
+S14 Households,SK162 Kokkola,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",247,252,257,258,264,271
+S14 Households,SK162 Kokkola,D61K Employer's social security contributions,241,250,244,248,254,245
+S14 Households,SK162 Kokkola,"D7K Other current transfers, expenditure",44,42,43,42,43,43
+S14 Households,SK162 Kokkola,"B6N Disposable income, net",993,1001,1034,1050,1084,1102
+S14 Households,SK171 Oulu,"B2N Operating surplus, net",403,414,413,396,364,371
+S14 Households,SK171 Oulu,"B3N Mixed income, net",250,283,294,305,288,308
+S14 Households,SK171 Oulu,"D11R Wages and salaries received, income",3583,3688,3788,4008,4196,4262
+S14 Households,SK171 Oulu,"D12R Employer's social security contributions, income",831,863,814,826,846,810
+S14 Households,SK171 Oulu,"D4OMR  Property income, (incl. holding gains and losses), income",535,419,478,486,531,531
+S14 Households,SK171 Oulu,"D4K Property income, expenditure",36,27,23,26,26,21
+S14 Households,SK171 Oulu,B5N Net national income,5567,5641,5765,5996,6198,6261
+S14 Households,SK171 Oulu,"D62R Social benefits other than social transfers in kind, income",1689,1713,1733,1748,1792,1890
+S14 Households,SK171 Oulu,"D7R Other current transfers, income",88,84,97,89,97,91
+S14 Households,SK171 Oulu,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",1229,1230,1241,1272,1317,1364
+S14 Households,SK171 Oulu,D61K Employer's social security contributions,1208,1264,1244,1285,1327,1299
+S14 Households,SK171 Oulu,"D7K Other current transfers, expenditure",175,167,174,172,178,175
+S14 Households,SK171 Oulu,"B6N Disposable income, net",4731,4777,4935,5104,5266,5404
+S14 Households,SK173 Oulunkaari,"B2N Operating surplus, net",37,37,36,38,39,41
+S14 Households,SK173 Oulunkaari,"B3N Mixed income, net",42,44,45,50,53,51
+S14 Households,SK173 Oulunkaari,"D11R Wages and salaries received, income",237,242,246,258,268,266
+S14 Households,SK173 Oulunkaari,"D12R Employer's social security contributions, income",55,57,53,53,54,51
+S14 Households,SK173 Oulunkaari,"D4OMR  Property income, (incl. holding gains and losses), income",35,30,37,34,41,35
+S14 Households,SK173 Oulunkaari,"D4K Property income, expenditure",4,3,2,3,3,2
+S14 Households,SK173 Oulunkaari,B5N Net national income,403,406,415,430,451,442
+S14 Households,SK173 Oulunkaari,"D62R Social benefits other than social transfers in kind, income",193,193,192,190,193,201
+S14 Households,SK173 Oulunkaari,"D7R Other current transfers, income",11,11,13,12,13,12
+S14 Households,SK173 Oulunkaari,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",87,87,87,87,91,93
+S14 Households,SK173 Oulunkaari,D61K Employer's social security contributions,81,84,82,83,86,82
+S14 Households,SK173 Oulunkaari,"D7K Other current transfers, expenditure",19,18,18,18,19,19
+S14 Households,SK173 Oulunkaari,"B6N Disposable income, net",420,422,434,443,461,461
+S14 Households,SK174 Raahe,"B2N Operating surplus, net",35,35,35,44,54,68
+S14 Households,SK174 Raahe,"B3N Mixed income, net",51,46,51,49,51,56
+S14 Households,SK174 Raahe,"D11R Wages and salaries received, income",420,418,421,436,449,438
+S14 Households,SK174 Raahe,"D12R Employer's social security contributions, income",98,98,91,90,91,83
+S14 Households,SK174 Raahe,"D4OMR  Property income, (incl. holding gains and losses), income",87,56,73,93,58,49
+S14 Households,SK174 Raahe,"D4K Property income, expenditure",6,4,3,4,4,3
+S14 Households,SK174 Raahe,B5N Net national income,685,648,668,709,698,692
+S14 Households,SK174 Raahe,"D62R Social benefits other than social transfers in kind, income",271,274,275,276,283,298
+S14 Households,SK174 Raahe,"D7R Other current transfers, income",15,16,18,17,18,18
+S14 Households,SK174 Raahe,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",165,155,158,166,157,158
+S14 Households,SK174 Raahe,D61K Employer's social security contributions,144,146,141,142,144,136
+S14 Households,SK174 Raahe,"D7K Other current transfers, expenditure",30,28,29,29,30,30
+S14 Households,SK174 Raahe,"B6N Disposable income, net",633,609,633,665,668,684
+S14 Households,SK175 Haapavesi-Siikalatva,"B2N Operating surplus, net",17,17,17,20,24,29
+S14 Households,SK175 Haapavesi-Siikalatva,"B3N Mixed income, net",35,33,35,40,40,41
+S14 Households,SK175 Haapavesi-Siikalatva,"D11R Wages and salaries received, income",144,145,146,149,153,151
+S14 Households,SK175 Haapavesi-Siikalatva,"D12R Employer's social security contributions, income",33,34,31,31,31,29
+S14 Households,SK175 Haapavesi-Siikalatva,"D4OMR  Property income, (incl. holding gains and losses), income",21,21,23,22,25,23
+S14 Households,SK175 Haapavesi-Siikalatva,"D4K Property income, expenditure",3,3,2,2,2,2
+S14 Households,SK175 Haapavesi-Siikalatva,B5N Net national income,247,248,251,260,271,271
+S14 Households,SK175 Haapavesi-Siikalatva,"D62R Social benefits other than social transfers in kind, income",106,106,106,105,105,110
+S14 Households,SK175 Haapavesi-Siikalatva,"D7R Other current transfers, income",7,7,8,8,9,8
+S14 Households,SK175 Haapavesi-Siikalatva,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",53,54,53,54,55,55
+S14 Households,SK175 Haapavesi-Siikalatva,D61K Employer's social security contributions,49,50,48,48,49,47
+S14 Households,SK175 Haapavesi-Siikalatva,"D7K Other current transfers, expenditure",12,11,12,12,12,12
+S14 Households,SK175 Haapavesi-Siikalatva,"B6N Disposable income, net",246,246,252,260,268,275
+S14 Households,SK176 Nivala-Haapajärvi,"B2N Operating surplus, net",47,47,46,47,47,49
+S14 Households,SK176 Nivala-Haapajärvi,"B3N Mixed income, net",53,55,64,64,69,68
+S14 Households,SK176 Nivala-Haapajärvi,"D11R Wages and salaries received, income",295,296,304,316,323,320
+S14 Households,SK176 Nivala-Haapajärvi,"D12R Employer's social security contributions, income",68,70,65,65,65,61
+S14 Households,SK176 Nivala-Haapajärvi,"D4OMR  Property income, (incl. holding gains and losses), income",50,45,53,51,50,53
+S14 Households,SK176 Nivala-Haapajärvi,"D4K Property income, expenditure",7,5,4,5,5,4
+S14 Households,SK176 Nivala-Haapajärvi,B5N Net national income,507,509,528,538,549,548
+S14 Households,SK176 Nivala-Haapajärvi,"D62R Social benefits other than social transfers in kind, income",217,216,215,212,215,224
+S14 Households,SK176 Nivala-Haapajärvi,"D7R Other current transfers, income",14,14,16,15,16,15
+S14 Households,SK176 Nivala-Haapajärvi,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",111,110,111,113,115,118
+S14 Households,SK176 Nivala-Haapajärvi,D61K Employer's social security contributions,101,103,101,102,104,99
+S14 Households,SK176 Nivala-Haapajärvi,"D7K Other current transfers, expenditure",24,23,24,23,24,23
+S14 Households,SK176 Nivala-Haapajärvi,"B6N Disposable income, net",502,504,524,526,537,546
+S14 Households,SK177 Ylivieska,"B2N Operating surplus, net",59,60,59,65,70,80
+S14 Households,SK177 Ylivieska,"B3N Mixed income, net",75,81,85,89,95,94
+S14 Households,SK177 Ylivieska,"D11R Wages and salaries received, income",508,513,525,545,563,559
+S14 Households,SK177 Ylivieska,"D12R Employer's social security contributions, income",118,120,113,113,114,106
+S14 Households,SK177 Ylivieska,"D4OMR  Property income, (incl. holding gains and losses), income",98,89,96,85,108,93
+S14 Households,SK177 Ylivieska,"D4K Property income, expenditure",10,7,6,7,7,5
+S14 Households,SK177 Ylivieska,B5N Net national income,848,856,872,890,943,928
+S14 Households,SK177 Ylivieska,"D62R Social benefits other than social transfers in kind, income",308,311,311,312,319,334
+S14 Households,SK177 Ylivieska,"D7R Other current transfers, income",19,20,23,21,23,21
+S14 Households,SK177 Ylivieska,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",183,183,186,184,197,193
+S14 Households,SK177 Ylivieska,D61K Employer's social security contributions,173,177,174,176,180,172
+S14 Households,SK177 Ylivieska,"D7K Other current transfers, expenditure",36,34,36,35,37,36
+S14 Households,SK177 Ylivieska,"B6N Disposable income, net",783,792,811,826,871,882
+S14 Households,SK178 Koillismaa,"B2N Operating surplus, net",29,29,29,30,32,32
+S14 Households,SK178 Koillismaa,"B3N Mixed income, net",33,31,34,32,33,33
+S14 Households,SK178 Koillismaa,"D11R Wages and salaries received, income",210,214,215,224,231,225
+S14 Households,SK178 Koillismaa,"D12R Employer's social security contributions, income",49,50,46,46,47,43
+S14 Households,SK178 Koillismaa,"D4OMR  Property income, (incl. holding gains and losses), income",30,31,32,31,34,31
+S14 Households,SK178 Koillismaa,"D4K Property income, expenditure",3,2,2,2,2,2
+S14 Households,SK178 Koillismaa,B5N Net national income,348,353,354,363,374,363
+S14 Households,SK178 Koillismaa,"D62R Social benefits other than social transfers in kind, income",168,168,168,165,168,179
+S14 Households,SK178 Koillismaa,"D7R Other current transfers, income",9,9,10,9,10,9
+S14 Households,SK178 Koillismaa,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",76,76,75,75,77,78
+S14 Households,SK178 Koillismaa,D61K Employer's social security contributions,72,74,71,73,74,70
+S14 Households,SK178 Koillismaa,"D7K Other current transfers, expenditure",16,15,15,15,16,15
+S14 Households,SK178 Koillismaa,"B6N Disposable income, net",361,364,370,374,385,388
+S14 Households,SK181 Kehys-Kainuu,"B2N Operating surplus, net",42,42,41,39,36,40
+S14 Households,SK181 Kehys-Kainuu,"B3N Mixed income, net",35,38,41,46,50,46
+S14 Households,SK181 Kehys-Kainuu,"D11R Wages and salaries received, income",212,213,212,217,219,213
+S14 Households,SK181 Kehys-Kainuu,"D12R Employer's social security contributions, income",49,50,46,45,44,41
+S14 Households,SK181 Kehys-Kainuu,"D4OMR  Property income, (incl. holding gains and losses), income",34,31,43,39,49,32
+S14 Households,SK181 Kehys-Kainuu,"D4K Property income, expenditure",3,2,2,2,2,2
+S14 Households,SK181 Kehys-Kainuu,B5N Net national income,369,371,380,385,395,370
+S14 Households,SK181 Kehys-Kainuu,"D62R Social benefits other than social transfers in kind, income",213,211,210,208,210,217
+S14 Households,SK181 Kehys-Kainuu,"D7R Other current transfers, income",10,11,13,12,13,12
+S14 Households,SK181 Kehys-Kainuu,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",84,84,82,83,86,85
+S14 Households,SK181 Kehys-Kainuu,D61K Employer's social security contributions,73,75,71,71,71,67
+S14 Households,SK181 Kehys-Kainuu,"D7K Other current transfers, expenditure",19,18,18,18,18,18
+S14 Households,SK181 Kehys-Kainuu,"B6N Disposable income, net",417,418,432,433,442,429
+S14 Households,SK182 Kajaani,"B2N Operating surplus, net",82,83,82,86,89,111
+S14 Households,SK182 Kajaani,"B3N Mixed income, net",72,77,78,82,79,83
+S14 Households,SK182 Kajaani,"D11R Wages and salaries received, income",679,697,710,741,763,758
+S14 Households,SK182 Kajaani,"D12R Employer's social security contributions, income",153,160,149,150,151,142
+S14 Households,SK182 Kajaani,"D4OMR  Property income, (incl. holding gains and losses), income",84,74,111,100,122,81
+S14 Households,SK182 Kajaani,"D4K Property income, expenditure",8,6,5,6,6,4
+S14 Households,SK182 Kajaani,B5N Net national income,1062,1084,1125,1154,1198,1170
+S14 Households,SK182 Kajaani,"D62R Social benefits other than social transfers in kind, income",447,445,443,442,447,465
+S14 Households,SK182 Kajaani,"D7R Other current transfers, income",21,22,25,23,25,24
+S14 Households,SK182 Kajaani,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",239,241,241,244,251,248
+S14 Households,SK182 Kajaani,D61K Employer's social security contributions,226,237,231,236,239,230
+S14 Households,SK182 Kajaani,"D7K Other current transfers, expenditure",43,41,42,41,43,43
+S14 Households,SK182 Kajaani,"B6N Disposable income, net",1022,1032,1079,1098,1136,1139
+S14 Households,SK191 Rovaniemi,"B2N Operating surplus, net",118,121,122,115,103,112
+S14 Households,SK191 Rovaniemi,"B3N Mixed income, net",94,96,145,115,104,98
+S14 Households,SK191 Rovaniemi,"D11R Wages and salaries received, income",898,912,937,983,1032,1028
+S14 Households,SK191 Rovaniemi,"D12R Employer's social security contributions, income",207,213,201,202,208,195
+S14 Households,SK191 Rovaniemi,"D4OMR  Property income, (incl. holding gains and losses), income",104,96,121,121,139,109
+S14 Households,SK191 Rovaniemi,"D4K Property income, expenditure",10,8,6,7,7,6
+S14 Households,SK191 Rovaniemi,B5N Net national income,1411,1431,1518,1528,1578,1537
+S14 Households,SK191 Rovaniemi,"D62R Social benefits other than social transfers in kind, income",510,517,521,523,534,564
+S14 Households,SK191 Rovaniemi,"D7R Other current transfers, income",27,27,30,28,30,29
+S14 Households,SK191 Rovaniemi,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",310,316,315,320,332,339
+S14 Households,SK191 Rovaniemi,D61K Employer's social security contributions,304,314,308,316,328,315
+S14 Households,SK191 Rovaniemi,"D7K Other current transfers, expenditure",50,47,49,49,51,50
+S14 Households,SK191 Rovaniemi,"B6N Disposable income, net",1284,1298,1397,1395,1433,1426
+S14 Households,SK192 Kemi-Tornio,"B2N Operating surplus, net",107,108,106,101,90,92
+S14 Households,SK192 Kemi-Tornio,"B3N Mixed income, net",66,69,70,74,74,71
+S14 Households,SK192 Kemi-Tornio,"D11R Wages and salaries received, income",771,772,780,802,822,818
+S14 Households,SK192 Kemi-Tornio,"D12R Employer's social security contributions, income",179,181,168,166,166,156
+S14 Households,SK192 Kemi-Tornio,"D4OMR  Property income, (incl. holding gains and losses), income",85,79,107,94,109,86
+S14 Households,SK192 Kemi-Tornio,"D4K Property income, expenditure",9,6,5,6,6,5
+S14 Households,SK192 Kemi-Tornio,B5N Net national income,1199,1202,1225,1231,1255,1219
+S14 Households,SK192 Kemi-Tornio,"D62R Social benefits other than social transfers in kind, income",505,509,511,504,508,528
+S14 Households,SK192 Kemi-Tornio,"D7R Other current transfers, income",26,27,30,27,29,28
+S14 Households,SK192 Kemi-Tornio,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",281,281,281,281,287,292
+S14 Households,SK192 Kemi-Tornio,D61K Employer's social security contributions,263,268,259,261,264,254
+S14 Households,SK192 Kemi-Tornio,"D7K Other current transfers, expenditure",48,46,47,46,48,47
+S14 Households,SK192 Kemi-Tornio,"B6N Disposable income, net",1138,1143,1179,1174,1194,1183
+S14 Households,SK193 Torniolaakso,"B2N Operating surplus, net",16,16,15,16,15,17
+S14 Households,SK193 Torniolaakso,"B3N Mixed income, net",11,12,12,14,14,15
+S14 Households,SK193 Torniolaakso,"D11R Wages and salaries received, income",79,79,80,81,82,79
+S14 Households,SK193 Torniolaakso,"D12R Employer's social security contributions, income",18,18,17,17,16,15
+S14 Households,SK193 Torniolaakso,"D4OMR  Property income, (incl. holding gains and losses), income",14,16,15,14,16,13
+S14 Households,SK193 Torniolaakso,"D4K Property income, expenditure",1,1,1,1,1,1
+S14 Households,SK193 Torniolaakso,B5N Net national income,137,140,139,141,142,137
+S14 Households,SK193 Torniolaakso,"D62R Social benefits other than social transfers in kind, income",77,77,76,72,73,75
+S14 Households,SK193 Torniolaakso,"D7R Other current transfers, income",4,4,5,5,5,4
+S14 Households,SK193 Torniolaakso,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",31,32,30,31,31,32
+S14 Households,SK193 Torniolaakso,D61K Employer's social security contributions,27,27,26,26,26,25
+S14 Households,SK193 Torniolaakso,"D7K Other current transfers, expenditure",7,6,7,6,6,6
+S14 Households,SK193 Torniolaakso,"B6N Disposable income, net",154,156,157,154,155,154
+S14 Households,SK194 Itä-Lappi,"B2N Operating surplus, net",33,33,32,32,30,31
+S14 Households,SK194 Itä-Lappi,"B3N Mixed income, net",27,27,28,29,33,30
+S14 Households,SK194 Itä-Lappi,"D11R Wages and salaries received, income",161,160,160,164,167,163
+S14 Households,SK194 Itä-Lappi,"D12R Employer's social security contributions, income",37,37,35,34,34,31
+S14 Households,SK194 Itä-Lappi,"D4OMR  Property income, (incl. holding gains and losses), income",24,23,29,26,29,22
+S14 Households,SK194 Itä-Lappi,"D4K Property income, expenditure",2,2,1,1,1,1
+S14 Households,SK194 Itä-Lappi,B5N Net national income,280,279,283,284,290,275
+S14 Households,SK194 Itä-Lappi,"D62R Social benefits other than social transfers in kind, income",175,174,173,169,171,177
+S14 Households,SK194 Itä-Lappi,"D7R Other current transfers, income",8,9,10,9,9,9
+S14 Households,SK194 Itä-Lappi,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",67,68,66,66,68,68
+S14 Households,SK194 Itä-Lappi,D61K Employer's social security contributions,56,57,54,54,55,51
+S14 Households,SK194 Itä-Lappi,"D7K Other current transfers, expenditure",14,13,14,13,14,14
+S14 Households,SK194 Itä-Lappi,"B6N Disposable income, net",326,324,332,327,334,328
+S14 Households,SK196 Tunturi-Lappi,"B2N Operating surplus, net",23,22,22,23,24,28
+S14 Households,SK196 Tunturi-Lappi,"B3N Mixed income, net",26,27,28,29,29,32
+S14 Households,SK196 Tunturi-Lappi,"D11R Wages and salaries received, income",177,181,187,200,208,203
+S14 Households,SK196 Tunturi-Lappi,"D12R Employer's social security contributions, income",41,42,40,41,42,38
+S14 Households,SK196 Tunturi-Lappi,"D4OMR  Property income, (incl. holding gains and losses), income",27,26,32,30,32,29
+S14 Households,SK196 Tunturi-Lappi,"D4K Property income, expenditure",2,2,1,2,2,1
+S14 Households,SK196 Tunturi-Lappi,B5N Net national income,292,296,308,322,334,330
+S14 Households,SK196 Tunturi-Lappi,"D62R Social benefits other than social transfers in kind, income",116,116,115,113,115,124
+S14 Households,SK196 Tunturi-Lappi,"D7R Other current transfers, income",7,8,8,8,8,8
+S14 Households,SK196 Tunturi-Lappi,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",61,63,65,66,68,68
+S14 Households,SK196 Tunturi-Lappi,D61K Employer's social security contributions,60,62,62,64,66,62
+S14 Households,SK196 Tunturi-Lappi,"D7K Other current transfers, expenditure",12,11,12,12,13,13
+S14 Households,SK196 Tunturi-Lappi,"B6N Disposable income, net",282,283,294,301,310,318
+S14 Households,SK197 Pohjois-Lappi,"B2N Operating surplus, net",28,28,28,27,26,27
+S14 Households,SK197 Pohjois-Lappi,"B3N Mixed income, net",28,29,32,36,31,32
+S14 Households,SK197 Pohjois-Lappi,"D11R Wages and salaries received, income",221,223,230,242,253,244
+S14 Households,SK197 Pohjois-Lappi,"D12R Employer's social security contributions, income",50,51,48,49,50,45
+S14 Households,SK197 Pohjois-Lappi,"D4OMR  Property income, (incl. holding gains and losses), income",31,27,32,31,36,29
+S14 Households,SK197 Pohjois-Lappi,"D4K Property income, expenditure",2,2,2,2,2,1
+S14 Households,SK197 Pohjois-Lappi,B5N Net national income,356,356,369,382,394,375
+S14 Households,SK197 Pohjois-Lappi,"D62R Social benefits other than social transfers in kind, income",145,145,144,141,144,152
+S14 Households,SK197 Pohjois-Lappi,"D7R Other current transfers, income",7,8,9,9,9,8
+S14 Households,SK197 Pohjois-Lappi,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",77,77,77,76,79,80
+S14 Households,SK197 Pohjois-Lappi,D61K Employer's social security contributions,73,75,74,76,79,74
+S14 Households,SK197 Pohjois-Lappi,"D7K Other current transfers, expenditure",14,13,14,13,14,14
+S14 Households,SK197 Pohjois-Lappi,"B6N Disposable income, net",345,345,358,367,374,368
+S14 Households,SK211 Mariehamns stad,"B2N Operating surplus, net",19,20,20,19,17,18
+S14 Households,SK211 Mariehamns stad,"B3N Mixed income, net",26,12,19,13,17,16
+S14 Households,SK211 Mariehamns stad,"D11R Wages and salaries received, income",221,222,222,226,238,224
+S14 Households,SK211 Mariehamns stad,"D12R Employer's social security contributions, income",51,52,48,47,48,43
+S14 Households,SK211 Mariehamns stad,"D4OMR  Property income, (incl. holding gains and losses), income",64,55,42,45,49,43
+S14 Households,SK211 Mariehamns stad,"D4K Property income, expenditure",2,1,1,1,1,1
+S14 Households,SK211 Mariehamns stad,B5N Net national income,380,359,349,348,368,344
+S14 Households,SK211 Mariehamns stad,"D62R Social benefits other than social transfers in kind, income",99,101,104,99,102,108
+S14 Households,SK211 Mariehamns stad,"D7R Other current transfers, income",5,5,5,4,5,4
+S14 Households,SK211 Mariehamns stad,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",83,80,79,74,80,76
+S14 Households,SK211 Mariehamns stad,D61K Employer's social security contributions,74,75,72,72,75,69
+S14 Households,SK211 Mariehamns stad,"D7K Other current transfers, expenditure",13,13,13,12,12,12
+S14 Households,SK211 Mariehamns stad,"B6N Disposable income, net",314,296,295,294,308,299
+S14 Households,SK212 Ålands landsbygd,"B2N Operating surplus, net",36,38,39,37,33,35
+S14 Households,SK212 Ålands landsbygd,"B3N Mixed income, net",27,29,31,30,40,40
+S14 Households,SK212 Ålands landsbygd,"D11R Wages and salaries received, income",260,265,269,278,289,288
+S14 Households,SK212 Ålands landsbygd,"D12R Employer's social security contributions, income",60,62,58,57,58,55
+S14 Households,SK212 Ålands landsbygd,"D4OMR  Property income, (incl. holding gains and losses), income",48,46,42,49,48,47
+S14 Households,SK212 Ålands landsbygd,"D4K Property income, expenditure",4,3,3,3,3,3
+S14 Households,SK212 Ålands landsbygd,B5N Net national income,427,437,437,448,465,462
+S14 Households,SK212 Ålands landsbygd,"D62R Social benefits other than social transfers in kind, income",102,104,106,102,106,112
+S14 Households,SK212 Ålands landsbygd,"D7R Other current transfers, income",6,6,7,7,8,8
+S14 Households,SK212 Ålands landsbygd,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",79,80,80,76,85,87
+S14 Households,SK212 Ålands landsbygd,D61K Employer's social security contributions,87,89,87,88,91,88
+S14 Households,SK212 Ålands landsbygd,"D7K Other current transfers, expenditure",17,18,17,17,18,19
+S14 Households,SK212 Ålands landsbygd,"B6N Disposable income, net",352,360,367,376,384,388
+S14 Households,SK213 Ålands skärgård,"B2N Operating surplus, net",5,5,5,5,5,5
+S14 Households,SK213 Ålands skärgård,"B3N Mixed income, net",4,5,5,5,5,6
+S14 Households,SK213 Ålands skärgård,"D11R Wages and salaries received, income",29,29,29,29,30,30
+S14 Households,SK213 Ålands skärgård,"D12R Employer's social security contributions, income",7,7,6,6,6,6
+S14 Households,SK213 Ålands skärgård,"D4OMR  Property income, (incl. holding gains and losses), income",10,9,7,8,7,11
+S14 Households,SK213 Ålands skärgård,"D4K Property income, expenditure",1,0,0,0,0,0
+S14 Households,SK213 Ålands skärgård,B5N Net national income,55,55,53,52,52,56
+S14 Households,SK213 Ålands skärgård,"D62R Social benefits other than social transfers in kind, income",20,20,21,18,19,20
+S14 Households,SK213 Ålands skärgård,"D7R Other current transfers, income",1,1,1,1,1,1
+S14 Households,SK213 Ålands skärgård,"D5K Income, property and other direct taxes excl. capital taxes, expenditure",11,11,11,10,11,12
+S14 Households,SK213 Ålands skärgård,D61K Employer's social security contributions,10,10,9,9,10,9
+S14 Households,SK213 Ålands skärgård,"D7K Other current transfers, expenditure",3,2,2,2,2,2
+S14 Households,SK213 Ålands skärgård,"B6N Disposable income, net",52,53,51,50,50,54

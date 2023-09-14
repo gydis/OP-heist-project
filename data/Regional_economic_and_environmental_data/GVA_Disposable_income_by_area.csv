@@ -1,0 +1,237 @@
+"13ee -- Information per capita by area, annually, 2000-2021*",,,,,,,
+,,,,,,,
+Area,Transaction,"2015 At current prices, euro","2016 At current prices, euro","2017 At current prices, euro","2018 At current prices, euro","2019 At current prices, euro","2020 At current prices, euro"
+SA1 Helsinki-Uusimaa,B1GPH Gross value added at basic prices,44206.3,44925.1,46405.5,47497.3,49094.6,48100.1
+SA1 Helsinki-Uusimaa,"B6N Disposable income, net",23530.5,23640.4,24015.6,25199.8,25470,25721.8
+SA2 Southern Finland,B1GPH Gross value added at basic prices,29172,29975.3,31654.5,32443,33230.6,33047.2
+SA2 Southern Finland,"B6N Disposable income, net",20057.6,20284.1,20923.2,21402.8,22062.9,22203.1
+SA3 Western Finland,B1GPH Gross value added at basic prices,29715.7,30141,31266.7,32250.8,32991.7,33063.3
+SA3 Western Finland,"B6N Disposable income, net",19618.3,19815.2,20369,20835.2,21179.9,21667
+SA4 Northern and Eastern Finland,B1GPH Gross value added at basic prices,27142.6,28224.2,29536.6,30398.8,31053.3,31285.5
+SA4 Northern and Eastern Finland,"B6N Disposable income, net",18986.5,19163.5,19883.5,20361.9,21009.3,21139.2
+MK01 Uusimaa,B1GPH Gross value added at basic prices,44206.3,44925.1,46405.5,47497.3,49094.6,48100.1
+MK01 Uusimaa,"B6N Disposable income, net",23530.5,23640.4,24015.6,25199.8,25470,25721.8
+MK02 Southwest Finland,B1GPH Gross value added at basic prices,29846.1,31316,33385.8,34255.8,35112.3,34632.3
+MK02 Southwest Finland,"B6N Disposable income, net",20397.5,20655.5,21132,21763.5,22367.4,22540.7
+MK04 Satakunta,B1GPH Gross value added at basic prices,31443.8,30412.9,31542.9,32053.5,31887.2,32363.7
+MK04 Satakunta,"B6N Disposable income, net",19975.6,20227.6,20968.7,21208.9,21516.4,22040.7
+MK05 Kanta-Häme,B1GPH Gross value added at basic prices,27326.1,27894.4,28844.8,28885.3,30236.6,31059.8
+MK05 Kanta-Häme,"B6N Disposable income, net",20195.7,20473.8,21232.6,21525.3,22414.2,22259.6
+MK06 Pirkanmaa,B1GPH Gross value added at basic prices,30042.6,31205.4,32403.3,33638.6,34643,34996.2
+MK06 Pirkanmaa,"B6N Disposable income, net",20043,20200.8,20630.8,21244.3,21517.7,21944.7
+MK07 Päijät-Häme,B1GPH Gross value added at basic prices,26680.4,27490.8,27967.8,28467.8,28686.2,28658.9
+MK07 Päijät-Häme,"B6N Disposable income, net",19639.5,19885,20595.1,20897.7,21596.5,21708.2
+MK08 Kymenlaakso,B1GPH Gross value added at basic prices,30269.6,30172.5,32547,34669.9,36120.2,36356.4
+MK08 Kymenlaakso,"B6N Disposable income, net",19829.6,19974.3,20710.7,21216.1,21760.9,22013.4
+MK09 South Karelia,B1GPH Gross value added at basic prices,31718.8,31582.5,33790.5,33972,33798.5,32580.9
+MK09 South Karelia,"B6N Disposable income, net",19612.5,19724.8,20549.2,20959.9,21599.2,21897.8
+MK10 South Savo,B1GPH Gross value added at basic prices,25705.3,26555,27374.9,28220.7,28792.9,28989.2
+MK10 South Savo,"B6N Disposable income, net",19545.7,19771.6,20544,21007.4,21575.3,21331.7
+MK11 North Savo,B1GPH Gross value added at basic prices,27334.3,27970.8,29478.3,30749.3,31474.6,31340.2
+MK11 North Savo,"B6N Disposable income, net",19161.1,19542.2,20203.1,20832.4,21506.6,21502
+MK12 North Karelia,B1GPH Gross value added at basic prices,25504.4,26509.4,26994.5,29041.9,29316.2,28705
+MK12 North Karelia,"B6N Disposable income, net",18567.5,18697.2,19487.8,20003.1,20701.6,20780.2
+MK13 Central Finland,B1GPH Gross value added at basic prices,27609.3,28516.2,29554.7,30886.2,31335.8,30795.5
+MK13 Central Finland,"B6N Disposable income, net",19018.2,19264.3,19993,20545.5,20748,21214.2
+MK14 South Ostrobothnia,B1GPH Gross value added at basic prices,26237.9,26271.9,27754.4,28148.2,29641.2,29997
+MK14 South Ostrobothnia,"B6N Disposable income, net",18741.1,18976.9,19563.7,19813.3,20446.3,21058.6
+MK15 Ostrobothnia,B1GPH Gross value added at basic prices,33744.3,33554,34175.6,35091,35749.6,35069.7
+MK15 Ostrobothnia,"B6N Disposable income, net",19857.7,19970.7,20334.7,20752.8,21246,21753.3
+MK16 Central Ostrobothnia,B1GPH Gross value added at basic prices,30656.9,29983.7,32115.2,32945.5,33033.2,33538.6
+MK16 Central Ostrobothnia,"B6N Disposable income, net",18314.5,18449.2,19029.3,19400.3,20195.2,20519
+MK17 North Ostrobothnia,B1GPH Gross value added at basic prices,26818.6,28624.4,29600.8,29997.2,31136.1,31740.2
+MK17 North Ostrobothnia,"B6N Disposable income, net",18756,18786.4,19337.5,19899,20499.5,20903.1
+MK18 Kainuu,B1GPH Gross value added at basic prices,23320.9,24809.2,27007.5,28527.2,29232.9,30246.4
+MK18 Kainuu,"B6N Disposable income, net",19003.7,19321.3,20326,20823.1,21713.8,21772.9
+MK19 Lapland,B1GPH Gross value added at basic prices,30516.6,31315.5,33571.1,33560.1,33586.3,33827.5
+MK19 Lapland,"B6N Disposable income, net",19462.6,19656.7,20684.3,20783.6,21372.7,21349.3
+MA2 ÅLAND,B1GPH Gross value added at basic prices,41392.2,40510.2,41078.8,37920,39414.1,34686.4
+MA2 ÅLAND,"B6N Disposable income, net",24818.3,24343.8,24302.2,24304.5,24858.8,24688.2
+SA5 Åland,B1GPH Gross value added at basic prices,41392.2,40510.2,41078.8,37920,39414.1,34686.4
+SA5 Åland,"B6N Disposable income, net",24818.3,24343.8,24302.2,24304.5,24858.8,24688.2
+MK21 Åland,B1GPH Gross value added at basic prices,41392.2,40510.2,41078.8,37920,39414.1,34686.4
+MK21 Åland,"B6N Disposable income, net",24818.3,24343.8,24302.2,24304.5,24858.8,24688.2
+HVA01 East Uusimaa wellbeing services county,B1GPH Gross value added at basic prices,32775.1,33431.2,38705.8,41723.9,47006,40128.2
+HVA01 East Uusimaa wellbeing services county,"B6N Disposable income, net",22103.1,21990.3,22548.8,23413.6,23995.5,24228.8
+HVA02 Central Uusimaa wellbeing services county,B1GPH Gross value added at basic prices,24686,25351.2,26410,26150.7,27372,26520.6
+HVA02 Central Uusimaa wellbeing services county,"B6N Disposable income, net",21649.1,22383.6,22399.3,23261,23910.2,23892.7
+HVA03 West Uusimaa wellbeing services county,B1GPH Gross value added at basic prices,35966.8,36227.7,38970.7,38360.9,38880,39072.9
+HVA03 West Uusimaa wellbeing services county,"B6N Disposable income, net",24241.7,24427.7,24652.3,25670.2,25791,26201.5
+HVA04 Vantaa and Kerava wellbeing services county,B1GPH Gross value added at basic prices,39263.4,40676.4,41170.3,43112,43900.2,41950.8
+HVA04 Vantaa and Kerava wellbeing services county,"B6N Disposable income, net",21785.4,21725.2,22425.2,23155,23684.3,23620.3
+HVA05 Southwest Finland wellbeing services county,B1GPH Gross value added at basic prices,29846.1,31316,33385.8,34255.8,35112.3,34632.3
+HVA05 Southwest Finland wellbeing services county,"B6N Disposable income, net",20397.5,20655.5,21132,21763.5,22367.4,22540.7
+HVA06 Satakunta wellbeing services county,B1GPH Gross value added at basic prices,31443.8,30412.9,31542.9,32053.5,31887.2,32363.7
+HVA06 Satakunta wellbeing services county,"B6N Disposable income, net",19975.6,20227.6,20968.7,21208.9,21516.4,22040.7
+HVA06 Kanta-Häme wellbeing services county,B1GPH Gross value added at basic prices,27326.1,27894.4,28844.8,28885.3,30236.6,31059.8
+HVA06 Kanta-Häme wellbeing services county,"B6N Disposable income, net",20195.7,20473.8,21232.6,21525.3,22414.2,22259.6
+HVA08 Pirkanmaa wellbeing services county,B1GPH Gross value added at basic prices,30042.6,31205.4,32403.3,33638.6,34643,34996.2
+HVA08 Pirkanmaa wellbeing services county,"B6N Disposable income, net",20043,20200.8,20630.8,21244.3,21517.7,21944.7
+HVA09 Päijät-Häme wellbeing services county,B1GPH Gross value added at basic prices,26680.4,27490.8,27967.8,28467.8,28686.2,28658.9
+HVA09 Päijät-Häme wellbeing services county,"B6N Disposable income, net",19639.5,19885,20595.1,20897.7,21596.5,21708.2
+HVA10 Kymenlaakso wellbeing services county,B1GPH Gross value added at basic prices,30269.6,30172.5,32547,34669.9,36120.2,36356.4
+HVA10 Kymenlaakso wellbeing services county,"B6N Disposable income, net",19829.6,19974.3,20710.7,21216.1,21760.9,22013.4
+HVA11 South Karelia wellbeing services county,B1GPH Gross value added at basic prices,31718.8,31582.5,33790.5,33972,33798.5,32580.9
+HVA11 South Karelia wellbeing services county,"B6N Disposable income, net",19612.5,19724.8,20549.2,20959.9,21599.2,21897.8
+HVA12 South Savo wellbeing services county,B1GPH Gross value added at basic prices,25705.3,26555,27374.9,28220.7,28792.9,28989.2
+HVA12 South Savo wellbeing services county,"B6N Disposable income, net",19545.7,19771.6,20544,21007.4,21575.3,21331.7
+HVA13 North Savo wellbeing services county,B1GPH Gross value added at basic prices,27334.3,27970.8,29478.3,30749.3,31474.6,31340.2
+HVA13 North Savo wellbeing services county,"B6N Disposable income, net",19161.1,19542.2,20203.1,20832.4,21506.6,21502
+HVA14 North Karelia wellbeing services county,B1GPH Gross value added at basic prices,25504.4,26509.4,26994.5,29041.9,29316.2,28705
+HVA14 North Karelia wellbeing services county,"B6N Disposable income, net",18567.5,18697.2,19487.8,20003.1,20701.6,20780.2
+HVA15 Central Finland wellbeing services county,B1GPH Gross value added at basic prices,27609.3,28516.2,29554.7,30886.2,31335.8,30795.5
+HVA15 Central Finland wellbeing services county,"B6N Disposable income, net",19018.2,19264.3,19993,20545.5,20748,21214.2
+HVA16 South Ostrobothnia wellbeing services county,B1GPH Gross value added at basic prices,26237.9,26271.9,27754.4,28148.2,29641.2,29997
+HVA16 South Ostrobothnia wellbeing services county,"B6N Disposable income, net",18741.1,18976.9,19563.7,19813.3,20446.3,21058.6
+HVA17 Ostrobothnia wellbeing services county,B1GPH Gross value added at basic prices,33744.3,33554,34175.6,35091,35749.6,35069.7
+HVA17 Ostrobothnia wellbeing services county,"B6N Disposable income, net",19857.7,19970.7,20334.7,20752.8,21246,21753.3
+HVA18 Central Ostrobothnia wellbeing services county,B1GPH Gross value added at basic prices,30656.9,29983.7,32115.2,32945.5,33033.2,33538.6
+HVA18 Central Ostrobothnia wellbeing services county,"B6N Disposable income, net",18314.5,18449.2,19029.3,19400.3,20195.2,20519
+HVA19 North Ostrobothnia wellbeing services county,B1GPH Gross value added at basic prices,26818.6,28624.4,29600.8,29997.2,31136.1,31740.2
+HVA19 North Ostrobothnia wellbeing services county,"B6N Disposable income, net",18756,18786.4,19337.5,19899,20499.5,20903.1
+HVA20 Kainuu wellbeing services county,B1GPH Gross value added at basic prices,23320.9,24809.2,27007.5,28527.2,29232.9,30246.4
+HVA20 Kainuu wellbeing services county,"B6N Disposable income, net",19003.7,19321.3,20326,20823.1,21713.8,21772.9
+HVA21 Lapland wellbeing services county,B1GPH Gross value added at basic prices,30516.6,31315.5,33571.1,33560.1,33586.3,33827.5
+HVA21 Lapland wellbeing services county,"B6N Disposable income, net",19462.6,19656.7,20684.3,20783.6,21372.7,21349.3
+HVA90 City of Helsinki,B1GPH Gross value added at basic prices,59901.8,60653.2,61122.1,63183.6,65457,64883
+HVA90 City of Helsinki,"B6N Disposable income, net",24512.1,24478.2,24914.3,26550.2,26666.7,27026.8
+HVA91 Åland,B1GPH Gross value added at basic prices,41392.2,40510.2,41078.8,37920,39414.1,34686.4
+HVA91 Åland,"B6N Disposable income, net",24818.3,24343.8,24302.2,24304.5,24858.8,24688.2
+SK011 Helsinki,B1GPH Gross value added at basic prices,45336.5,45968.9,47184.5,48163.1,49512.5,48853.1
+SK011 Helsinki,"B6N Disposable income, net",23721.3,23839.7,24198.9,25411.7,25648,25892.1
+SK014 Raasepori,B1GPH Gross value added at basic prices,23022,25000.2,25673.6,27054,27762.4,28035.3
+SK014 Raasepori,"B6N Disposable income, net",20435.7,20555.9,20940.9,21753.8,22420.1,23082.8
+SK015 Porvoo,B1GPH Gross value added at basic prices,34663.6,37372.7,45705.1,48427,56712.9,45513.1
+SK015 Porvoo,"B6N Disposable income, net",21991.8,21770,22472,23138.7,23699.2,23660.6
+SK016 Loviisa,B1GPH Gross value added at basic prices,32509.4,29304,30949.4,34323.4,36332.8,35841.6
+SK016 Loviisa,"B6N Disposable income, net",20182.2,20360.9,20693.5,21676.2,22734.4,23494.9
+SK021 Åboland-Turunmaa,B1GPH Gross value added at basic prices,25371.3,26059.3,27416.2,28435.4,28714.3,27965.8
+SK021 Åboland-Turunmaa,"B6N Disposable income, net",21011,21272.9,21745.9,22400.2,23167.6,23522.8
+SK022 Salo,B1GPH Gross value added at basic prices,21263.6,22852.5,23509.9,23685,25387.8,25393.8
+SK022 Salo,"B6N Disposable income, net",19714.3,19884.9,20030.2,20709.1,21389.2,21604
+SK023 Turku,B1GPH Gross value added at basic prices,32886.8,34439.4,36563.6,37291.7,38028.3,37358.4
+SK023 Turku,"B6N Disposable income, net",20720.4,20960.1,21479.5,22083.3,22551.3,22659.8
+SK024 Vakka-Suomi,B1GPH Gross value added at basic prices,28095.3,28473.7,33518.7,36235.1,36699.5,35769.2
+SK024 Vakka-Suomi,"B6N Disposable income, net",20020.9,20298.3,20977.4,21577.6,22745.3,23210.5
+SK025 Loimaa,B1GPH Gross value added at basic prices,21788,23348.3,24806.8,25986.3,26744.6,27439.1
+SK025 Loimaa,"B6N Disposable income, net",18601.8,19122.8,19570.2,20341.3,21464,21791.9
+SK041 Rauma,B1GPH Gross value added at basic prices,38400,36081.5,35645.5,37576,36082.6,36543.1
+SK041 Rauma,"B6N Disposable income, net",21026.1,21385.4,22190.6,22530.9,22739.6,23494.9
+SK043 Pori,B1GPH Gross value added at basic prices,28529.8,27928.1,29475.8,29513.8,29812.6,30360
+SK043 Pori,"B6N Disposable income, net",19629.7,19852.7,20562,20719.3,21044.3,21423.5
+SK044 Pohjois-Satakunta,B1GPH Gross value added at basic prices,27245.7,27760.8,31433.9,30147.4,31450.8,31452.6
+SK044 Pohjois-Satakunta,"B6N Disposable income, net",18693.4,18763.3,19475,19921.2,20448,21150.4
+SK051 Hämeenlinna,B1GPH Gross value added at basic prices,29110.1,29966.3,30583.8,29691.9,30404.3,30873.3
+SK051 Hämeenlinna,"B6N Disposable income, net",20777.1,21027.6,21784,21952.7,22404.2,22471.5
+SK052 Riihimäki,B1GPH Gross value added at basic prices,24728.4,24841.2,26369.4,27825.5,30535.2,32201.3
+SK052 Riihimäki,"B6N Disposable income, net",19940.4,20261.5,21011.8,21421.2,23287.3,22253
+SK053 Forssa,B1GPH Gross value added at basic prices,25907.4,26263.8,27339.2,28052.3,29347.9,30021.4
+SK053 Forssa,"B6N Disposable income, net",18931.3,19215.2,19984.6,20457.9,21244.1,21658.6
+SK061 Luoteis-Pirkanmaa,B1GPH Gross value added at basic prices,22542.9,25297.6,25230.2,25916.9,26422,28448
+SK061 Luoteis-Pirkanmaa,"B6N Disposable income, net",19310.4,19197.6,19685.7,20016.8,20531.3,21321.4
+SK063 Etelä-Pirkanmaa,B1GPH Gross value added at basic prices,21039.7,21722.1,21936.2,21743.3,22461.3,24741.3
+SK063 Etelä-Pirkanmaa,"B6N Disposable income, net",19157,19469.2,19860.9,20302.6,20635.5,21503.3
+SK064 Tampere,B1GPH Gross value added at basic prices,32116.1,33425,34679.9,35910.1,37010.2,36988.9
+SK064 Tampere,"B6N Disposable income, net",20353.4,20491.8,20904.6,21490.4,21718.3,22018.2
+SK068 Lounais-Pirkanmaa,B1GPH Gross value added at basic prices,23319.4,22698,24222.9,25948,26130.4,27999.8
+SK068 Lounais-Pirkanmaa,"B6N Disposable income, net",18591.6,18779,19293.7,20113,20816.4,21949.4
+SK069 Ylä-Pirkanmaa,B1GPH Gross value added at basic prices,25206.1,25322.2,27068.5,30009.2,30314.9,30133.8
+SK069 Ylä-Pirkanmaa,"B6N Disposable income, net",18761.4,19021.9,19575.7,20830,21042.4,21824.2
+SK071 Lahti,B1GPH Gross value added at basic prices,26680.4,27490.8,27967.8,28467.8,28686.2,28658.9
+SK071 Lahti,"B6N Disposable income, net",19639.5,19885,20595.1,20897.7,21596.5,21708.2
+SK081 Kouvola,B1GPH Gross value added at basic prices,29714.3,30189.6,31715.8,34114.5,34208.6,34283.5
+SK081 Kouvola,"B6N Disposable income, net",20031.9,20177.8,21010,21472.2,21960.9,22028
+SK082 Kotka-Hamina,B1GPH Gross value added at basic prices,30824.7,30155.4,33376,35223.5,38025.9,38420.9
+SK082 Kotka-Hamina,"B6N Disposable income, net",19627.4,19771.2,20412.3,20960.8,21561.4,21998.8
+SK091 Lappeenranta,B1GPH Gross value added at basic prices,32168.9,32211.5,35116.3,36588.1,35239.1,34144.1
+SK091 Lappeenranta,"B6N Disposable income, net",19470.4,19607.7,20466.5,20876.5,21547.8,21921.7
+SK093 Imatra,B1GPH Gross value added at basic prices,30766.3,30235.1,30919.5,28245.4,30600.6,29057.1
+SK093 Imatra,"B6N Disposable income, net",19913.2,19975.7,20728.3,21142.5,21713.2,21844
+SK101 Mikkeli,B1GPH Gross value added at basic prices,27543,28372.8,29508.3,29785.5,30533.2,30524.9
+SK101 Mikkeli,"B6N Disposable income, net",19996.4,20299.1,20961.5,21373.5,21994.3,21677.8
+SK103 Savonlinna,B1GPH Gross value added at basic prices,23193.2,23870.5,24400.9,25622.8,26319.2,27028.4
+SK103 Savonlinna,"B6N Disposable income, net",18896,19021.3,19920.2,20567.5,21047.6,20813.4
+SK105 Pieksämäki,B1GPH Gross value added at basic prices,24760.4,25916.3,26263.3,28059,27852.2,27767.8
+SK105 Pieksämäki,"B6N Disposable income, net",19371.7,19537,20398.6,20682.5,21233.9,21186.5
+SK111 Ylä-Savo,B1GPH Gross value added at basic prices,23857.8,25286.7,27807.6,28540.1,28821.9,28416.7
+SK111 Ylä-Savo,"B6N Disposable income, net",18345.4,18780.9,19470.6,20082.2,20819.3,20911.2
+SK112 Kuopio,B1GPH Gross value added at basic prices,30639.6,31129.3,31818.9,33190.4,34300.6,33594.5
+SK112 Kuopio,"B6N Disposable income, net",19680.8,20098.8,20699.4,21300.1,21890.9,21762.1
+SK113 Koillis-Savo,B1GPH Gross value added at basic prices,22987.3,20890.6,24666.9,24966.5,23867.6,28389.4
+SK113 Koillis-Savo,"B6N Disposable income, net",17761.9,18005.4,18866.3,19827,20649.5,20774
+SK114 Varkaus,B1GPH Gross value added at basic prices,24244.9,23991.8,26525.1,28696.9,28591.8,29330.6
+SK114 Varkaus,"B6N Disposable income, net",19139.2,19373.9,20149.3,20787.1,21446.9,21614.9
+SK115 Sisä-Savo,B1GPH Gross value added at basic prices,19441.4,21615,22951.7,23099,24174.2,25841.5
+SK115 Sisä-Savo,"B6N Disposable income, net",18158.7,18331.1,18985.2,19687.6,20839.7,21168.5
+SK122 Joensuu,B1GPH Gross value added at basic prices,27246.4,28209.2,28890.6,30937.3,31574.6,30326.4
+SK122 Joensuu,"B6N Disposable income, net",18718.7,18819.1,19571.9,20091.4,20711.6,20704.3
+SK124 Keski-Karjala,B1GPH Gross value added at basic prices,19035.6,20135.7,19950.4,22780.7,20800.7,21969.8
+SK124 Keski-Karjala,"B6N Disposable income, net",18128.7,18283.6,19280.3,19628,20803.5,21203.2
+SK125 Pielisen Karjala,B1GPH Gross value added at basic prices,20735,21726.9,21423.2,22650.7,22308,24014.3
+SK125 Pielisen Karjala,"B6N Disposable income, net",18054,18318.5,19155.3,19773.4,20557.4,20912.7
+SK131 Jyväskylä,B1GPH Gross value added at basic prices,28765.5,29505.8,30450.6,30625.9,31397.8,31406.9
+SK131 Jyväskylä,"B6N Disposable income, net",19163.3,19350.1,20108.6,20681.7,20771.9,21265.4
+SK132 Joutsa,B1GPH Gross value added at basic prices,19309.2,21253,23283.4,23928.9,24355.5,26676.5
+SK132 Joutsa,"B6N Disposable income, net",19276.4,19781.7,20816.6,21600.9,21844.7,22201.5
+SK133 Keuruu,B1GPH Gross value added at basic prices,22415.8,23743,24625.5,25508.1,26058.4,26296.2
+SK133 Keuruu,"B6N Disposable income, net",19387,19752.8,20050.6,20249,20747.9,21421
+SK134 Jämsä,B1GPH Gross value added at basic prices,29246.2,31240.1,31022.7,32349.2,33618,30126.1
+SK134 Jämsä,"B6N Disposable income, net",19553.4,19850.4,20489.7,21349,21832.1,22182.2
+SK135 Äänekoski,B1GPH Gross value added at basic prices,31013.2,31699.6,34331.1,44680.6,40725.4,35094.3
+SK135 Äänekoski,"B6N Disposable income, net",18562.1,19144.8,20020.6,20036.9,20280,20649.7
+SK138 Saarijärvi-Viitasaari,B1GPH Gross value added at basic prices,20733.3,21530.7,22586.9,24654.6,25664.1,26550.2
+SK138 Saarijärvi-Viitasaari,"B6N Disposable income, net",17946.5,18151.5,18751.1,19428.9,19984.9,20369.1
+SK141 Suupohja,B1GPH Gross value added at basic prices,22568.3,23532.8,24637.5,24682.1,26936,26988.8
+SK141 Suupohja,"B6N Disposable income, net",18124.4,18603.4,19239.9,19419.9,20059.4,20880.7
+SK142 Seinäjoki,B1GPH Gross value added at basic prices,28260.2,27903.5,29636.2,30037,31366.3,31641.7
+SK142 Seinäjoki,"B6N Disposable income, net",19139.7,19316.7,19878.8,20101.2,20763.5,21305.9
+SK144 Kuusiokunnat,B1GPH Gross value added at basic prices,22109.6,22839.2,23929.4,25044.1,24638.4,25417.9
+SK144 Kuusiokunnat,"B6N Disposable income, net",17769,18060.2,18655.2,19268.4,19883.8,20594.7
+SK146 Järviseutu,B1GPH Gross value added at basic prices,21948.8,22549.3,23122.3,22912.7,26427,27065.7
+SK146 Järviseutu,"B6N Disposable income, net",17943.4,18197.5,18850.5,18943.3,19366.7,20087.4
+SK152 Vaasa,B1GPH Gross value added at basic prices,35140.5,34968.8,35053.6,35688.3,36670.8,35948.2
+SK152 Vaasa,"B6N Disposable income, net",20346.2,20446.1,20856.8,21124.8,21624.3,21787.5
+SK153 Sydösterbotten,B1GPH Gross value added at basic prices,27333.3,29423.9,30350.4,33316.7,33820.1,34769.7
+SK153 Sydösterbotten,"B6N Disposable income, net",19434.6,19652.6,19990.9,20501.2,21350.4,22769.4
+SK154 Jakobstadsregionen,B1GPH Gross value added at basic prices,32941.1,31893.6,33588.1,34399.1,34393.2,33244.6
+SK154 Jakobstadsregionen,"B6N Disposable income, net",18938.6,19038.2,19308.6,20023.3,20377,21325.4
+SK161 Kaustinen,B1GPH Gross value added at basic prices,19922.4,19963.1,20837.6,22328.6,23808.7,23981.7
+SK161 Kaustinen,"B6N Disposable income, net",16963.1,17273.8,17700.7,18262.1,19464.2,19779.1
+SK162 Kokkola,B1GPH Gross value added at basic prices,33873.1,32957.9,35424.4,36020.2,35661.7,36216.9
+SK162 Kokkola,"B6N Disposable income, net",18719.4,18798.1,19419.1,19729.9,20403.5,20726.3
+SK171 Oulu,B1GPH Gross value added at basic prices,29065.7,31720.9,32430.2,31821.5,33765.2,34356.4
+SK171 Oulu,"B6N Disposable income, net",19463.9,19452.8,19943.7,20468.2,20937.8,21298.6
+SK173 Oulunkaari,B1GPH Gross value added at basic prices,21317.4,21709.1,23085.1,24500.6,25264.1,25793.9
+SK173 Oulunkaari,"B6N Disposable income, net",17514.4,17764,18277.6,18791.3,19789.3,19986
+SK174 Raahe,B1GPH Gross value added at basic prices,25929.4,26155.2,27204.6,30931.1,29502,28556.8
+SK174 Raahe,"B6N Disposable income, net",18607.3,18066.3,18858.2,19928.4,20205.5,20941.7
+SK175 Haapavesi-Siikalatva,B1GPH Gross value added at basic prices,21789.1,23541.1,24531.6,26182.5,27088.6,30041
+SK175 Haapavesi-Siikalatva,"B6N Disposable income, net",16955.7,17150.9,17809.4,18763.6,19671.3,20368.1
+SK176 Nivala-Haapajärvi,B1GPH Gross value added at basic prices,23098.9,22557.1,24396.6,25936.5,24840.4,24829
+SK176 Nivala-Haapajärvi,"B6N Disposable income, net",17023.2,17210.2,18055.8,18368.7,18993,19592.6
+SK177 Ylivieska,B1GPH Gross value added at basic prices,23808.5,24703.9,25885.9,26964.4,27524.5,28787.6
+SK177 Ylivieska,"B6N Disposable income, net",17696.3,17936.4,18394.9,18848.6,19992.5,20329.9
+SK178 Koillismaa,B1GPH Gross value added at basic prices,23400.6,24120.1,25564.8,27197,26975.8,27616.9
+SK178 Koillismaa,"B6N Disposable income, net",18096.7,18385.8,18904,19323.9,20084.6,20285.6
+SK181 Kehys-Kainuu,B1GPH Gross value added at basic prices,20356.5,20680.9,22820.1,23450,24496.7,24989.8
+SK181 Kehys-Kainuu,"B6N Disposable income, net",18488,18860.9,19871.8,20319.9,21144.1,20882.6
+SK182 Kajaani,B1GPH Gross value added at basic prices,24577.8,26538.2,28739.1,30599.9,31143.8,32342.4
+SK182 Kajaani,"B6N Disposable income, net",19222.3,19514.1,20513.8,21028.5,21943.7,22127.9
+SK191 Rovaniemi,B1GPH Gross value added at basic prices,29355.8,29933.7,30555.7,31427.7,31702.6,30901.3
+SK191 Rovaniemi,"B6N Disposable income, net",19528.1,19649.6,21065.3,20941.1,21450.3,21267.9
+SK192 Kemi-Tornio,B1GPH Gross value added at basic prices,33491.9,34163.2,37181.3,35249.8,35626.8,34792.8
+SK192 Kemi-Tornio,"B6N Disposable income, net",19282.1,19522.4,20335.1,20454.5,21039.6,21090.6
+SK193 Torniolaakso,B1GPH Gross value added at basic prices,20243.8,20897.4,22636.3,24341.2,23631,24635.7
+SK193 Torniolaakso,"B6N Disposable income, net",19266.9,19902.5,20436.7,20423,21060.4,21272
+SK194 Itä-Lappi,B1GPH Gross value added at basic prices,21168.1,21694.1,23137.9,23914.7,24172.8,24464.4
+SK194 Itä-Lappi,"B6N Disposable income, net",19000.6,19226.3,20048.3,20176.1,20984.2,20870.5
+SK196 Tunturi-Lappi,B1GPH Gross value added at basic prices,34544.9,37828.7,39136.1,38503.1,41460.6,46122.1
+SK196 Tunturi-Lappi,"B6N Disposable income, net",19392.6,19558.3,20318.2,20789.1,21466.6,22025.7
+SK197 Pohjois-Lappi,B1GPH Gross value added at basic prices,35533.4,35744.5,43584.7,45563.5,40842.2,44699.3
+SK197 Pohjois-Lappi,"B6N Disposable income, net",20462.4,20556.3,21446.2,22040.6,22635.6,22465.1
+SK211 Mariehamns stad,B1GPH Gross value added at basic prices,67102.5,64559.3,65657.6,60444.7,62855.4,50391.4
+SK211 Mariehamns stad,"B6N Disposable income, net",27368.7,25681.9,25373.2,25135.7,26259.6,25591.1
+SK212 Ålands landsbygd,B1GPH Gross value added at basic prices,24872.9,25124.1,25058.7,23089.5,24202.6,24563.7
+SK212 Ålands landsbygd,"B6N Disposable income, net",22988,23288.1,23461.4,23725.4,23938,23858
+SK213 Ålands skärgård,B1GPH Gross value added at basic prices,22009.4,22158.2,24298.9,24121.5,24780.6,25422
+SK213 Ålands skärgård,"B6N Disposable income, net",24263.6,24774.7,24639.6,24040.7,24076.4,26111.8
