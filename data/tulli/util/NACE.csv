@@ -1,0 +1,386 @@
+,NACE code,meaning
+0,*A-X,ALL GROUPS
+1,A,"AGRICULTURE, FORESTRY AND FISHING"
+2,A 01,"Crop and animal production, hunting and related service activities"
+3,A 011,Growing of non-perennial crops
+4,A 012,Growing of perennial crops
+5,A 013,Plant propagation
+6,A 014,Animal production
+7,A 015,Mixed farming
+8,A 016,Support activities to agriculture and post-harvest crop activities
+9,A 017,"Hunting, trapping and related service activities"
+10,A 02,Forestry and logging
+11,A 021,Silviculture and other forestry activities
+12,A 022,Logging
+13,A 023,Gathering of wild growing non-wood products
+14,A 024,Support services to forestry
+15,A 03,Fishing and aquaculture
+16,A 031,Fishing
+17,A 032,Aquaculture
+18,B,MINING AND QUARRYING
+19,B 05,Mining of coal and lignite
+20,B 051,Mining of hard coal
+21,B 052,Mining of lignite
+22,B 06,Extraction of crude petroleum and natural gas
+23,B 061,Extraction of crude petroleum
+24,B 062,Extraction of natural gas
+25,B 07,Mining of metal ores
+26,B 071,Mining of iron ores
+27,B 072,Mining of non-ferrous metal ores
+28,B 08,Other mining and quarrying
+29,B 081,"Quarrying of stone, sand and clay"
+30,B 089,Mining and quarrying n.e.c.
+31,B 09,Mining support service activities
+32,B 091,Support activities for petroleum and natural gas extraction
+33,B 099,Support activities for other mining and quarrying
+34,C,MANUFACTURING
+35,C 10,Manufacture of food products
+36,C 101,Processing and preserving of meat and production of meat products
+37,C 102,"Processing and preserving of fish, crustaceans and molluscs"
+38,C 103,Processing and preserving of fruit and vegetables
+39,C 104,Manufacture of vegetable and animal oils and fats
+40,C 105,Manufacture of dairy products
+41,C 106,"Manufacture of grain mill products, starches and starch products"
+42,C 107,Manufacture of bakery and farinaceous products
+43,C 108,Manufacture of other food products
+44,C 109,Manufacture of prepared animal feeds
+45,C 11,Manufacture of beverages
+46,C 110,Manufacture of beverages
+47,C 12,Manufacture of tobacco products
+48,C 120,Manufacture of tobacco products
+49,C 13,Manufacture of textiles
+50,C 131,Preparation and spinning of textile fibres
+51,C 132,Weaving of textiles
+52,C 133,Finishing of textiles
+53,C 139,Manufacture of other textiles
+54,C 14,Manufacture of wearing apparel
+55,C 141,"Manufacture of wearing apparel, except fur apparel"
+56,C 142,Manufacture of articles of fur
+57,C 143,Manufacture of knitted and crocheted apparel
+58,C 15,Manufacture of leather and related products
+59,C 151,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur"
+60,C 152,Manufacture of footwear
+61,C 16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+62,C 161,Sawmilling and planing of wood
+63,C 162,"Manufacture of products of wood, cork, straw and plaiting materials"
+64,C 17,Manufacture of paper and paper products
+65,C 171,"Manufacture of pulp, paper and paperboard"
+66,C 172,Manufacture of articles of paper and paperboard
+67,C 18,Printing and reproduction of recorded media
+68,C 181,Printing and service activities related to printing
+69,C 182,Reproduction of recorded media
+70,C 19,Manufacture of coke and refined petroleum products
+71,C 191,Manufacture of coke oven products
+72,C 192,Manufacture of refined petroleum products
+73,C 20,Manufacture of chemicals and chemical products
+74,C 201,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+75,C 202,Manufacture of pesticides and other agrochemical products
+76,C 203,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
+77,C 204,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations"
+78,C 205,Manufacture of other chemical products
+79,C 206,Manufacture of man-made fibres
+80,C 21,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+81,C 211,Manufacture of basic pharmaceutical products
+82,C 212,Manufacture of pharmaceutical preparations
+83,C 22,Manufacture of rubber and plastic products
+84,C 221,Manufacture of rubber products
+85,C 222,Manufacture of plastics products
+86,C 23,Manufacture of other non-metallic mineral products
+87,C 231,Manufacture of glass and glass products
+88,C 232,Manufacture of refractory products
+89,C 233,Manufacture of clay building materials
+90,C 234,Manufacture of other porcelain and ceramic products
+91,C 235,"Manufacture of cement, lime and plaster"
+92,C 236,"Manufacture of articles of concrete, cement and plaster"
+93,C 237,"Cutting, shaping and finishing of stone"
+94,C 239,Manufacture of abrasive products and non-metallic mineral products n.e.c.
+95,C 24,Manufacture of basic metals
+96,C 241,Manufacture of basic iron and steel and of ferro-alloys
+97,C 242,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+98,C 243,Manufacture of other products of first processing of steel
+99,C 244,Manufacture of basic precious and other non-ferrous metals
+100,C 245,Casting of metals
+101,C 25,"Manufacture of fabricated metal products, except machinery and equipment"
+102,C 251,Manufacture of structural metal products
+103,C 252,"Manufacture of tanks, reservoirs and containers of metal"
+104,C 253,"Manufacture of steam generators, except central heating hot water boilers"
+105,C 254,Manufacture of weapons and ammunition
+106,C 255,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+107,C 256,Treatment and coating of metals; machining
+108,C 257,"Manufacture of cutlery, tools and general hardware"
+109,C 259,Manufacture of other fabricated metal products
+110,C 26,"Manufacture of computer, electronic and optical products"
+111,C 261,Manufacture of electronic components and boards
+112,C 262,Manufacture of computers and peripheral equipment
+113,C 263,Manufacture of communication equipment
+114,C 264,Manufacture of consumer electronics
+115,C 265,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and"
+116,C 266,"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+117,C 267,Manufacture of optical instruments and photographic equipment
+118,C 268,Manufacture of magnetic and optical media
+119,C 27,Manufacture of electrical equipment
+120,C 271,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus"
+121,C 272,Manufacture of batteries and accumulators
+122,C 273,Manufacture of wiring and wiring devices
+123,C 274,Manufacture of electric lighting equipment
+124,C 275,Manufacture of domestic appliances
+125,C 279,Manufacture of other electrical equipment
+126,C 28,Manufacture of machinery and equipment n.e.c.
+127,C 281,Manufacture of general-purpose machinery
+128,C 282,Manufacture of other general-purpose machinery
+129,C 283,Manufacture of agricultural and forestry machinery
+130,C 284,Manufacture of metal forming machinery and machine tools
+131,C 289,Manufacture of other special-purpose machinery
+132,C 29,"Manufacture of motor vehicles, trailers and semi-trailers"
+133,C 291,Manufacture of motor vehicles
+134,C 292,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+135,C 293,Manufacture of parts and accessories for motor vehicles
+136,C 30,Manufacture of other transport equipment
+137,C 301,Building of ships and boats
+138,C 302,Manufacture of railway locomotives and rolling stock
+139,C 303,Manufacture of air and spacecraft and related machinery
+140,C 304,Manufacture of military fighting vehicles
+141,C 309,Manufacture of transport equipment n.e.c.
+142,C 31,Manufacture of furniture
+143,C 310,Manufacture of furniture
+144,C 32,Other manufacturing
+145,C 321,"Manufacture of jewellery, bijouterie and related articles"
+146,C 322,Manufacture of musical instruments
+147,C 323,Manufacture of sports goods
+148,C 324,Manufacture of games and toys
+149,C 325,Manufacture of medical and dental instruments and supplies
+150,C 329,Manufacturing n.e.c.
+151,C 33,Repair and installation of machinery and equipment
+152,C 331,"Repair of fabricated metal products, machinery and equipment"
+153,C 332,Installation of industrial machinery and equipment
+154,D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY"
+155,D 35,"Electricity, gas, steam and air conditioning supply"
+156,D 351,"Electric power generation, transmission and distribution"
+157,D 352,Manufacture of gas; distribution of gaseous fuels through mains
+158,D 353,Steam and air conditioning supply
+159,E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"
+160,E 36,"Water collection, treatment and supply"
+161,E 360,"Water collection, treatment and supply"
+162,E 37,Sewerage
+163,E 370,Sewerage
+164,E 38,"Waste collection, treatment and disposal activities; materials recovery"
+165,E 381,Waste collection
+166,E 382,Waste treatment and disposal
+167,E 383,Materials recovery
+168,E 39,Remediation activities and other waste management services
+169,E 390,Remediation activities and other waste management services
+170,F,CONSTRUCTION
+171,F 41,Construction of buildings
+172,F 411,Development of building projects
+173,F 412,Construction of residential and non-residential buildings
+174,F 42,Civil engineering
+175,F 421,Construction of roads and railways
+176,F 422,Construction of utility projects
+177,F 429,Construction of other civil engineering projects
+178,F 43,Specialised construction activities
+179,F 431,Demolition and site preparation
+180,F 432,"Electrical, plumbing and other construction installation activities"
+181,F 433,Building completion and finishing
+182,F 439,Other specialised construction activities
+183,G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES
+184,G 45,Wholesale and retail trade and repair of motor vehicles and motorcycles
+185,G 451,Sale of motor vehicles
+186,G 452,Maintenance and repair of motor vehicles
+187,G 453,Sale of motor vehicle parts and accessories
+188,G 454,"Sale, maintenance and repair of motorcycles and related parts and accessories"
+189,G 46,"Wholesale trade, except of motor vehicles and motorcycles"
+190,G 461,Wholesale on a fee or contract basis
+191,G 462,Wholesale of agricultural raw materials and live animals
+192,G 463,"Wholesale of food, beverages and tobacco"
+193,G 464,Wholesale of household goods
+194,G 465,Wholesale of information and communication equipment
+195,G 466,"Wholesale of other machinery, equipment and supplies"
+196,G 467,Other specialised wholesale
+197,G 469,Non-specialised wholesale trade
+198,G 47,"Retail trade, except of motor vehicles and motorcycles"
+199,G 471,Retail sale in non-specialised stores
+200,G 472,"Retail sale of food, beverages and tobacco in specialised stores"
+201,G 473,Retail sale of automotive fuel in specialised stores
+202,G 474,Retail sale of information and communication equipment in specialised stores
+203,G 475,Retail sale of other household equipment in specialised stores
+204,G 476,Retail sale of cultural and recreation goods in specialised stores
+205,G 477,Retail sale of other goods in specialised stores
+206,G 478,Retail sale via stalls and markets
+207,G 479,"Retail trade not in stores, stalls or markets"
+208,H,TRANSPORTATION AND STORAGE
+209,H 49,Land transport and transport via pipelines
+210,H 491,"Passenger rail transport, interurban"
+211,H 492,Freight rail transport
+212,H 493,Other passenger land transport
+213,H 494,Freight transport by road and removal services
+214,H 495,Transport via pipeline
+215,H 50,Water transport
+216,H 501,Sea and coastal passenger water transport
+217,H 502,Sea and coastal freight water transport
+218,H 503,Inland passenger water transport
+219,H 504,Inland freight water transport
+220,H 51,Air transport
+221,H 511,Passenger air transport
+222,H 512,Freight air transport and space transport
+223,H 52,Warehousing and support activities for transportation
+224,H 521,Warehousing and storage
+225,H 522,Support activities for transportation
+226,H 53,Postal and courier activities
+227,H 531,Postal activities under universal service obligation
+228,H 532,Other postal and courier activities
+229,I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES
+230,I 55,Accommodation
+231,I 551,Hotels and similar accommodation
+232,I 552,Holiday and other short-stay accommodation
+233,I 553,"Camping grounds, recreational vehicle parks and trailer parks"
+234,I 559,Other accommodation
+235,I 56,Food and beverage service activities
+236,I 561,Restaurants and mobile food service activities
+237,I 562,Event catering and other food service activities
+238,I 563,Beverage serving activities
+239,J,INFORMATION AND COMMUNICATION
+240,J 58,Publishing activities
+241,J 581,"Publishing of books, periodicals and other publishing activities"
+242,J 582,Software publishing
+243,J 59,"Motion picture, video and television programme production, sound recording and music publishing activities"
+244,J 591,"Motion picture, video and television programme activities"
+245,J 592,Sound recording and music publishing activities
+246,J 60,Programming and broadcasting activities
+247,J 601,Radio broadcasting
+248,J 602,Television programming and broadcasting activities
+249,J 61,Telecommunications
+250,J 611,Wired telecommunications activities
+251,J 612,Wireless telecommunications activities
+252,J 613,Satellite telecommunications activities
+253,J 619,Other telecommunications activities
+254,J 62,"Computer programming, consultancy and related activities"
+255,J 620,"Computer programming, consultancy and related activities"
+256,J 63,Information service activities
+257,J 631,"Data processing, hosting and related activities; web portals"
+258,J 639,Other information service activities
+259,K,FINANCIAL AND INSURANCE ACTIVITIES
+260,K 64,"Financial service activities, except insurance and pension funding"
+261,K 641,Monetary intermediation
+262,K 642,Activities of holding companies
+263,K 643,"Trusts, funds and similar financial entities"
+264,K 649,"Other financial service activities, except insurance and pension funding"
+265,K 65,"Insurance, reinsurance and pension funding, except compulsory social security"
+266,K 651,Insurance
+267,K 652,Reinsurance
+268,K 653,Pension funding
+269,K 66,Activities auxiliary to financial services and insurance activities
+270,K 661,"Activities auxiliary to financial services, except insurance and pension funding"
+271,K 662,Activities auxiliary to insurance and pension funding
+272,K 663,Fund management activities
+273,L,REAL ESTATE ACTIVITIES
+274,L 68,Real estate activities
+275,L 681,Buying and selling of own real estate
+276,L 682,Renting and operating of own or leased real estate
+277,L 683,Real estate activities on a fee or contract basis
+278,M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES"
+279,M 69,Legal and accounting activities
+280,M 691,Legal activities
+281,M 692,"Accounting, bookkeeping and auditing activities; tax consultancy"
+282,M 70,Activities of head offices; management consultancy activities
+283,M 701,Activities of head offices
+284,M 702,Management consultancy activities
+285,M 71,Architectural and engineering activities; technical testing and analysis
+286,M 711,Architectural and engineering activities and related technical consultancy
+287,M 712,Technical testing and analysis
+288,M 72,Scientific research and development
+289,M 721,Research and experimental development on natural sciences and engineering
+290,M 722,Research and experimental development on social sciences and humanities
+291,M 73,Advertising and market research
+292,M 731,Advertising
+293,M 732,Market research and public opinion polling
+294,M 74,"Other professional, scientific and technical activities"
+295,M 741,Specialised design activities
+296,M 742,Photographic activities
+297,M 743,Translation and interpretation activities
+298,M 749,"Other professional, scientific and technical activities n.e.c."
+299,M 75,Veterinary activities
+300,M 750,Veterinary activities
+301,N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES
+302,N 77,Rental and leasing activities
+303,N 771,Renting and leasing of motor vehicles
+304,N 772,Renting and leasing of personal and household goods
+305,N 773,"Renting and leasing of other machinery, equipment and tangible goods"
+306,N 774,"Leasing of intellectual property and similar products, except copyrighted works"
+307,N 78,Employment activities
+308,N 781,Activities of employment placement agencies
+309,N 782,Temporary employment agency activities
+310,N 783,Other human resources provision
+311,N 79,"Travel agency, tour operator and other reservation service and related activities"
+312,N 791,Travel agency and tour operator activities
+313,N 799,Other reservation service and related activities
+314,N 80,Security and investigation activities
+315,N 801,Private security activities
+316,N 802,Security systems service activities
+317,N 803,Investigation activities
+318,N 81,Services to buildings and landscape activities
+319,N 811,Combined facilities support activities
+320,N 812,Cleaning activities
+321,N 813,Landscape service activities
+322,N 82,"Office administrative, office support and other business support activities"
+323,N 821,Office administrative and support activities
+324,N 822,Activities of call centres
+325,N 823,Organisation of conventions and trade shows
+326,N 829,Business support service activities n.e.c.
+327,O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY
+328,O 84,Public administration and defence; compulsory social security
+329,O 841,Administration of the State and the economic and social policy of the community
+330,O 842,Provision of services to the community as a whole
+331,O 843,Compulsory social security activities
+332,P,EDUCATION
+333,P 85,Education
+334,P 851,Pre-primary education
+335,P 852,Primary education
+336,P 853,Secondary education
+337,P 854,Higher education
+338,P 855,Other education
+339,P 856,Educational support activities
+340,Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES
+341,Q 86,Human health activities
+342,Q 861,Hospital activities
+343,Q 862,Medical and dental practice activities
+344,Q 869,Other human health activities
+345,Q 87,Residential care activities
+346,Q 871,Residential nursing care activities
+347,Q 872,"Residential care activities for mental retardation, mental health and substance abuse"
+348,Q 873,Residential care activities for the elderly and disabled
+349,Q 879,Other residential care activities
+350,Q 88,Social work activities without accommodation
+351,Q 881,Social work activities without accommodation for the elderly and disabled
+352,Q 889,Other social work activities without accommodation
+353,R,"ARTS, ENTERTAINMENT AND RECREATION"
+354,R 90,"Creative, arts and entertainment activities"
+355,R 900,"Creative, arts and entertainment activities"
+356,R 91,"Libraries, archives, museums and other cultural activities"
+357,R 910,"Libraries, archives, museums and other cultural activities"
+358,R 92,Gambling and betting activities
+359,R 920,Gambling and betting activities
+360,R 93,Sports activities and amusement and recreation activities
+361,R 931,Sports activities
+362,R 932,Amusement and recreation activities
+363,S,OTHER SERVICE ACTIVITIES
+364,S 94,Activities of membership organisations
+365,S 941,"Activities of business, employers and professional membership organisations"
+366,S 942,Activities of trade unions
+367,S 949,Activities of other membership organisations
+368,S 95,Repair of computers and personal and household goods
+369,S 951,Repair of computers and communication equipment
+370,S 952,Repair of personal and household goods
+371,S 96,Other personal service activities
+372,S 960,Other personal service activities
+373,T,ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE
+374,T 97,Activities of households as employers of domestic personnel
+375,T 970,Activities of households as employers of domestic personnel
+376,T 98,Undifferentiated goods- and services-producing activities of private households for own use
+377,T 981,Undifferentiated goods-producing activities of private households for own use
+378,T 982,Undifferentiated service-producing activities of private households for own use
+379,U,ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES
+380,U 99,Activities of extraterritorial organisations and bodies
+381,U 990,Activities of extraterritorial organisations and bodies
+382,X,INDUSTRY UNKNOWN
+383,X 00,Industry unknown
+384,X 000,Industry unknown
