@@ -10,7 +10,7 @@ You can find descriptions of country codes and NACE in .csv tables in util folde
 
 Command for loading Country-industry breakdown table:
 ```
-df = pd.read_csv("final.csv", index_col=[0,1,2,3])
+df = pd.read_csv("international_trade_country_NACE_breakdown.csv", index_col=[0,1,2,3])
 ```
 This way the data frame will have a multi-dimensional index
 
