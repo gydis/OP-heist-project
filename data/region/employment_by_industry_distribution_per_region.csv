@@ -1,0 +1,1825 @@
+Time,Area,Industry,Employment
+201512,MK01 Uusimaa,"A Agriculture, forestry and fishing (01-03)",0.007495532022726667
+201512,MK01 Uusimaa,B Mining and quarrying (05-09),0.0004383894638079344
+201512,MK01 Uusimaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008964948558823632
+201512,MK01 Uusimaa,F Construction (41-43),0.07151083158306147
+201512,MK01 Uusimaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.13346175747784567
+201512,MK01 Uusimaa,H Transportation and storage (49-53),0.06400138243449963
+201512,MK01 Uusimaa,I Accommodation and food service activities (55-56),0.0351801745903436
+201512,MK01 Uusimaa,J Information and communication (58-63),0.06954271803787082
+201512,MK01 Uusimaa,K Financial and insurance activities (64-66),0.02972118198149718
+201512,MK01 Uusimaa,"M Professional, scientific and technical activities (69-75)",0.08489214807357984
+201512,MK01 Uusimaa,N Administrative and support service activities (77-82),0.07906435163010135
+201512,MK01 Uusimaa,O Public administration and defence; compulsory social security (84),0.06162735271911645
+201512,MK01 Uusimaa,P Education (85),0.05951310935265649
+201512,MK01 Uusimaa,Q Human health and social work activities (86-88),0.1320224947143916
+201512,MK01 Uusimaa,"R, S Other service activities (90-96)",0.057264333769789864
+201512,MK01 Uusimaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.002767188520226803
+201512,MK02 Southwest Finland,"A Agriculture, forestry and fishing (01-03)",0.044571596383116786
+201512,MK02 Southwest Finland,B Mining and quarrying (05-09),0.0016199241193438833
+201512,MK02 Southwest Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.005821306265127581
+201512,MK02 Southwest Finland,F Construction (41-43),0.08059832986770618
+201512,MK02 Southwest Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11448884762766375
+201512,MK02 Southwest Finland,H Transportation and storage (49-53),0.05928827544393973
+201512,MK02 Southwest Finland,I Accommodation and food service activities (55-56),0.03563359400533343
+201512,MK02 Southwest Finland,J Information and communication (58-63),0.024890939319158208
+201512,MK02 Southwest Finland,K Financial and insurance activities (64-66),0.015763472132094863
+201512,MK02 Southwest Finland,"M Professional, scientific and technical activities (69-75)",0.0541253593910601
+201512,MK02 Southwest Finland,N Administrative and support service activities (77-82),0.06303967866768345
+201512,MK02 Southwest Finland,O Public administration and defence; compulsory social security (84),0.05295067757352419
+201512,MK02 Southwest Finland,P Education (85),0.06706106924465116
+201512,MK02 Southwest Finland,Q Human health and social work activities (86-88),0.16990730434205978
+201512,MK02 Southwest Finland,"R, S Other service activities (90-96)",0.04264379194869293
+201512,MK02 Southwest Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004878718838959649
+201512,MK04 Satakunta,"A Agriculture, forestry and fishing (01-03)",0.049229165847327644
+201512,MK04 Satakunta,B Mining and quarrying (05-09),0.0031560939159161524
+201512,MK04 Satakunta,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01977228929877689
+201512,MK04 Satakunta,F Construction (41-43),0.08039682227553388
+201512,MK04 Satakunta,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09826169032917764
+201512,MK04 Satakunta,H Transportation and storage (49-53),0.06118496086836827
+201512,MK04 Satakunta,I Accommodation and food service activities (55-56),0.02713650843591458
+201512,MK04 Satakunta,J Information and communication (58-63),0.014630117591536556
+201512,MK04 Satakunta,K Financial and insurance activities (64-66),0.0100483737759075
+201512,MK04 Satakunta,"M Professional, scientific and technical activities (69-75)",0.03394029968144099
+201512,MK04 Satakunta,N Administrative and support service activities (77-82),0.04551264403980021
+201512,MK04 Satakunta,O Public administration and defence; compulsory social security (84),0.09598065048963701
+201512,MK04 Satakunta,P Education (85),0.05280803869902073
+201512,MK04 Satakunta,Q Human health and social work activities (86-88),0.16085263696071106
+201512,MK04 Satakunta,"R, S Other service activities (90-96)",0.04064577024422858
+201512,MK04 Satakunta,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.005692767530577732
+201512,MK05 Kanta-Häme,"A Agriculture, forestry and fishing (01-03)",0.04633691525469205
+201512,MK05 Kanta-Häme,B Mining and quarrying (05-09),0.0013415435800431979
+201512,MK05 Kanta-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01444842435706524
+201512,MK05 Kanta-Häme,F Construction (41-43),0.0751801022256208
+201512,MK05 Kanta-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12685636092888478
+201512,MK05 Kanta-Häme,H Transportation and storage (49-53),0.047182087710119266
+201512,MK05 Kanta-Häme,I Accommodation and food service activities (55-56),0.029004172200533935
+201512,MK05 Kanta-Häme,J Information and communication (58-63),0.019385304731624208
+201512,MK05 Kanta-Häme,K Financial and insurance activities (64-66),0.010692102332944287
+201512,MK05 Kanta-Häme,"M Professional, scientific and technical activities (69-75)",0.042500100615768505
+201512,MK05 Kanta-Häme,N Administrative and support service activities (77-82),0.047852859500140864
+201512,MK05 Kanta-Häme,O Public administration and defence; compulsory social security (84),0.09920714774419447
+201512,MK05 Kanta-Häme,P Education (85),0.05845105378248213
+201512,MK05 Kanta-Häme,Q Human health and social work activities (86-88),0.15606176466642518
+201512,MK05 Kanta-Häme,"R, S Other service activities (90-96)",0.04565272802887002
+201512,MK05 Kanta-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0046551562227498955
+201512,MK06 Pirkanmaa,"A Agriculture, forestry and fishing (01-03)",0.030784923430872097
+201512,MK06 Pirkanmaa,B Mining and quarrying (05-09),0.001181788769861241
+201512,MK06 Pirkanmaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007409770652095765
+201512,MK06 Pirkanmaa,F Construction (41-43),0.07607933711985046
+201512,MK06 Pirkanmaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11170824645912718
+201512,MK06 Pirkanmaa,H Transportation and storage (49-53),0.047532173412898115
+201512,MK06 Pirkanmaa,I Accommodation and food service activities (55-56),0.031544323819109925
+201512,MK06 Pirkanmaa,J Information and communication (58-63),0.04482709037313969
+201512,MK06 Pirkanmaa,K Financial and insurance activities (64-66),0.011876303113092242
+201512,MK06 Pirkanmaa,"M Professional, scientific and technical activities (69-75)",0.05943993097994104
+201512,MK06 Pirkanmaa,N Administrative and support service activities (77-82),0.0616057948091164
+201512,MK06 Pirkanmaa,O Public administration and defence; compulsory social security (84),0.04852074196563376
+201512,MK06 Pirkanmaa,P Education (85),0.06844938529009993
+201512,MK06 Pirkanmaa,Q Human health and social work activities (86-88),0.1680207060176864
+201512,MK06 Pirkanmaa,"R, S Other service activities (90-96)",0.04475519447839529
+201512,MK06 Pirkanmaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004520454382054785
+201512,MK07 Päijät-Häme,"A Agriculture, forestry and fishing (01-03)",0.041810814653333965
+201512,MK07 Päijät-Häme,B Mining and quarrying (05-09),0.00030804227287806266
+201512,MK07 Päijät-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012641580967726648
+201512,MK07 Päijät-Häme,F Construction (41-43),0.08528031846831904
+201512,MK07 Päijät-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12040898535614426
+201512,MK07 Päijät-Häme,H Transportation and storage (49-53),0.05567271693284678
+201512,MK07 Päijät-Häme,I Accommodation and food service activities (55-56),0.033019762096583104
+201512,MK07 Päijät-Häme,J Information and communication (58-63),0.019394815411591868
+201512,MK07 Päijät-Häme,K Financial and insurance activities (64-66),0.011018435145253781
+201512,MK07 Päijät-Häme,"M Professional, scientific and technical activities (69-75)",0.04497417184019715
+201512,MK07 Päijät-Häme,N Administrative and support service activities (77-82),0.05670347376901568
+201512,MK07 Päijät-Häme,O Public administration and defence; compulsory social security (84),0.03433486564617791
+201512,MK07 Päijät-Häme,P Education (85),0.05465380787640397
+201512,MK07 Päijät-Häme,Q Human health and social work activities (86-88),0.180252120752571
+201512,MK07 Päijät-Häme,"R, S Other service activities (90-96)",0.04397895834320649
+201512,MK07 Päijät-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004063788446045212
+201512,MK08 Kymenlaakso,"A Agriculture, forestry and fishing (01-03)",0.03796292444851157
+201512,MK08 Kymenlaakso,B Mining and quarrying (05-09),0.0024402756402257253
+201512,MK08 Kymenlaakso,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.016430264964019798
+201512,MK08 Kymenlaakso,F Construction (41-43),0.07302802157425509
+201512,MK08 Kymenlaakso,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10218654243445224
+201512,MK08 Kymenlaakso,H Transportation and storage (49-53),0.08014087045741303
+201512,MK08 Kymenlaakso,I Accommodation and food service activities (55-56),0.026843032042482978
+201512,MK08 Kymenlaakso,J Information and communication (58-63),0.011854748138596563
+201512,MK08 Kymenlaakso,K Financial and insurance activities (64-66),0.008069547855746432
+201512,MK08 Kymenlaakso,"M Professional, scientific and technical activities (69-75)",0.041290573048819376
+201512,MK08 Kymenlaakso,N Administrative and support service activities (77-82),0.049831537789609415
+201512,MK08 Kymenlaakso,O Public administration and defence; compulsory social security (84),0.14443381445586012
+201512,MK08 Kymenlaakso,P Education (85),0.051453766482259466
+201512,MK08 Kymenlaakso,Q Human health and social work activities (86-88),0.16710342054545704
+201512,MK08 Kymenlaakso,"R, S Other service activities (90-96)",0.04825090470446321
+201512,MK08 Kymenlaakso,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0018579371351718592
+201512,MK09 South Karelia,"A Agriculture, forestry and fishing (01-03)",0.050804017238433356
+201512,MK09 South Karelia,B Mining and quarrying (05-09),0.0035122358703700185
+201512,MK09 South Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009397604085584644
+201512,MK09 South Karelia,F Construction (41-43),0.08241414007176352
+201512,MK09 South Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11563799289958802
+201512,MK09 South Karelia,H Transportation and storage (49-53),0.061549560495889735
+201512,MK09 South Karelia,I Accommodation and food service activities (55-56),0.0370968048146109
+201512,MK09 South Karelia,J Information and communication (58-63),0.02040893816566362
+201512,MK09 South Karelia,K Financial and insurance activities (64-66),0.010024111024623621
+201512,MK09 South Karelia,"M Professional, scientific and technical activities (69-75)",0.041216562565261135
+201512,MK09 South Karelia,N Administrative and support service activities (77-82),0.05672735557116549
+201512,MK09 South Karelia,O Public administration and defence; compulsory social security (84),0.07318740151500769
+201512,MK09 South Karelia,P Education (85),0.0679475252975908
+201512,MK09 South Karelia,Q Human health and social work activities (86-88),0.15510793005904353
+201512,MK09 South Karelia,"R, S Other service activities (90-96)",0.04358969491010574
+201512,MK09 South Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0039488922218214265
+201512,MK10 South Savo,"A Agriculture, forestry and fishing (01-03)",0.0833577725257474
+201512,MK10 South Savo,B Mining and quarrying (05-09),0.0016733658805872307
+201512,MK10 South Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007970051926095883
+201512,MK10 South Savo,F Construction (41-43),0.07804440457501682
+201512,MK10 South Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10914830852036504
+201512,MK10 South Savo,H Transportation and storage (49-53),0.05026998119619784
+201512,MK10 South Savo,I Accommodation and food service activities (55-56),0.03572722411026964
+201512,MK10 South Savo,J Information and communication (58-63),0.01600910863077268
+201512,MK10 South Savo,K Financial and insurance activities (64-66),0.010005692894232926
+201512,MK10 South Savo,"M Professional, scientific and technical activities (69-75)",0.038901443924991806
+201512,MK10 South Savo,N Administrative and support service activities (77-82),0.03332930805458278
+201512,MK10 South Savo,O Public administration and defence; compulsory social security (84),0.06434695602670484
+201512,MK10 South Savo,P Education (85),0.06740041747891042
+201512,MK10 South Savo,Q Human health and social work activities (86-88),0.197439922714648
+201512,MK10 South Savo,"R, S Other service activities (90-96)",0.048976141597805646
+201512,MK10 South Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.009074128383390551
+201512,MK11 North Savo,"A Agriculture, forestry and fishing (01-03)",0.08005121737539833
+201512,MK11 North Savo,B Mining and quarrying (05-09),0.00302298042764583
+201512,MK11 North Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00878012149685668
+201512,MK11 North Savo,F Construction (41-43),0.08348817282976
+201512,MK11 North Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11031953095666741
+201512,MK11 North Savo,H Transportation and storage (49-53),0.05449066630724649
+201512,MK11 North Savo,I Accommodation and food service activities (55-56),0.028294711709716862
+201512,MK11 North Savo,J Information and communication (58-63),0.017897199410807637
+201512,MK11 North Savo,K Financial and insurance activities (64-66),0.01397887764631129
+201512,MK11 North Savo,"M Professional, scientific and technical activities (69-75)",0.042572036468311654
+201512,MK11 North Savo,N Administrative and support service activities (77-82),0.0521704806923973
+201512,MK11 North Savo,O Public administration and defence; compulsory social security (84),0.04826178625410365
+201512,MK11 North Savo,P Education (85),0.06886426432786823
+201512,MK11 North Savo,Q Human health and social work activities (86-88),0.1965418644279924
+201512,MK11 North Savo,"R, S Other service activities (90-96)",0.043611787698202585
+201512,MK11 North Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.011552791443232471
+201512,MK12 North Karelia,"A Agriculture, forestry and fishing (01-03)",0.08105050023820866
+201512,MK12 North Karelia,B Mining and quarrying (05-09),0.006744282991900905
+201512,MK12 North Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.0084564078132444
+201512,MK12 North Karelia,F Construction (41-43),0.07936815150071462
+201512,MK12 North Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0994670080990948
+201512,MK12 North Karelia,H Transportation and storage (49-53),0.046778227727489276
+201512,MK12 North Karelia,I Accommodation and food service activities (55-56),0.028763696998570745
+201512,MK12 North Karelia,J Information and communication (58-63),0.01926512625059552
+201512,MK12 North Karelia,K Financial and insurance activities (64-66),0.010198308718437351
+201512,MK12 North Karelia,"M Professional, scientific and technical activities (69-75)",0.03180085755121486
+201512,MK12 North Karelia,N Administrative and support service activities (77-82),0.034465817055740824
+201512,MK12 North Karelia,O Public administration and defence; compulsory social security (84),0.06139828489757026
+201512,MK12 North Karelia,P Education (85),0.07829621248213435
+201512,MK12 North Karelia,Q Human health and social work activities (86-88),0.1946462601238685
+201512,MK12 North Karelia,"R, S Other service activities (90-96)",0.04716531681753216
+201512,MK12 North Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.010436517389232966
+201512,MK13 Central Finland,"A Agriculture, forestry and fishing (01-03)",0.05040166079971116
+201512,MK13 Central Finland,B Mining and quarrying (05-09),0.0028251647260583083
+201512,MK13 Central Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011111111111111112
+201512,MK13 Central Finland,F Construction (41-43),0.07717303005686434
+201512,MK13 Central Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10537052080512681
+201512,MK13 Central Finland,H Transportation and storage (49-53),0.04503113999458434
+201512,MK13 Central Finland,I Accommodation and food service activities (55-56),0.03047206426572795
+201512,MK13 Central Finland,J Information and communication (58-63),0.03410055059120859
+201512,MK13 Central Finland,K Financial and insurance activities (64-66),0.008728224569004421
+201512,MK13 Central Finland,"M Professional, scientific and technical activities (69-75)",0.04984204350573156
+201512,MK13 Central Finland,N Administrative and support service activities (77-82),0.049896200018052166
+201512,MK13 Central Finland,O Public administration and defence; compulsory social security (84),0.05840779853777416
+201512,MK13 Central Finland,P Education (85),0.08524235039263471
+201512,MK13 Central Finland,Q Human health and social work activities (86-88),0.17638776062821554
+201512,MK13 Central Finland,"R, S Other service activities (90-96)",0.04703493095044679
+201512,MK13 Central Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0074374943586966325
+201512,MK14 South Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.11633750611135746
+201512,MK14 South Ostrobothnia,B Mining and quarrying (05-09),0.005980602835669862
+201512,MK14 South Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010028311218746803
+201512,MK14 South Ostrobothnia,F Construction (41-43),0.08030607952155178
+201512,MK14 South Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11372241361667293
+201512,MK14 South Ostrobothnia,H Transportation and storage (49-53),0.055599140430466966
+201512,MK14 South Ostrobothnia,I Accommodation and food service activities (55-56),0.021614307966936138
+201512,MK14 South Ostrobothnia,J Information and communication (58-63),0.011676956487134882
+201512,MK14 South Ostrobothnia,K Financial and insurance activities (64-66),0.011551886846084753
+201512,MK14 South Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.030573842253072737
+201512,MK14 South Ostrobothnia,N Administrative and support service activities (77-82),0.029311775875203238
+201512,MK14 South Ostrobothnia,O Public administration and defence; compulsory social security (84),0.040772702982342444
+201512,MK14 South Ostrobothnia,P Education (85),0.06313742879557936
+201512,MK14 South Ostrobothnia,Q Human health and social work activities (86-88),0.1723573353344476
+201512,MK14 South Ostrobothnia,"R, S Other service activities (90-96)",0.0408522927539198
+201512,MK14 South Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008584325362986209
+201512,MK15 Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.07758731946546525
+201512,MK15 Ostrobothnia,B Mining and quarrying (05-09),0.0009503361374115659
+201512,MK15 Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010840871493435641
+201512,MK15 Ostrobothnia,F Construction (41-43),0.0635903933922307
+201512,MK15 Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0921943378738282
+201512,MK15 Ostrobothnia,H Transportation and storage (49-53),0.040817523729072075
+201512,MK15 Ostrobothnia,I Accommodation and food service activities (55-56),0.025964121877676487
+201512,MK15 Ostrobothnia,J Information and communication (58-63),0.02587026151842596
+201512,MK15 Ostrobothnia,K Financial and insurance activities (64-66),0.011626952002158788
+201512,MK15 Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.04189691786045311
+201512,MK15 Ostrobothnia,N Administrative and support service activities (77-82),0.03626529630542161
+201512,MK15 Ostrobothnia,O Public administration and defence; compulsory social security (84),0.060070629920336016
+201512,MK15 Ostrobothnia,P Education (85),0.06349653303298018
+201512,MK15 Ostrobothnia,Q Human health and social work activities (86-88),0.16654347494515034
+201512,MK15 Ostrobothnia,"R, S Other service activities (90-96)",0.03688712118545634
+201512,MK15 Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006476364788286227
+201512,MK16 Central Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.09403926844111335
+201512,MK16 Central Ostrobothnia,B Mining and quarrying (05-09),0.0030107940168476346
+201512,MK16 Central Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013100156945645558
+201512,MK16 Central Ostrobothnia,F Construction (41-43),0.0674866275904039
+201512,MK16 Central Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12014349316165401
+201512,MK16 Central Ostrobothnia,H Transportation and storage (49-53),0.06546875500464432
+201512,MK16 Central Ostrobothnia,I Accommodation and food service activities (55-56),0.02399026296403062
+201512,MK16 Central Ostrobothnia,J Information and communication (58-63),0.022036449825438006
+201512,MK16 Central Ostrobothnia,K Financial and insurance activities (64-66),0.011498670766471285
+201512,MK16 Central Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03206175330706896
+201512,MK16 Central Ostrobothnia,N Administrative and support service activities (77-82),0.030940712981646967
+201512,MK16 Central Ostrobothnia,O Public administration and defence; compulsory social security (84),0.04602671278946863
+201512,MK16 Central Ostrobothnia,P Education (85),0.07235514557509368
+201512,MK16 Central Ostrobothnia,Q Human health and social work activities (86-88),0.180775759905192
+201512,MK16 Central Ostrobothnia,"R, S Other service activities (90-96)",0.0454181480413824
+201512,MK16 Central Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00864802536754108
+201512,MK17 North Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.05809148255659279
+201512,MK17 North Ostrobothnia,B Mining and quarrying (05-09),0.0063081225206477205
+201512,MK17 North Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011073208510940189
+201512,MK17 North Ostrobothnia,F Construction (41-43),0.08023789957847316
+201512,MK17 North Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10226016423584221
+201512,MK17 North Ostrobothnia,H Transportation and storage (49-53),0.05135178276883421
+201512,MK17 North Ostrobothnia,I Accommodation and food service activities (55-56),0.028903852861712005
+201512,MK17 North Ostrobothnia,J Information and communication (58-63),0.027786481581109926
+201512,MK17 North Ostrobothnia,K Financial and insurance activities (64-66),0.012379764346988122
+201512,MK17 North Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.05371067769454972
+201512,MK17 North Ostrobothnia,N Administrative and support service activities (77-82),0.05102662181416165
+201512,MK17 North Ostrobothnia,O Public administration and defence; compulsory social security (84),0.057689465376270344
+201512,MK17 North Ostrobothnia,P Education (85),0.07780806044446546
+201512,MK17 North Ostrobothnia,Q Human health and social work activities (86-88),0.1780876988654839
+201512,MK17 North Ostrobothnia,"R, S Other service activities (90-96)",0.041502361850934394
+201512,MK17 North Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008909410158028224
+201512,MK18 Kainuu,"A Agriculture, forestry and fishing (01-03)",0.0682880334522199
+201512,MK18 Kainuu,B Mining and quarrying (05-09),0.021707047103677282
+201512,MK18 Kainuu,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011529947115975894
+201512,MK18 Kainuu,F Construction (41-43),0.06097036034928053
+201512,MK18 Kainuu,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0915324068380273
+201512,MK18 Kainuu,H Transportation and storage (49-53),0.05236133316935186
+201512,MK18 Kainuu,I Accommodation and food service activities (55-56),0.026780223834706678
+201512,MK18 Kainuu,J Information and communication (58-63),0.013098019923748616
+201512,MK18 Kainuu,K Financial and insurance activities (64-66),0.00980814167999016
+201512,MK18 Kainuu,"M Professional, scientific and technical activities (69-75)",0.03151518878366744
+201512,MK18 Kainuu,N Administrative and support service activities (77-82),0.04959414586151765
+201512,MK18 Kainuu,O Public administration and defence; compulsory social security (84),0.18014389374000736
+201512,MK18 Kainuu,P Education (85),0.06352232197761652
+201512,MK18 Kainuu,Q Human health and social work activities (86-88),0.17753043906038618
+201512,MK18 Kainuu,"R, S Other service activities (90-96)",0.05014758332308449
+201512,MK18 Kainuu,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.009992620833845776
+201512,MK19 Lapland,"A Agriculture, forestry and fishing (01-03)",0.049911334895219844
+201512,MK19 Lapland,B Mining and quarrying (05-09),0.021279625147235845
+201512,MK19 Lapland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.014510012037744153
+201512,MK19 Lapland,F Construction (41-43),0.07763697787902714
+201512,MK19 Lapland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10246320721746896
+201512,MK19 Lapland,H Transportation and storage (49-53),0.058920227293319694
+201512,MK19 Lapland,I Accommodation and food service activities (55-56),0.04998899776072071
+201512,MK19 Lapland,J Information and communication (58-63),0.010471543031699393
+201512,MK19 Lapland,K Financial and insurance activities (64-66),0.0076756798736684045
+201512,MK19 Lapland,"M Professional, scientific and technical activities (69-75)",0.039323297565269165
+201512,MK19 Lapland,N Administrative and support service activities (77-82),0.05115394074323362
+201512,MK19 Lapland,O Public administration and defence; compulsory social security (84),0.09877422110617808
+201512,MK19 Lapland,P Education (85),0.06536624512989114
+201512,MK19 Lapland,Q Human health and social work activities (86-88),0.17963420790349094
+201512,MK19 Lapland,"R, S Other service activities (90-96)",0.04601524780926
+201512,MK19 Lapland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007520354142666683
+201512,MK21 Åland,"A Agriculture, forestry and fishing (01-03)",0.044604158665715696
+201512,MK21 Åland,B Mining and quarrying (05-09),0.0006035003017501508
+201512,MK21 Åland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01102759642288912
+201512,MK21 Åland,F Construction (41-43),0.08147254073627037
+201512,MK21 Åland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09200636418500027
+201512,MK21 Åland,H Transportation and storage (49-53),0.21402315246612166
+201512,MK21 Åland,I Accommodation and food service activities (55-56),0.04509793163987491
+201512,MK21 Åland,J Information and communication (58-63),0.03242442530312174
+201512,MK21 Åland,K Financial and insurance activities (64-66),0.02677346793218851
+201512,MK21 Åland,"M Professional, scientific and technical activities (69-75)",0.029626378449552862
+201512,MK21 Åland,N Administrative and support service activities (77-82),0.017446645086958906
+201512,MK21 Åland,O Public administration and defence; compulsory social security (84),0.08481922422779394
+201512,MK21 Åland,P Education (85),0.06018543918362868
+201512,MK21 Åland,Q Human health and social work activities (86-88),0.1437976628079223
+201512,MK21 Åland,"R, S Other service activities (90-96)",0.05069402534701267
+201512,MK21 Åland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0013715915948867066
+201612,MK01 Uusimaa,"A Agriculture, forestry and fishing (01-03)",0.0072673455917451
+201612,MK01 Uusimaa,B Mining and quarrying (05-09),0.0004076747919945004
+201612,MK01 Uusimaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010166746983549123
+201612,MK01 Uusimaa,F Construction (41-43),0.0736646652156337
+201612,MK01 Uusimaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.1292089281921393
+201612,MK01 Uusimaa,H Transportation and storage (49-53),0.062001968715242016
+201612,MK01 Uusimaa,I Accommodation and food service activities (55-56),0.03565156024108768
+201612,MK01 Uusimaa,J Information and communication (58-63),0.06940063811953437
+201612,MK01 Uusimaa,K Financial and insurance activities (64-66),0.03014966346845602
+201612,MK01 Uusimaa,"M Professional, scientific and technical activities (69-75)",0.08590061870644902
+201612,MK01 Uusimaa,N Administrative and support service activities (77-82),0.0860650589586821
+201612,MK01 Uusimaa,O Public administration and defence; compulsory social security (84),0.06042950880326323
+201612,MK01 Uusimaa,P Education (85),0.05836144424219308
+201612,MK01 Uusimaa,Q Human health and social work activities (86-88),0.1325936567172701
+201612,MK01 Uusimaa,"R, S Other service activities (90-96)",0.0568940433802521
+201612,MK01 Uusimaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0031026678147032427
+201612,MK02 Southwest Finland,"A Agriculture, forestry and fishing (01-03)",0.04168214367997141
+201612,MK02 Southwest Finland,B Mining and quarrying (05-09),0.001711483395319751
+201612,MK02 Southwest Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.005703377358579281
+201612,MK02 Southwest Finland,F Construction (41-43),0.08708347243054151
+201612,MK02 Southwest Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11152383146590433
+201612,MK02 Southwest Finland,H Transportation and storage (49-53),0.05895684146679769
+201612,MK02 Southwest Finland,I Accommodation and food service activities (55-56),0.03615743766485958
+201612,MK02 Southwest Finland,J Information and communication (58-63),0.024633136011209273
+201612,MK02 Southwest Finland,K Financial and insurance activities (64-66),0.01515885292997494
+201612,MK02 Southwest Finland,"M Professional, scientific and technical activities (69-75)",0.05494613999369948
+201612,MK02 Southwest Finland,N Administrative and support service activities (77-82),0.06510689718404558
+201612,MK02 Southwest Finland,O Public administration and defence; compulsory social security (84),0.05126927182023782
+201612,MK02 Southwest Finland,P Education (85),0.06494703335041682
+201612,MK02 Southwest Finland,Q Human health and social work activities (86-88),0.17109661887991875
+201612,MK02 Southwest Finland,"R, S Other service activities (90-96)",0.04264132668174402
+201612,MK02 Southwest Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0054306684659184415
+201612,MK04 Satakunta,"A Agriculture, forestry and fishing (01-03)",0.04459143581837171
+201612,MK04 Satakunta,B Mining and quarrying (05-09),0.0034316407221365694
+201612,MK04 Satakunta,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01964489978614413
+201612,MK04 Satakunta,F Construction (41-43),0.08861590490873826
+201612,MK04 Satakunta,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09858258317998707
+201612,MK04 Satakunta,H Transportation and storage (49-53),0.06128214054806783
+201612,MK04 Satakunta,I Accommodation and food service activities (55-56),0.02752275327000547
+201612,MK04 Satakunta,J Information and communication (58-63),0.01398517929079425
+201612,MK04 Satakunta,K Financial and insurance activities (64-66),0.009479285820858408
+201612,MK04 Satakunta,"M Professional, scientific and technical activities (69-75)",0.033948376187397426
+201612,MK04 Satakunta,N Administrative and support service activities (77-82),0.052141045407072165
+201612,MK04 Satakunta,O Public administration and defence; compulsory social security (84),0.08439846819515591
+201612,MK04 Satakunta,P Education (85),0.052877107475008706
+201612,MK04 Satakunta,Q Human health and social work activities (86-88),0.16201322922365347
+201612,MK04 Satakunta,"R, S Other service activities (90-96)",0.03999602128611926
+201612,MK04 Satakunta,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006604665042025166
+201612,MK05 Kanta-Häme,"A Agriculture, forestry and fishing (01-03)",0.04304604581713502
+201612,MK05 Kanta-Häme,B Mining and quarrying (05-09),0.0013855445997390332
+201612,MK05 Kanta-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.014918145253500855
+201612,MK05 Kanta-Häme,F Construction (41-43),0.07756359380675015
+201612,MK05 Kanta-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12890945533300152
+201612,MK05 Kanta-Häme,H Transportation and storage (49-53),0.045897846352520213
+201612,MK05 Kanta-Häme,I Accommodation and food service activities (55-56),0.029513445163373196
+201612,MK05 Kanta-Häme,J Information and communication (58-63),0.017581619338436084
+201612,MK05 Kanta-Häme,K Financial and insurance activities (64-66),0.010438666110655243
+201612,MK05 Kanta-Häme,"M Professional, scientific and technical activities (69-75)",0.04211786545420304
+201612,MK05 Kanta-Häme,N Administrative and support service activities (77-82),0.05012173959832659
+201612,MK05 Kanta-Häme,O Public administration and defence; compulsory social security (84),0.1002031235286996
+201612,MK05 Kanta-Häme,P Education (85),0.05624234923795047
+201612,MK05 Kanta-Häme,Q Human health and social work activities (86-88),0.1537954505710327
+201612,MK05 Kanta-Häme,"R, S Other service activities (90-96)",0.048050148643376964
+201612,MK05 Kanta-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0049771990476062365
+201612,MK06 Pirkanmaa,"A Agriculture, forestry and fishing (01-03)",0.02866285157237246
+201612,MK06 Pirkanmaa,B Mining and quarrying (05-09),0.0013178322562010325
+201612,MK06 Pirkanmaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.0072841824024262565
+201612,MK06 Pirkanmaa,F Construction (41-43),0.07668700581290393
+201612,MK06 Pirkanmaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11115824818572409
+201612,MK06 Pirkanmaa,H Transportation and storage (49-53),0.04834007293208651
+201612,MK06 Pirkanmaa,I Accommodation and food service activities (55-56),0.03294129328086075
+201612,MK06 Pirkanmaa,J Information and communication (58-63),0.045772105282160525
+201612,MK06 Pirkanmaa,K Financial and insurance activities (64-66),0.012013936527421743
+201612,MK06 Pirkanmaa,"M Professional, scientific and technical activities (69-75)",0.06115283243672601
+201612,MK06 Pirkanmaa,N Administrative and support service activities (77-82),0.0644609524497238
+201612,MK06 Pirkanmaa,O Public administration and defence; compulsory social security (84),0.04820919233129942
+201612,MK06 Pirkanmaa,P Education (85),0.06570657471928368
+201612,MK06 Pirkanmaa,Q Human health and social work activities (86-88),0.16979727046250495
+201612,MK06 Pirkanmaa,"R, S Other service activities (90-96)",0.04605643210456006
+201612,MK06 Pirkanmaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00415658735603134
+201612,MK07 Päijät-Häme,"A Agriculture, forestry and fishing (01-03)",0.03920873511060692
+201612,MK07 Päijät-Häme,B Mining and quarrying (05-09),0.0004844961240310078
+201612,MK07 Päijät-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012206938929854414
+201612,MK07 Päijät-Häme,F Construction (41-43),0.09019899792021177
+201612,MK07 Päijät-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11833522404991492
+201612,MK07 Päijät-Häme,H Transportation and storage (49-53),0.05187653620722254
+201612,MK07 Päijät-Häme,I Accommodation and food service activities (55-56),0.03436377387029684
+201612,MK07 Päijät-Häme,J Information and communication (58-63),0.018871714879939498
+201612,MK07 Päijät-Häme,K Financial and insurance activities (64-66),0.00947721686519191
+201612,MK07 Päijät-Häme,"M Professional, scientific and technical activities (69-75)",0.04616893552656457
+201612,MK07 Päijät-Häme,N Administrative and support service activities (77-82),0.057123274721119305
+201612,MK07 Päijät-Häme,O Public administration and defence; compulsory social security (84),0.034694649272074114
+201612,MK07 Päijät-Häme,P Education (85),0.055114388353185856
+201612,MK07 Päijät-Häme,Q Human health and social work activities (86-88),0.17993713367366232
+201612,MK07 Päijät-Häme,"R, S Other service activities (90-96)",0.04545991680847041
+201612,MK07 Päijät-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004053223671771602
+201612,MK08 Kymenlaakso,"A Agriculture, forestry and fishing (01-03)",0.034734841072377065
+201612,MK08 Kymenlaakso,B Mining and quarrying (05-09),0.002110648290514663
+201612,MK08 Kymenlaakso,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.014075647871180564
+201612,MK08 Kymenlaakso,F Construction (41-43),0.07514467026362137
+201612,MK08 Kymenlaakso,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10379916692292639
+201612,MK08 Kymenlaakso,H Transportation and storage (49-53),0.07641665035922954
+201612,MK08 Kymenlaakso,I Accommodation and food service activities (55-56),0.028472785217075282
+201612,MK08 Kymenlaakso,J Information and communication (58-63),0.012160688826144083
+201612,MK08 Kymenlaakso,K Financial and insurance activities (64-66),0.007310391098934892
+201612,MK08 Kymenlaakso,"M Professional, scientific and technical activities (69-75)",0.04222694361354169
+201612,MK08 Kymenlaakso,N Administrative and support service activities (77-82),0.04966313494171256
+201612,MK08 Kymenlaakso,O Public administration and defence; compulsory social security (84),0.1429929272315563
+201612,MK08 Kymenlaakso,P Education (85),0.049914735400184505
+201612,MK08 Kymenlaakso,Q Human health and social work activities (86-88),0.17113024517066897
+201612,MK08 Kymenlaakso,"R, S Other service activities (90-96)",0.048349221436359065
+201612,MK08 Kymenlaakso,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0021945151100053115
+201612,MK09 South Karelia,"A Agriculture, forestry and fishing (01-03)",0.04531324496996281
+201612,MK09 South Karelia,B Mining and quarrying (05-09),0.002784399733002765
+201612,MK09 South Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008543911509487937
+201612,MK09 South Karelia,F Construction (41-43),0.08601125202631829
+201612,MK09 South Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11555258891961476
+201612,MK09 South Karelia,H Transportation and storage (49-53),0.061333079050252697
+201612,MK09 South Karelia,I Accommodation and food service activities (55-56),0.037379612854009724
+201612,MK09 South Karelia,J Information and communication (58-63),0.01992943644512253
+201612,MK09 South Karelia,K Financial and insurance activities (64-66),0.009554686755030036
+201612,MK09 South Karelia,"M Professional, scientific and technical activities (69-75)",0.040602650901115665
+201612,MK09 South Karelia,N Administrative and support service activities (77-82),0.0572327643749404
+201612,MK09 South Karelia,O Public administration and defence; compulsory social security (84),0.07187946981977687
+201612,MK09 South Karelia,P Education (85),0.06589110327071612
+201612,MK09 South Karelia,Q Human health and social work activities (86-88),0.15695623152474492
+201612,MK09 South Karelia,"R, S Other service activities (90-96)",0.0440926861828931
+201612,MK09 South Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.003795174978544865
+201612,MK10 South Savo,"A Agriculture, forestry and fishing (01-03)",0.07571114458352811
+201612,MK10 South Savo,B Mining and quarrying (05-09),0.0014196921691857546
+201612,MK10 South Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008500839695978115
+201612,MK10 South Savo,F Construction (41-43),0.08158035977077165
+201612,MK10 South Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10576706660433871
+201612,MK10 South Savo,H Transportation and storage (49-53),0.049100573070863414
+201612,MK10 South Savo,I Accommodation and food service activities (55-56),0.03649647673955574
+201612,MK10 South Savo,J Information and communication (58-63),0.015755120414134596
+201612,MK10 South Savo,K Financial and insurance activities (64-66),0.008985612631797642
+201612,MK10 South Savo,"M Professional, scientific and technical activities (69-75)",0.038487508440243075
+201612,MK10 South Savo,N Administrative and support service activities (77-82),0.03275679980609082
+201612,MK10 South Savo,O Public administration and defence; compulsory social security (84),0.06334943472013019
+201612,MK10 South Savo,P Education (85),0.06653508544122994
+201612,MK10 South Savo,Q Human health and social work activities (86-88),0.20646133070170883
+201612,MK10 South Savo,"R, S Other service activities (90-96)",0.04768088090167766
+201612,MK10 South Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008933672674388406
+201612,MK11 North Savo,"A Agriculture, forestry and fishing (01-03)",0.07449635248079617
+201612,MK11 North Savo,B Mining and quarrying (05-09),0.003304507464128702
+201612,MK11 North Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008676747668969515
+201612,MK11 North Savo,F Construction (41-43),0.08573361031933908
+201612,MK11 North Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10741581718923619
+201612,MK11 North Savo,H Transportation and storage (49-53),0.054505048553070194
+201612,MK11 North Savo,I Accommodation and food service activities (55-56),0.028320208705734574
+201612,MK11 North Savo,J Information and communication (58-63),0.0181264795400744
+201612,MK11 North Savo,K Financial and insurance activities (64-66),0.013826754915696411
+201612,MK11 North Savo,"M Professional, scientific and technical activities (69-75)",0.043393400647374264
+201612,MK11 North Savo,N Administrative and support service activities (77-82),0.05225373206435094
+201612,MK11 North Savo,O Public administration and defence; compulsory social security (84),0.049094159138122616
+201612,MK11 North Savo,P Education (85),0.06905647615826851
+201612,MK11 North Savo,Q Human health and social work activities (86-88),0.20017392144548043
+201612,MK11 North Savo,"R, S Other service activities (90-96)",0.043180829991787045
+201612,MK11 North Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0097975747620658
+201612,MK12 North Karelia,"A Agriculture, forestry and fishing (01-03)",0.0756796138609353
+201612,MK12 North Karelia,B Mining and quarrying (05-09),0.006359758966653006
+201612,MK12 North Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007771352245647588
+201612,MK12 North Karelia,F Construction (41-43),0.07680281711518905
+201612,MK12 North Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09908474113200674
+201612,MK12 North Karelia,H Transportation and storage (49-53),0.04670400558565943
+201612,MK12 North Karelia,I Accommodation and food service activities (55-56),0.028808645629373283
+201612,MK12 North Karelia,J Information and communication (58-63),0.01942838061411897
+201612,MK12 North Karelia,K Financial and insurance activities (64-66),0.009425800282318656
+201612,MK12 North Karelia,"M Professional, scientific and technical activities (69-75)",0.03233003961568234
+201612,MK12 North Karelia,N Administrative and support service activities (77-82),0.035927325713765314
+201612,MK12 North Karelia,O Public administration and defence; compulsory social security (84),0.06370383862301353
+201612,MK12 North Karelia,P Education (85),0.07492069274319628
+201612,MK12 North Karelia,Q Human health and social work activities (86-88),0.20006678505836104
+201612,MK12 North Karelia,"R, S Other service activities (90-96)",0.0476602461940106
+201612,MK12 North Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.010366862468315044
+201612,MK13 Central Finland,"A Agriculture, forestry and fishing (01-03)",0.04598421250469866
+201612,MK13 Central Finland,B Mining and quarrying (05-09),0.002658098698695115
+201612,MK13 Central Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010927739094635475
+201612,MK13 Central Finland,F Construction (41-43),0.08113018418744518
+201612,MK13 Central Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10565271090267958
+201612,MK13 Central Finland,H Transportation and storage (49-53),0.04388100309664023
+201612,MK13 Central Finland,I Accommodation and food service activities (55-56),0.03136019474824136
+201612,MK13 Central Finland,J Information and communication (58-63),0.03457318273757316
+201612,MK13 Central Finland,K Financial and insurance activities (64-66),0.008144342814183686
+201612,MK13 Central Finland,"M Professional, scientific and technical activities (69-75)",0.05141675765657723
+201612,MK13 Central Finland,N Administrative and support service activities (77-82),0.049429896003007144
+201612,MK13 Central Finland,O Public administration and defence; compulsory social security (84),0.058800365152952554
+201612,MK13 Central Finland,P Education (85),0.08101383643295684
+201612,MK13 Central Finland,Q Human health and social work activities (86-88),0.1776898705854977
+201612,MK13 Central Finland,"R, S Other service activities (90-96)",0.04748778348577873
+201612,MK13 Central Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006766069414860293
+201612,MK14 South Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.10798030906993479
+201612,MK14 South Ostrobothnia,B Mining and quarrying (05-09),0.005984946261121836
+201612,MK14 South Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008246433588797642
+201612,MK14 South Ostrobothnia,F Construction (41-43),0.08409763229129785
+201612,MK14 South Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11308578803696047
+201612,MK14 South Ostrobothnia,H Transportation and storage (49-53),0.055189428117825776
+201612,MK14 South Ostrobothnia,I Accommodation and food service activities (55-56),0.023014631137710875
+201612,MK14 South Ostrobothnia,J Information and communication (58-63),0.010896257124256164
+201612,MK14 South Ostrobothnia,K Financial and insurance activities (64-66),0.01125032837252864
+201612,MK14 South Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03185499069135267
+201612,MK14 South Ostrobothnia,N Administrative and support service activities (77-82),0.03106689662261716
+201612,MK14 South Ostrobothnia,O Public administration and defence; compulsory social security (84),0.0410151565337567
+201612,MK14 South Ostrobothnia,P Education (85),0.06166550546526105
+201612,MK14 South Ostrobothnia,Q Human health and social work activities (86-88),0.17611047022946102
+201612,MK14 South Ostrobothnia,"R, S Other service activities (90-96)",0.04149486596690005
+201612,MK14 South Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.010256644546731695
+201612,MK15 Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.07306993480351989
+201612,MK15 Ostrobothnia,B Mining and quarrying (05-09),0.0010806702530668471
+201612,MK15 Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010711698552376882
+201612,MK15 Ostrobothnia,F Construction (41-43),0.06816535442421652
+201612,MK15 Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09274763380716568
+201612,MK15 Ostrobothnia,H Transportation and storage (49-53),0.04016293182277008
+201612,MK15 Ostrobothnia,I Accommodation and food service activities (55-56),0.026909876851093143
+201612,MK15 Ostrobothnia,J Information and communication (58-63),0.02464165686938141
+201612,MK15 Ostrobothnia,K Financial and insurance activities (64-66),0.011329224411272222
+201612,MK15 Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.0415761159998575
+201612,MK15 Ostrobothnia,N Administrative and support service activities (77-82),0.03867849466196398
+201612,MK15 Ostrobothnia,O Public administration and defence; compulsory social security (84),0.06220385478641919
+201612,MK15 Ostrobothnia,P Education (85),0.0651489781134585
+201612,MK15 Ostrobothnia,Q Human health and social work activities (86-88),0.1660432030591281
+201612,MK15 Ostrobothnia,"R, S Other service activities (90-96)",0.03705155153372048
+201612,MK15 Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00693529041528614
+201612,MK16 Central Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.08739704536540724
+201612,MK16 Central Ostrobothnia,B Mining and quarrying (05-09),0.003072297032291803
+201612,MK16 Central Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011766243953457968
+201612,MK16 Central Ostrobothnia,F Construction (41-43),0.07285266047849392
+201612,MK16 Central Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11919858805072558
+201612,MK16 Central Ostrobothnia,H Transportation and storage (49-53),0.06592365015034644
+201612,MK16 Central Ostrobothnia,I Accommodation and food service activities (55-56),0.022944175709243037
+201612,MK16 Central Ostrobothnia,J Information and communication (58-63),0.019316250490260162
+201612,MK16 Central Ostrobothnia,K Financial and insurance activities (64-66),0.012550660217021833
+201612,MK16 Central Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.033337691201464244
+201612,MK16 Central Ostrobothnia,N Administrative and support service activities (77-82),0.02902340175186299
+201612,MK16 Central Ostrobothnia,O Public administration and defence; compulsory social security (84),0.04696692378088639
+201612,MK16 Central Ostrobothnia,P Education (85),0.071512616028239
+201612,MK16 Central Ostrobothnia,Q Human health and social work activities (86-88),0.18417440188259904
+201612,MK16 Central Ostrobothnia,"R, S Other service activities (90-96)",0.04664008367106812
+201612,MK16 Central Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0074519545038567135
+201612,MK17 North Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.05345487349720816
+201612,MK17 North Ostrobothnia,B Mining and quarrying (05-09),0.0061733126573546146
+201612,MK17 North Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009811262905289473
+201612,MK17 North Ostrobothnia,F Construction (41-43),0.08698061921804706
+201612,MK17 North Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.101043036302852
+201612,MK17 North Ostrobothnia,H Transportation and storage (49-53),0.051019746345835226
+201612,MK17 North Ostrobothnia,I Accommodation and food service activities (55-56),0.029822937364756105
+201612,MK17 North Ostrobothnia,J Information and communication (58-63),0.029221525816475143
+201612,MK17 North Ostrobothnia,K Financial and insurance activities (64-66),0.011869033791074344
+201612,MK17 North Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.05143247976132217
+201612,MK17 North Ostrobothnia,N Administrative and support service activities (77-82),0.050436023372503705
+201612,MK17 North Ostrobothnia,O Public administration and defence; compulsory social security (84),0.059203660355776205
+201612,MK17 North Ostrobothnia,P Education (85),0.07548894169256078
+201612,MK17 North Ostrobothnia,Q Human health and social work activities (86-88),0.18305316596010637
+201612,MK17 North Ostrobothnia,"R, S Other service activities (90-96)",0.041444331106538286
+201612,MK17 North Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007564813886710573
+201612,MK18 Kainuu,"A Agriculture, forestry and fishing (01-03)",0.06750582468455929
+201612,MK18 Kainuu,B Mining and quarrying (05-09),0.028533389815123
+201612,MK18 Kainuu,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010106205936639537
+201612,MK18 Kainuu,F Construction (41-43),0.061938333988925544
+201612,MK18 Kainuu,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09440527701292022
+201612,MK18 Kainuu,H Transportation and storage (49-53),0.05113619171533178
+201612,MK18 Kainuu,I Accommodation and food service activities (55-56),0.026112741686586585
+201612,MK18 Kainuu,J Information and communication (58-63),0.012194014947502194
+201612,MK18 Kainuu,K Financial and insurance activities (64-66),0.008532784653090864
+201612,MK18 Kainuu,"M Professional, scientific and technical activities (69-75)",0.03246694302399467
+201612,MK18 Kainuu,N Administrative and support service activities (77-82),0.05437380858724924
+201612,MK18 Kainuu,O Public administration and defence; compulsory social security (84),0.18030802747435626
+201612,MK18 Kainuu,P Education (85),0.05927562104753548
+201612,MK18 Kainuu,Q Human health and social work activities (86-88),0.17504311779478957
+201612,MK18 Kainuu,"R, S Other service activities (90-96)",0.04750521952252716
+201612,MK18 Kainuu,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008230203637023814
+201612,MK19 Lapland,"A Agriculture, forestry and fishing (01-03)",0.04937264102825665
+201612,MK19 Lapland,B Mining and quarrying (05-09),0.02231459757217178
+201612,MK19 Lapland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013949811282260532
+201612,MK19 Lapland,F Construction (41-43),0.08123788636131796
+201612,MK19 Lapland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10014791390390695
+201612,MK19 Lapland,H Transportation and storage (49-53),0.05766092012649189
+201612,MK19 Lapland,I Accommodation and food service activities (55-56),0.050201468938080175
+201612,MK19 Lapland,J Information and communication (58-63),0.010341222074875037
+201612,MK19 Lapland,K Financial and insurance activities (64-66),0.006923900846679588
+201612,MK19 Lapland,"M Professional, scientific and technical activities (69-75)",0.03915893093950831
+201612,MK19 Lapland,N Administrative and support service activities (77-82),0.055225441191472
+201612,MK19 Lapland,O Public administration and defence; compulsory social security (84),0.09994389472610425
+201612,MK19 Lapland,P Education (85),0.06435529939814341
+201612,MK19 Lapland,Q Human health and social work activities (86-88),0.17983015403447922
+201612,MK19 Lapland,"R, S Other service activities (90-96)",0.04584055901254718
+201612,MK19 Lapland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006490360093848822
+201612,MK21 Åland,"A Agriculture, forestry and fishing (01-03)",0.043710486156529324
+201612,MK21 Åland,B Mining and quarrying (05-09),0.0006540222367560497
+201612,MK21 Åland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010900370612600829
+201612,MK21 Åland,F Construction (41-43),0.08567691301504252
+201612,MK21 Åland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08622193154567256
+201612,MK21 Åland,H Transportation and storage (49-53),0.2157183344233704
+201612,MK21 Åland,I Accommodation and food service activities (55-56),0.04594506213211249
+201612,MK21 Åland,J Information and communication (58-63),0.03281011554392849
+201612,MK21 Åland,K Financial and insurance activities (64-66),0.02812295618051014
+201612,MK21 Åland,"M Professional, scientific and technical activities (69-75)",0.031229561805101374
+201612,MK21 Åland,N Administrative and support service activities (77-82),0.017059080008720296
+201612,MK21 Åland,O Public administration and defence; compulsory social security (84),0.08148027032919121
+201612,MK21 Åland,P Education (85),0.05869849574885546
+201612,MK21 Åland,Q Human health and social work activities (86-88),0.14219533464137782
+201612,MK21 Åland,"R, S Other service activities (90-96)",0.051667756703727925
+201612,MK21 Åland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0015805537388271203
+201712,MK01 Uusimaa,"A Agriculture, forestry and fishing (01-03)",0.006337590549026031
+201712,MK01 Uusimaa,B Mining and quarrying (05-09),0.0003914724073646167
+201712,MK01 Uusimaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010110980744941704
+201712,MK01 Uusimaa,F Construction (41-43),0.07690357664446454
+201712,MK01 Uusimaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.1257647172312918
+201712,MK01 Uusimaa,H Transportation and storage (49-53),0.06138489253016806
+201712,MK01 Uusimaa,I Accommodation and food service activities (55-56),0.03632617166906336
+201712,MK01 Uusimaa,J Information and communication (58-63),0.07039436638676576
+201712,MK01 Uusimaa,K Financial and insurance activities (64-66),0.02919217593600043
+201712,MK01 Uusimaa,"M Professional, scientific and technical activities (69-75)",0.0856169223762936
+201712,MK01 Uusimaa,N Administrative and support service activities (77-82),0.08858605550607623
+201712,MK01 Uusimaa,O Public administration and defence; compulsory social security (84),0.061491453787187074
+201712,MK01 Uusimaa,P Education (85),0.05688464239163842
+201712,MK01 Uusimaa,Q Human health and social work activities (86-88),0.1337366209537569
+201712,MK01 Uusimaa,"R, S Other service activities (90-96)",0.057489237313041085
+201712,MK01 Uusimaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0030712075970324372
+201712,MK02 Southwest Finland,"A Agriculture, forestry and fishing (01-03)",0.03975959951589834
+201712,MK02 Southwest Finland,B Mining and quarrying (05-09),0.0017741225657388051
+201712,MK02 Southwest Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.006537206146624125
+201712,MK02 Southwest Finland,F Construction (41-43),0.08794513514504713
+201712,MK02 Southwest Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10848278138409066
+201712,MK02 Southwest Finland,H Transportation and storage (49-53),0.056010928961748634
+201712,MK02 Southwest Finland,I Accommodation and food service activities (55-56),0.03599130817471669
+201712,MK02 Southwest Finland,J Information and communication (58-63),0.025575787582058897
+201712,MK02 Southwest Finland,K Financial and insurance activities (64-66),0.018891883962298753
+201712,MK02 Southwest Finland,"M Professional, scientific and technical activities (69-75)",0.055204092859500495
+201712,MK02 Southwest Finland,N Administrative and support service activities (77-82),0.0685810686910918
+201712,MK02 Southwest Finland,O Public administration and defence; compulsory social security (84),0.04838724465471082
+201712,MK02 Southwest Finland,P Education (85),0.06324036380973337
+201712,MK02 Southwest Finland,Q Human health and social work activities (86-88),0.17065958851358784
+201712,MK02 Southwest Finland,"R, S Other service activities (90-96)",0.04259269446583783
+201712,MK02 Southwest Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0053361205853229175
+201712,MK04 Satakunta,"A Agriculture, forestry and fishing (01-03)",0.04301224668029614
+201712,MK04 Satakunta,B Mining and quarrying (05-09),0.002848295984597368
+201712,MK04 Satakunta,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.019689962485857762
+201712,MK04 Satakunta,F Construction (41-43),0.08775133482860603
+201712,MK04 Satakunta,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09638554216867469
+201712,MK04 Satakunta,H Transportation and storage (49-53),0.059387467497667774
+201712,MK04 Satakunta,I Accommodation and food service activities (55-56),0.027440900339413668
+201712,MK04 Satakunta,J Information and communication (58-63),0.014052916774180742
+201712,MK04 Satakunta,K Financial and insurance activities (64-66),0.00821738353744467
+201712,MK04 Satakunta,"M Professional, scientific and technical activities (69-75)",0.034626148746551275
+201712,MK04 Satakunta,N Administrative and support service activities (77-82),0.05487187630257438
+201712,MK04 Satakunta,O Public administration and defence; compulsory social security (84),0.08829717552251841
+201712,MK04 Satakunta,P Education (85),0.05216252158551835
+201712,MK04 Satakunta,Q Human health and social work activities (86-88),0.1670272523371906
+201712,MK04 Satakunta,"R, S Other service activities (90-96)",0.03884400865405609
+201712,MK04 Satakunta,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0066394077132252245
+201712,MK05 Kanta-Häme,"A Agriculture, forestry and fishing (01-03)",0.04306396707998961
+201712,MK05 Kanta-Häme,B Mining and quarrying (05-09),0.0015311632739551861
+201712,MK05 Kanta-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.014299971290688614
+201712,MK05 Kanta-Häme,F Construction (41-43),0.08160279984141523
+201712,MK05 Kanta-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12846733290497217
+201712,MK05 Kanta-Häme,H Transportation and storage (49-53),0.04428069503875757
+201712,MK05 Kanta-Häme,I Accommodation and food service activities (55-56),0.028982733399866022
+201712,MK05 Kanta-Häme,J Information and communication (58-63),0.01678811161086579
+201712,MK05 Kanta-Häme,K Financial and insurance activities (64-66),0.009145966341750173
+201712,MK05 Kanta-Häme,"M Professional, scientific and technical activities (69-75)",0.04142343500075191
+201712,MK05 Kanta-Häme,N Administrative and support service activities (77-82),0.052510697636266694
+201712,MK05 Kanta-Häme,O Public administration and defence; compulsory social security (84),0.09850028025756354
+201712,MK05 Kanta-Häme,P Education (85),0.058361928718881156
+201712,MK05 Kanta-Häme,Q Human health and social work activities (86-88),0.15218669255061723
+201712,MK05 Kanta-Häme,"R, S Other service activities (90-96)",0.04784885231109956
+201712,MK05 Kanta-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.005099320546297182
+201712,MK06 Pirkanmaa,"A Agriculture, forestry and fishing (01-03)",0.027192428185742756
+201712,MK06 Pirkanmaa,B Mining and quarrying (05-09),0.0012328058927237942
+201712,MK06 Pirkanmaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007180321059771202
+201712,MK06 Pirkanmaa,F Construction (41-43),0.07806886922094622
+201712,MK06 Pirkanmaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10909227485827151
+201712,MK06 Pirkanmaa,H Transportation and storage (49-53),0.04779221697383713
+201712,MK06 Pirkanmaa,I Accommodation and food service activities (55-56),0.031938068073862305
+201712,MK06 Pirkanmaa,J Information and communication (58-63),0.049537587323750736
+201712,MK06 Pirkanmaa,K Financial and insurance activities (64-66),0.011846425083844057
+201712,MK06 Pirkanmaa,"M Professional, scientific and technical activities (69-75)",0.06207332322933283
+201712,MK06 Pirkanmaa,N Administrative and support service activities (77-82),0.0698899312014776
+201712,MK06 Pirkanmaa,O Public administration and defence; compulsory social security (84),0.04648429387618033
+201712,MK06 Pirkanmaa,P Education (85),0.0667571018898605
+201712,MK06 Pirkanmaa,Q Human health and social work activities (86-88),0.1707723374264846
+201712,MK06 Pirkanmaa,"R, S Other service activities (90-96)",0.04470799291247079
+201712,MK06 Pirkanmaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00410051565751857
+201712,MK07 Päijät-Häme,"A Agriculture, forestry and fishing (01-03)",0.036769216250648794
+201712,MK07 Päijät-Häme,B Mining and quarrying (05-09),0.0007785589581465578
+201712,MK07 Päijät-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012445146982494219
+201712,MK07 Päijät-Häme,F Construction (41-43),0.09216486575756144
+201712,MK07 Päijät-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11618222998159769
+201712,MK07 Päijät-Häme,H Transportation and storage (49-53),0.0493913084509036
+201712,MK07 Päijät-Häme,I Accommodation and food service activities (55-56),0.037028735903364314
+201712,MK07 Päijät-Häme,J Information and communication (58-63),0.02184683621950644
+201712,MK07 Päijät-Häme,K Financial and insurance activities (64-66),0.008387203321851553
+201712,MK07 Päijät-Häme,"M Professional, scientific and technical activities (69-75)",0.046784315575897704
+201712,MK07 Päijät-Häme,N Administrative and support service activities (77-82),0.059064313688482036
+201712,MK07 Päijät-Häme,O Public administration and defence; compulsory social security (84),0.03469305902892464
+201712,MK07 Päijät-Häme,P Education (85),0.05524229698485349
+201712,MK07 Päijät-Häme,Q Human health and social work activities (86-88),0.1780186854149955
+201712,MK07 Päijät-Häme,"R, S Other service activities (90-96)",0.04429528617939885
+201712,MK07 Päijät-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004081536356344075
+201712,MK08 Kymenlaakso,"A Agriculture, forestry and fishing (01-03)",0.03420263872937618
+201712,MK08 Kymenlaakso,B Mining and quarrying (05-09),0.0018207792935376343
+201712,MK08 Kymenlaakso,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013235664864562032
+201712,MK08 Kymenlaakso,F Construction (41-43),0.07655676629597469
+201712,MK08 Kymenlaakso,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10071710692176251
+201712,MK08 Kymenlaakso,H Transportation and storage (49-53),0.07685089218185384
+201712,MK08 Kymenlaakso,I Accommodation and food service activities (55-56),0.028208073055267652
+201712,MK08 Kymenlaakso,J Information and communication (58-63),0.01233928121235889
+201712,MK08 Kymenlaakso,K Financial and insurance activities (64-66),0.0061906495980279565
+201712,MK08 Kymenlaakso,"M Professional, scientific and technical activities (69-75)",0.04063139023502059
+201712,MK08 Kymenlaakso,N Administrative and support service activities (77-82),0.05236841368105549
+201712,MK08 Kymenlaakso,O Public administration and defence; compulsory social security (84),0.1393456399338917
+201712,MK08 Kymenlaakso,P Education (85),0.05081374828426567
+201712,MK08 Kymenlaakso,Q Human health and social work activities (86-88),0.17609736967422057
+201712,MK08 Kymenlaakso,"R, S Other service activities (90-96)",0.046135746099330514
+201712,MK08 Kymenlaakso,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0022129471413765093
+201712,MK09 South Karelia,"A Agriculture, forestry and fishing (01-03)",0.04223196004515968
+201712,MK09 South Karelia,B Mining and quarrying (05-09),0.002583287089305192
+201712,MK09 South Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008591821504429858
+201712,MK09 South Karelia,F Construction (41-43),0.08243556133871677
+201712,MK09 South Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11798924587152453
+201712,MK09 South Karelia,H Transportation and storage (49-53),0.0613482845060181
+201712,MK09 South Karelia,I Accommodation and food service activities (55-56),0.03851968082052852
+201712,MK09 South Karelia,J Information and communication (58-63),0.020551483954916856
+201712,MK09 South Karelia,K Financial and insurance activities (64-66),0.009089343462370118
+201712,MK09 South Karelia,"M Professional, scientific and technical activities (69-75)",0.04068198779157657
+201712,MK09 South Karelia,N Administrative and support service activities (77-82),0.057827359880594724
+201712,MK09 South Karelia,O Public administration and defence; compulsory social security (84),0.07700109072121548
+201712,MK09 South Karelia,P Education (85),0.06590252396716355
+201712,MK09 South Karelia,Q Human health and social work activities (86-88),0.15782927342658679
+201712,MK09 South Karelia,"R, S Other service activities (90-96)",0.04395415143802982
+201712,MK09 South Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.003827091984155839
+201712,MK10 South Savo,"A Agriculture, forestry and fishing (01-03)",0.0731855926744773
+201712,MK10 South Savo,B Mining and quarrying (05-09),0.0013752763609142977
+201712,MK10 South Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008321292411608028
+201712,MK10 South Savo,F Construction (41-43),0.07887819229497066
+201712,MK10 South Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10396392946050868
+201712,MK10 South Savo,H Transportation and storage (49-53),0.048622112354856126
+201712,MK10 South Savo,I Accommodation and food service activities (55-56),0.03626203366815801
+201712,MK10 South Savo,J Information and communication (58-63),0.015441394077607367
+201712,MK10 South Savo,K Financial and insurance activities (64-66),0.008495378026913636
+201712,MK10 South Savo,"M Professional, scientific and technical activities (69-75)",0.037149870306216595
+201712,MK10 South Savo,N Administrative and support service activities (77-82),0.03239733300837352
+201712,MK10 South Savo,O Public administration and defence; compulsory social security (84),0.06742335880786171
+201712,MK10 South Savo,P Education (85),0.06415054924011629
+201712,MK10 South Savo,Q Human health and social work activities (86-88),0.2149609177793639
+201712,MK10 South Savo,"R, S Other service activities (90-96)",0.04891805790087565
+201712,MK10 South Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00905245199589158
+201712,MK11 North Savo,"A Agriculture, forestry and fishing (01-03)",0.07297569088553249
+201712,MK11 North Savo,B Mining and quarrying (05-09),0.0034713492815564018
+201712,MK11 North Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00891527587073817
+201712,MK11 North Savo,F Construction (41-43),0.08687075750836411
+201712,MK11 North Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10516544508692877
+201712,MK11 North Savo,H Transportation and storage (49-53),0.05286313794503857
+201712,MK11 North Savo,I Accommodation and food service activities (55-56),0.028002862170995374
+201712,MK11 North Savo,J Information and communication (58-63),0.019600069620375565
+201712,MK11 North Savo,K Financial and insurance activities (64-66),0.013363244309501246
+201712,MK11 North Savo,"M Professional, scientific and technical activities (69-75)",0.04401554855054245
+201712,MK11 North Savo,N Administrative and support service activities (77-82),0.0518768492912259
+201712,MK11 North Savo,O Public administration and defence; compulsory social security (84),0.05199288325049797
+201712,MK11 North Savo,P Education (85),0.06697093349320234
+201712,MK11 North Savo,Q Human health and social work activities (86-88),0.20238256396372004
+201712,MK11 North Savo,"R, S Other service activities (90-96)",0.04165619137867682
+201712,MK11 North Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00987255603473283
+201712,MK12 North Karelia,"A Agriculture, forestry and fishing (01-03)",0.07288682217055426
+201712,MK12 North Karelia,B Mining and quarrying (05-09),0.005910147753693842
+201712,MK12 North Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.0075001875046876165
+201712,MK12 North Karelia,F Construction (41-43),0.07738693467336683
+201712,MK12 North Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0975624390609765
+201712,MK12 North Karelia,H Transportation and storage (49-53),0.04576614415360384
+201712,MK12 North Karelia,I Accommodation and food service activities (55-56),0.032775819395484886
+201712,MK12 North Karelia,J Information and communication (58-63),0.019170479261981548
+201712,MK12 North Karelia,K Financial and insurance activities (64-66),0.0096902422560564
+201712,MK12 North Karelia,"M Professional, scientific and technical activities (69-75)",0.033405835145878644
+201712,MK12 North Karelia,N Administrative and support service activities (77-82),0.03874596864921623
+201712,MK12 North Karelia,O Public administration and defence; compulsory social security (84),0.06259656491412285
+201712,MK12 North Karelia,P Education (85),0.07618690467261681
+201712,MK12 North Karelia,Q Human health and social work activities (86-88),0.19813995349883745
+201712,MK12 North Karelia,"R, S Other service activities (90-96)",0.04711617790444761
+201712,MK12 North Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.010320258006450159
+201712,MK13 Central Finland,"A Agriculture, forestry and fishing (01-03)",0.04320306240541262
+201712,MK13 Central Finland,B Mining and quarrying (05-09),0.002706311759992878
+201712,MK13 Central Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011279266447075581
+201712,MK13 Central Finland,F Construction (41-43),0.08253360633846703
+201712,MK13 Central Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10253716727499333
+201712,MK13 Central Finland,H Transportation and storage (49-53),0.04372830054304282
+201712,MK13 Central Finland,I Accommodation and food service activities (55-56),0.031175999287812693
+201712,MK13 Central Finland,J Information and communication (58-63),0.03687349772990297
+201712,MK13 Central Finland,K Financial and insurance activities (64-66),0.006810291106561026
+201712,MK13 Central Finland,"M Professional, scientific and technical activities (69-75)",0.05137541173328585
+201712,MK13 Central Finland,N Administrative and support service activities (77-82),0.05058310335618268
+201712,MK13 Central Finland,O Public administration and defence; compulsory social security (84),0.05871984331879285
+201712,MK13 Central Finland,P Education (85),0.08204397756609988
+201712,MK13 Central Finland,Q Human health and social work activities (86-88),0.17834060357874124
+201712,MK13 Central Finland,"R, S Other service activities (90-96)",0.04839312739250423
+201712,MK13 Central Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006783584082613728
+201712,MK14 South Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.10472807586780059
+201712,MK14 South Ostrobothnia,B Mining and quarrying (05-09),0.005715131436638318
+201712,MK14 South Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008572697154957478
+201712,MK14 South Ostrobothnia,F Construction (41-43),0.08316540865466716
+201712,MK14 South Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11125152270683197
+201712,MK14 South Ostrobothnia,H Transportation and storage (49-53),0.05383835968896934
+201712,MK14 South Ostrobothnia,I Accommodation and food service activities (55-56),0.023042681330191148
+201712,MK14 South Ostrobothnia,J Information and communication (58-63),0.011418878149299268
+201712,MK14 South Ostrobothnia,K Financial and insurance activities (64-66),0.010143789063834147
+201712,MK14 South Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.032093536892198044
+201712,MK14 South Ostrobothnia,N Administrative and support service activities (77-82),0.03384678438471259
+201712,MK14 South Ostrobothnia,O Public administration and defence; compulsory social security (84),0.0408142354588613
+201712,MK14 South Ostrobothnia,P Education (85),0.0626273665994968
+201712,MK14 South Ostrobothnia,Q Human health and social work activities (86-88),0.1791727859558045
+201712,MK14 South Ostrobothnia,"R, S Other service activities (90-96)",0.04046130901556291
+201712,MK14 South Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.010303175199517288
+201712,MK15 Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.07350703689615824
+201712,MK15 Ostrobothnia,B Mining and quarrying (05-09),0.00099847850893876
+201712,MK15 Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01062666413084823
+201712,MK15 Ostrobothnia,F Construction (41-43),0.06807483834157475
+201712,MK15 Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0901126854317231
+201712,MK15 Ostrobothnia,H Transportation and storage (49-53),0.03999857360213009
+201712,MK15 Ostrobothnia,I Accommodation and food service activities (55-56),0.02796928489920122
+201712,MK15 Ostrobothnia,J Information and communication (58-63),0.02540176873335869
+201712,MK15 Ostrobothnia,K Financial and insurance activities (64-66),0.010377044503613542
+201712,MK15 Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.042114397109166986
+201712,MK15 Ostrobothnia,N Administrative and support service activities (77-82),0.04456304678585014
+201712,MK15 Ostrobothnia,O Public administration and defence; compulsory social security (84),0.06460393685812095
+201712,MK15 Ostrobothnia,P Education (85),0.06488921643210346
+201712,MK15 Ostrobothnia,Q Human health and social work activities (86-88),0.15805677063522253
+201712,MK15 Ostrobothnia,"R, S Other service activities (90-96)",0.03804916317991632
+201712,MK15 Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0070012362114872575
+201712,MK16 Central Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.08517371173511874
+201712,MK16 Central Ostrobothnia,B Mining and quarrying (05-09),0.0029312814363279035
+201712,MK16 Central Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01099230538622964
+201712,MK16 Central Ostrobothnia,F Construction (41-43),0.07574697711601878
+201712,MK16 Central Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12161486959128609
+201712,MK16 Central Ostrobothnia,H Transportation and storage (49-53),0.06741947303554179
+201712,MK16 Central Ostrobothnia,I Accommodation and food service activities (55-56),0.02308384131108224
+201712,MK16 Central Ostrobothnia,J Information and communication (58-63),0.020119249858432428
+201712,MK16 Central Ostrobothnia,K Financial and insurance activities (64-66),0.011025615402551547
+201712,MK16 Central Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03321008627294227
+201712,MK16 Central Ostrobothnia,N Administrative and support service activities (77-82),0.028713234069484693
+201712,MK16 Central Ostrobothnia,O Public administration and defence; compulsory social security (84),0.03627460777455781
+201712,MK16 Central Ostrobothnia,P Education (85),0.07151660504313646
+201712,MK16 Central Ostrobothnia,Q Human health and social work activities (86-88),0.18983378301855366
+201712,MK16 Central Ostrobothnia,"R, S Other service activities (90-96)",0.045101762099863434
+201712,MK16 Central Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007627993737716931
+201712,MK17 North Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.052362271874467
+201712,MK17 North Ostrobothnia,B Mining and quarrying (05-09),0.006169608356319879
+201712,MK17 North Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009545542766737048
+201712,MK17 North Ostrobothnia,F Construction (41-43),0.09220888447128986
+201712,MK17 North Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09860198674328197
+201712,MK17 North Ostrobothnia,H Transportation and storage (49-53),0.05126244655260635
+201712,MK17 North Ostrobothnia,I Accommodation and food service activities (55-56),0.029201244508225165
+201712,MK17 North Ostrobothnia,J Information and communication (58-63),0.0319890370352944
+201712,MK17 North Ostrobothnia,K Financial and insurance activities (64-66),0.010898269098437307
+201712,MK17 North Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.05278573403047752
+201712,MK17 North Ostrobothnia,N Administrative and support service activities (77-82),0.054444294141518704
+201712,MK17 North Ostrobothnia,O Public administration and defence; compulsory social security (84),0.05371499820616726
+201712,MK17 North Ostrobothnia,P Education (85),0.0748469360748587
+201712,MK17 North Ostrobothnia,Q Human health and social work activities (86-88),0.18186523316884967
+201712,MK17 North Ostrobothnia,"R, S Other service activities (90-96)",0.04055826427567387
+201712,MK17 North Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00760467455168885
+201712,MK18 Kainuu,"A Agriculture, forestry and fishing (01-03)",0.06760799329903075
+201712,MK18 Kainuu,B Mining and quarrying (05-09),0.029406485580950104
+201712,MK18 Kainuu,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00810697618762714
+201712,MK18 Kainuu,F Construction (41-43),0.0667404571018308
+201712,MK18 Kainuu,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08863826732080891
+201712,MK18 Kainuu,H Transportation and storage (49-53),0.05070599497427307
+201712,MK18 Kainuu,I Accommodation and food service activities (55-56),0.026654301782936464
+201712,MK18 Kainuu,J Information and communication (58-63),0.013461768577240638
+201712,MK18 Kainuu,K Financial and insurance activities (64-66),0.010260859159985642
+201712,MK18 Kainuu,"M Professional, scientific and technical activities (69-75)",0.031171473016632766
+201712,MK18 Kainuu,N Administrative and support service activities (77-82),0.05579155199234175
+201712,MK18 Kainuu,O Public administration and defence; compulsory social security (84),0.18023812372861078
+201712,MK18 Kainuu,P Education (85),0.061595070001196614
+201712,MK18 Kainuu,Q Human health and social work activities (86-88),0.1746440110087352
+201712,MK18 Kainuu,"R, S Other service activities (90-96)",0.04609907861672849
+201712,MK18 Kainuu,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008196721311475412
+201712,MK19 Lapland,"A Agriculture, forestry and fishing (01-03)",0.048634844808090556
+201712,MK19 Lapland,B Mining and quarrying (05-09),0.02416496207549327
+201712,MK19 Lapland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013378393830438703
+201712,MK19 Lapland,F Construction (41-43),0.08267161315732635
+201712,MK19 Lapland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09718075442452578
+201712,MK19 Lapland,H Transportation and storage (49-53),0.05840501086279841
+201712,MK19 Lapland,I Accommodation and food service activities (55-56),0.051239375420854036
+201712,MK19 Lapland,J Information and communication (58-63),0.010875503436709906
+201712,MK19 Lapland,K Financial and insurance activities (64-66),0.006136528224218322
+201712,MK19 Lapland,"M Professional, scientific and technical activities (69-75)",0.03957616028662542
+201712,MK19 Lapland,N Administrative and support service activities (77-82),0.058557471191350415
+201712,MK19 Lapland,O Public administration and defence; compulsory social security (84),0.09610082709728239
+201712,MK19 Lapland,P Education (85),0.0647956396346034
+201712,MK19 Lapland,Q Human health and social work activities (86-88),0.18093229490909551
+201712,MK19 Lapland,"R, S Other service activities (90-96)",0.04628441474291377
+201712,MK19 Lapland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006517679045598343
+201712,MK21 Åland,"A Agriculture, forestry and fishing (01-03)",0.042474406447397084
+201712,MK21 Åland,B Mining and quarrying (05-09),0.000653452406883032
+201712,MK21 Åland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009039424961881943
+201712,MK21 Åland,F Construction (41-43),0.09382487475495535
+201712,MK21 Åland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08505772162927466
+201712,MK21 Åland,H Transportation and storage (49-53),0.2117730341973426
+201712,MK21 Åland,I Accommodation and food service activities (55-56),0.04683075582661729
+201712,MK21 Åland,J Information and communication (58-63),0.03147462426486604
+201712,MK21 Åland,K Financial and insurance activities (64-66),0.026791548682204312
+201712,MK21 Åland,"M Professional, scientific and technical activities (69-75)",0.03240034850795034
+201712,MK21 Åland,N Administrative and support service activities (77-82),0.016445218906556303
+201712,MK21 Åland,O Public administration and defence; compulsory social security (84),0.08173600522761924
+201712,MK21 Åland,P Education (85),0.06022653016771946
+201712,MK21 Åland,Q Human health and social work activities (86-88),0.14533870616423436
+201712,MK21 Åland,"R, S Other service activities (90-96)",0.04868220431278589
+201712,MK21 Åland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00163363101720758
+201812,MK01 Uusimaa,"A Agriculture, forestry and fishing (01-03)",0.006139042965693519
+201812,MK01 Uusimaa,B Mining and quarrying (05-09),0.00039231625254299176
+201812,MK01 Uusimaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01001982229486533
+201812,MK01 Uusimaa,F Construction (41-43),0.07772752169150249
+201812,MK01 Uusimaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12468701639686319
+201812,MK01 Uusimaa,H Transportation and storage (49-53),0.05993962024656153
+201812,MK01 Uusimaa,I Accommodation and food service activities (55-56),0.03684077828589313
+201812,MK01 Uusimaa,J Information and communication (58-63),0.07272304428717985
+201812,MK01 Uusimaa,K Financial and insurance activities (64-66),0.03126249760915303
+201812,MK01 Uusimaa,"M Professional, scientific and technical activities (69-75)",0.08579119646676288
+201812,MK01 Uusimaa,N Administrative and support service activities (77-82),0.09158682686790352
+201812,MK01 Uusimaa,O Public administration and defence; compulsory social security (84),0.06030259428631044
+201812,MK01 Uusimaa,P Education (85),0.05590017561857732
+201812,MK01 Uusimaa,Q Human health and social work activities (86-88),0.13396024238841264
+201812,MK01 Uusimaa,"R, S Other service activities (90-96)",0.05481234024795256
+201812,MK01 Uusimaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0034765088417867884
+201812,MK02 Southwest Finland,"A Agriculture, forestry and fishing (01-03)",0.03751638564168866
+201812,MK02 Southwest Finland,B Mining and quarrying (05-09),0.0017642622420944892
+201812,MK02 Southwest Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.006648530230386611
+201812,MK02 Southwest Finland,F Construction (41-43),0.09072707356928658
+201812,MK02 Southwest Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10799709098744814
+201812,MK02 Southwest Finland,H Transportation and storage (49-53),0.057143241932877224
+201812,MK02 Southwest Finland,I Accommodation and food service activities (55-56),0.0362594049094076
+201812,MK02 Southwest Finland,J Information and communication (58-63),0.02513063621181921
+201812,MK02 Southwest Finland,K Financial and insurance activities (64-66),0.013835766488893677
+201812,MK02 Southwest Finland,"M Professional, scientific and technical activities (69-75)",0.05688286735261901
+201812,MK02 Southwest Finland,N Administrative and support service activities (77-82),0.06740559176857189
+201812,MK02 Southwest Finland,O Public administration and defence; compulsory social security (84),0.048582305302663
+201812,MK02 Southwest Finland,P Education (85),0.06187936576343623
+201812,MK02 Southwest Finland,Q Human health and social work activities (86-88),0.1715644023056618
+201812,MK02 Southwest Finland,"R, S Other service activities (90-96)",0.042741834114457075
+201812,MK02 Southwest Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004839375819282085
+201812,MK04 Satakunta,"A Agriculture, forestry and fishing (01-03)",0.0413725314985256
+201812,MK04 Satakunta,B Mining and quarrying (05-09),0.003226799312939962
+201812,MK04 Satakunta,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.02012529909947478
+201812,MK04 Satakunta,F Construction (41-43),0.08955609170067216
+201812,MK04 Satakunta,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09862091561671582
+201812,MK04 Satakunta,H Transportation and storage (49-53),0.05865824720261322
+201812,MK04 Satakunta,I Accommodation and food service activities (55-56),0.028127761395565883
+201812,MK04 Satakunta,J Information and communication (58-63),0.013840486899194789
+201812,MK04 Satakunta,K Financial and insurance activities (64-66),0.006552884758585769
+201812,MK04 Satakunta,"M Professional, scientific and technical activities (69-75)",0.03607065201203348
+201812,MK04 Satakunta,N Administrative and support service activities (77-82),0.055361947596779156
+201812,MK04 Satakunta,O Public administration and defence; compulsory social security (84),0.0867959372114497
+201812,MK04 Satakunta,P Education (85),0.05051678432073393
+201812,MK04 Satakunta,Q Human health and social work activities (86-88),0.16709856134393708
+201812,MK04 Satakunta,"R, S Other service activities (90-96)",0.04038959878473773
+201812,MK04 Satakunta,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.005411094232468552
+201812,MK05 Kanta-Häme,"A Agriculture, forestry and fishing (01-03)",0.04162729800502119
+201812,MK05 Kanta-Häme,B Mining and quarrying (05-09),0.00143076964608698
+201812,MK05 Kanta-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.014010744270172503
+201812,MK05 Kanta-Häme,F Construction (41-43),0.0833085873174419
+201812,MK05 Kanta-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12498987662986259
+201812,MK05 Kanta-Häme,H Transportation and storage (49-53),0.04230218934751505
+201812,MK05 Kanta-Häme,I Accommodation and food service activities (55-56),0.02999217126042707
+201812,MK05 Kanta-Häme,J Information and communication (58-63),0.017142240099344005
+201812,MK05 Kanta-Häme,K Financial and insurance activities (64-66),0.007720756958129741
+201812,MK05 Kanta-Häme,"M Professional, scientific and technical activities (69-75)",0.04185676106146911
+201812,MK05 Kanta-Häme,N Administrative and support service activities (77-82),0.058351105472019014
+201812,MK05 Kanta-Häme,O Public administration and defence; compulsory social security (84),0.10096374483708123
+201812,MK05 Kanta-Häme,P Education (85),0.058580568528466916
+201812,MK05 Kanta-Häme,Q Human health and social work activities (86-88),0.1534702912831034
+201812,MK05 Kanta-Häme,"R, S Other service activities (90-96)",0.04639203088302783
+201812,MK05 Kanta-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004859217665955781
+201812,MK06 Pirkanmaa,"A Agriculture, forestry and fishing (01-03)",0.02513335411764203
+201812,MK06 Pirkanmaa,B Mining and quarrying (05-09),0.0011531020580736362
+201812,MK06 Pirkanmaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007730054537456598
+201812,MK06 Pirkanmaa,F Construction (41-43),0.07850916716136168
+201812,MK06 Pirkanmaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10926709687338512
+201812,MK06 Pirkanmaa,H Transportation and storage (49-53),0.049083710938667785
+201812,MK06 Pirkanmaa,I Accommodation and food service activities (55-56),0.03185551204137501
+201812,MK06 Pirkanmaa,J Information and communication (58-63),0.049873799385866384
+201812,MK06 Pirkanmaa,K Financial and insurance activities (64-66),0.01179153623089374
+201812,MK06 Pirkanmaa,"M Professional, scientific and technical activities (69-75)",0.06301062135117937
+201812,MK06 Pirkanmaa,N Administrative and support service activities (77-82),0.07473382560826133
+201812,MK06 Pirkanmaa,O Public administration and defence; compulsory social security (84),0.04412110134058791
+201812,MK06 Pirkanmaa,P Education (85),0.06562859009784285
+201812,MK06 Pirkanmaa,Q Human health and social work activities (86-88),0.17077868554906875
+201812,MK06 Pirkanmaa,"R, S Other service activities (90-96)",0.04514181019940124
+201812,MK06 Pirkanmaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.003882110262181242
+201812,MK07 Päijät-Häme,"A Agriculture, forestry and fishing (01-03)",0.034818698629340714
+201812,MK07 Päijät-Häme,B Mining and quarrying (05-09),0.0007324133601497378
+201812,MK07 Päijät-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012485903949219342
+201812,MK07 Päijät-Häme,F Construction (41-43),0.09446969785042492
+201812,MK07 Päijät-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11341944034318799
+201812,MK07 Päijät-Häme,H Transportation and storage (49-53),0.049931990187986094
+201812,MK07 Päijät-Häme,I Accommodation and food service activities (55-56),0.03765534719880954
+201812,MK07 Päijät-Häme,J Information and communication (58-63),0.019414766848413686
+201812,MK07 Päijät-Häme,K Financial and insurance activities (64-66),0.007021867770324471
+201812,MK07 Päijät-Häme,"M Professional, scientific and technical activities (69-75)",0.04768824767197183
+201812,MK07 Päijät-Häme,N Administrative and support service activities (77-82),0.06397572572863504
+201812,MK07 Päijät-Häme,O Public administration and defence; compulsory social security (84),0.03491170350047084
+201812,MK07 Päijät-Häme,P Education (85),0.05654696164711627
+201812,MK07 Päijät-Häme,Q Human health and social work activities (86-88),0.1793366427566644
+201812,MK07 Päijät-Häme,"R, S Other service activities (90-96)",0.04496785519141565
+201812,MK07 Päijät-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.003243544880663125
+201812,MK08 Kymenlaakso,"A Agriculture, forestry and fishing (01-03)",0.03252065833504063
+201812,MK08 Kymenlaakso,B Mining and quarrying (05-09),0.0018575428532404562
+201812,MK08 Kymenlaakso,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011978419722734411
+201812,MK08 Kymenlaakso,F Construction (41-43),0.07396025404630198
+201812,MK08 Kymenlaakso,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09905074096838079
+201812,MK08 Kymenlaakso,H Transportation and storage (49-53),0.07628218261285255
+201812,MK08 Kymenlaakso,I Accommodation and food service activities (55-56),0.0280953356552619
+201812,MK08 Kymenlaakso,J Information and communication (58-63),0.012483780646042478
+201812,MK08 Kymenlaakso,K Financial and insurance activities (64-66),0.005381410913064263
+201812,MK08 Kymenlaakso,"M Professional, scientific and technical activities (69-75)",0.039322543194700535
+201812,MK08 Kymenlaakso,N Administrative and support service activities (77-82),0.05658676500717066
+201812,MK08 Kymenlaakso,O Public administration and defence; compulsory social security (84),0.14117325684627466
+201812,MK08 Kymenlaakso,P Education (85),0.04474492931776275
+201812,MK08 Kymenlaakso,Q Human health and social work activities (86-88),0.1836099160008195
+201812,MK08 Kymenlaakso,"R, S Other service activities (90-96)",0.045072730997746356
+201812,MK08 Kymenlaakso,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.002021443693232261
+201812,MK09 South Karelia,"A Agriculture, forestry and fishing (01-03)",0.040921919096895576
+201812,MK09 South Karelia,B Mining and quarrying (05-09),0.002257761053621825
+201812,MK09 South Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009764816556914394
+201812,MK09 South Karelia,F Construction (41-43),0.08199435559736594
+201812,MK09 South Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.1136782690498589
+201812,MK09 South Karelia,H Transportation and storage (49-53),0.060188146754468486
+201812,MK09 South Karelia,I Accommodation and food service activities (55-56),0.03994355597365946
+201812,MK09 South Karelia,J Information and communication (58-63),0.019943555973659457
+201812,MK09 South Karelia,K Financial and insurance activities (64-66),0.0072812793979303864
+201812,MK09 South Karelia,"M Professional, scientific and technical activities (69-75)",0.039492003762935095
+201812,MK09 South Karelia,N Administrative and support service activities (77-82),0.05883349012229539
+201812,MK09 South Karelia,O Public administration and defence; compulsory social security (84),0.07710253998118533
+201812,MK09 South Karelia,P Education (85),0.0664722483537159
+201812,MK09 South Karelia,Q Human health and social work activities (86-88),0.1620131702728128
+201812,MK09 South Karelia,"R, S Other service activities (90-96)",0.04449670743179681
+201812,MK09 South Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0036312323612417686
+201812,MK10 South Savo,"A Agriculture, forestry and fishing (01-03)",0.07019895215052828
+201812,MK10 South Savo,B Mining and quarrying (05-09),0.0013750848549198447
+201812,MK10 South Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008511601190579799
+201812,MK10 South Savo,F Construction (41-43),0.08038154253189675
+201812,MK10 South Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10353170527928147
+201812,MK10 South Savo,H Transportation and storage (49-53),0.04882421541835651
+201812,MK10 South Savo,I Accommodation and food service activities (55-56),0.03606551670118884
+201812,MK10 South Savo,J Information and communication (58-63),0.01449931245757254
+201812,MK10 South Savo,K Financial and insurance activities (64-66),0.0067883935875789805
+201812,MK10 South Savo,"M Professional, scientific and technical activities (69-75)",0.03698804198360342
+201812,MK10 South Savo,N Administrative and support service activities (77-82),0.032653913769995296
+201812,MK10 South Savo,O Public administration and defence; compulsory social security (84),0.06729212720405214
+201812,MK10 South Savo,P Education (85),0.06549929505143513
+201812,MK10 South Savo,Q Human health and social work activities (86-88),0.221736784390176
+201812,MK10 South Savo,"R, S Other service activities (90-96)",0.04729247532680023
+201812,MK10 South Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008790099389044577
+201812,MK11 North Savo,"A Agriculture, forestry and fishing (01-03)",0.06803813818045183
+201812,MK11 North Savo,B Mining and quarrying (05-09),0.003672913437602743
+201812,MK11 North Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008764266591517543
+201812,MK11 North Savo,F Construction (41-43),0.09465032173218732
+201812,MK11 North Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10400638767554365
+201812,MK11 North Savo,H Transportation and storage (49-53),0.05009628481518012
+201812,MK11 North Savo,I Accommodation and food service activities (55-56),0.028519092574327182
+201812,MK11 North Savo,J Information and communication (58-63),0.017669437790615753
+201812,MK11 North Savo,K Financial and insurance activities (64-66),0.012756563806303134
+201812,MK11 North Savo,"M Professional, scientific and technical activities (69-75)",0.044018599408200645
+201812,MK11 North Savo,N Administrative and support service activities (77-82),0.05432342304260016
+201812,MK11 North Savo,O Public administration and defence; compulsory social security (84),0.050904137898642614
+201812,MK11 North Savo,P Education (85),0.06738058334507538
+201812,MK11 North Savo,Q Human health and social work activities (86-88),0.2017378234934949
+201812,MK11 North Savo,"R, S Other service activities (90-96)",0.04542764548400733
+201812,MK11 North Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.009882109811657509
+201812,MK12 North Karelia,"A Agriculture, forestry and fishing (01-03)",0.07041082878176204
+201812,MK12 North Karelia,B Mining and quarrying (05-09),0.00574388506293042
+201812,MK12 North Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.006649251959154594
+201812,MK12 North Karelia,F Construction (41-43),0.07738660650676799
+201812,MK12 North Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09774994063167894
+201812,MK12 North Karelia,H Transportation and storage (49-53),0.04528318689147471
+201812,MK12 North Karelia,I Accommodation and food service activities (55-56),0.03430004749465685
+201812,MK12 North Karelia,J Information and communication (58-63),0.01938375682735692
+201812,MK12 North Karelia,K Financial and insurance activities (64-66),0.007599145096176679
+201812,MK12 North Karelia,"M Professional, scientific and technical activities (69-75)",0.03375089052481595
+201812,MK12 North Karelia,N Administrative and support service activities (77-82),0.04169140346710995
+201812,MK12 North Karelia,O Public administration and defence; compulsory social security (84),0.0633905248159582
+201812,MK12 North Karelia,P Education (85),0.0742549275706483
+201812,MK12 North Karelia,Q Human health and social work activities (86-88),0.19977440037995725
+201812,MK12 North Karelia,"R, S Other service activities (90-96)",0.04540192353360247
+201812,MK12 North Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.00951377345048682
+201812,MK13 Central Finland,"A Agriculture, forestry and fishing (01-03)",0.04174488944513976
+201812,MK13 Central Finland,B Mining and quarrying (05-09),0.0027551800862188848
+201812,MK13 Central Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010707829230983174
+201812,MK13 Central Finland,F Construction (41-43),0.08429808093450146
+201812,MK13 Central Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10005562508691421
+201812,MK13 Central Finland,H Transportation and storage (49-53),0.045230148797107496
+201812,MK13 Central Finland,I Accommodation and food service activities (55-56),0.03190620219719093
+201812,MK13 Central Finland,J Information and communication (58-63),0.036573494646085385
+201812,MK13 Central Finland,K Financial and insurance activities (64-66),0.005466903073286052
+201812,MK13 Central Finland,"M Professional, scientific and technical activities (69-75)",0.05235711305798915
+201812,MK13 Central Finland,N Administrative and support service activities (77-82),0.05313934084272007
+201812,MK13 Central Finland,O Public administration and defence; compulsory social security (84),0.06275205117507995
+201812,MK13 Central Finland,P Education (85),0.08027395355305243
+201812,MK13 Central Finland,Q Human health and social work activities (86-88),0.1770094562647754
+201812,MK13 Central Finland,"R, S Other service activities (90-96)",0.04804616882213878
+201812,MK13 Central Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007500695313586428
+201812,MK14 South Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.09954450131914222
+201812,MK14 South Ostrobothnia,B Mining and quarrying (05-09),0.006099623424357905
+201812,MK14 South Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008422215707939657
+201812,MK14 South Ostrobothnia,F Construction (41-43),0.08594718921234808
+201812,MK14 South Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11036823234942611
+201812,MK14 South Ostrobothnia,H Transportation and storage (49-53),0.055020632737276476
+201812,MK14 South Ostrobothnia,I Accommodation and food service activities (55-56),0.024139175141497732
+201812,MK14 South Ostrobothnia,J Information and communication (58-63),0.00985410512548763
+201812,MK14 South Ostrobothnia,K Financial and insurance activities (64-66),0.00847858930705572
+201812,MK14 South Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03337317067670868
+201812,MK14 South Ostrobothnia,N Administrative and support service activities (77-82),0.035831059598168985
+201812,MK14 South Ostrobothnia,O Public administration and defence; compulsory social security (84),0.04235912237580896
+201812,MK14 South Ostrobothnia,P Education (85),0.06055652017047377
+201812,MK14 South Ostrobothnia,Q Human health and social work activities (86-88),0.1807675829255643
+201812,MK14 South Ostrobothnia,"R, S Other service activities (90-96)",0.04180666110447155
+201812,MK14 South Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007181996527386295
+201812,MK15 Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.06755999626482398
+201812,MK15 Ostrobothnia,B Mining and quarrying (05-09),0.0010505182556727985
+201812,MK15 Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009839854328135214
+201812,MK15 Ostrobothnia,F Construction (41-43),0.06949761882528714
+201812,MK15 Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08743813614716593
+201812,MK15 Ostrobothnia,H Transportation and storage (49-53),0.03919600336165842
+201812,MK15 Ostrobothnia,I Accommodation and food service activities (55-56),0.03430525726024839
+201812,MK15 Ostrobothnia,J Information and communication (58-63),0.023134746474927633
+201812,MK15 Ostrobothnia,K Financial and insurance activities (64-66),0.009653095527126716
+201812,MK15 Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.04371323186105146
+201812,MK15 Ostrobothnia,N Administrative and support service activities (77-82),0.045253991969371556
+201812,MK15 Ostrobothnia,O Public administration and defence; compulsory social security (84),0.06270426743860305
+201812,MK15 Ostrobothnia,P Education (85),0.06363806144364553
+201812,MK15 Ostrobothnia,Q Human health and social work activities (86-88),0.15687739284713792
+201812,MK15 Ostrobothnia,"R, S Other service activities (90-96)",0.039079279111028105
+201812,MK15 Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006886730787188346
+201812,MK16 Central Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.07850110309855445
+201812,MK16 Central Ostrobothnia,B Mining and quarrying (05-09),0.003720899601567388
+201812,MK16 Central Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011063913859527808
+201812,MK16 Central Ostrobothnia,F Construction (41-43),0.08159636471401759
+201812,MK16 Central Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12124205604399223
+201812,MK16 Central Ostrobothnia,H Transportation and storage (49-53),0.06569198854094636
+201812,MK16 Central Ostrobothnia,I Accommodation and food service activities (55-56),0.02443280977312391
+201812,MK16 Central Ostrobothnia,J Information and communication (58-63),0.02097533669202147
+201812,MK16 Central Ostrobothnia,K Financial and insurance activities (64-66),0.007277157627844183
+201812,MK16 Central Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03520036879712865
+201812,MK16 Central Ostrobothnia,N Administrative and support service activities (77-82),0.03157825414073562
+201812,MK16 Central Ostrobothnia,O Public administration and defence; compulsory social security (84),0.03615528993381409
+201812,MK16 Central Ostrobothnia,P Education (85),0.07175079851164015
+201812,MK16 Central Ostrobothnia,Q Human health and social work activities (86-88),0.1920708617340051
+201812,MK16 Central Ostrobothnia,"R, S Other service activities (90-96)",0.04448615364351806
+201812,MK16 Central Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006717376271856168
+201812,MK17 North Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.04906752447996013
+201812,MK17 North Ostrobothnia,B Mining and quarrying (05-09),0.00672809546193359
+201812,MK17 North Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009571112231201825
+201812,MK17 North Ostrobothnia,F Construction (41-43),0.09406307872664564
+201812,MK17 North Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09501452656974736
+201812,MK17 North Ostrobothnia,H Transportation and storage (49-53),0.050024635703080314
+201812,MK17 North Ostrobothnia,I Accommodation and food service activities (55-56),0.029109773294897858
+201812,MK17 North Ostrobothnia,J Information and communication (58-63),0.03208304780459074
+201812,MK17 North Ostrobothnia,K Financial and insurance activities (64-66),0.010052499532771148
+201812,MK17 North Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.05383042707548719
+201812,MK17 North Ostrobothnia,N Administrative and support service activities (77-82),0.05533688616039825
+201812,MK17 North Ostrobothnia,O Public administration and defence; compulsory social security (84),0.05705855368601088
+201812,MK17 North Ostrobothnia,P Education (85),0.07663119502981769
+201812,MK17 North Ostrobothnia,Q Human health and social work activities (86-88),0.18372571117894582
+201812,MK17 North Ostrobothnia,"R, S Other service activities (90-96)",0.04006841363062303
+201812,MK17 North Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007588929224739909
+201812,MK18 Kainuu,"A Agriculture, forestry and fishing (01-03)",0.0659372978060114
+201812,MK18 Kainuu,B Mining and quarrying (05-09),0.02888065407917181
+201812,MK18 Kainuu,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00744073878007176
+201812,MK18 Kainuu,F Construction (41-43),0.06846656079054173
+201812,MK18 Kainuu,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0859655314393271
+201812,MK18 Kainuu,H Transportation and storage (49-53),0.04911475795541438
+201812,MK18 Kainuu,I Accommodation and food service activities (55-56),0.02726310217046056
+201812,MK18 Kainuu,J Information and communication (58-63),0.015587318393035704
+201812,MK18 Kainuu,K Financial and insurance activities (64-66),0.00961708134815599
+201812,MK18 Kainuu,"M Professional, scientific and technical activities (69-75)",0.03185106758425975
+201812,MK18 Kainuu,N Administrative and support service activities (77-82),0.06123169225339685
+201812,MK18 Kainuu,O Public administration and defence; compulsory social security (84),0.1791953414505029
+201812,MK18 Kainuu,P Education (85),0.05926121992823952
+201812,MK18 Kainuu,Q Human health and social work activities (86-88),0.1801952826304335
+201812,MK18 Kainuu,"R, S Other service activities (90-96)",0.04379154167401918
+201812,MK18 Kainuu,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008234809717075466
+201812,MK19 Lapland,"A Agriculture, forestry and fishing (01-03)",0.04492419738406658
+201812,MK19 Lapland,B Mining and quarrying (05-09),0.025081747919143874
+201812,MK19 Lapland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012460364645263575
+201812,MK19 Lapland,F Construction (41-43),0.08786662703131193
+201812,MK19 Lapland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09536018628616726
+201812,MK19 Lapland,H Transportation and storage (49-53),0.056839575901704326
+201812,MK19 Lapland,I Accommodation and food service activities (55-56),0.05334671026555688
+201812,MK19 Lapland,J Information and communication (58-63),0.009462940943321443
+201812,MK19 Lapland,K Financial and insurance activities (64-66),0.005053507728894173
+201812,MK19 Lapland,"M Professional, scientific and technical activities (69-75)",0.03931331747919144
+201812,MK19 Lapland,N Administrative and support service activities (77-82),0.06309453032104638
+201812,MK19 Lapland,O Public administration and defence; compulsory social security (84),0.09211504161712247
+201812,MK19 Lapland,P Education (85),0.06392439556084026
+201812,MK19 Lapland,Q Human health and social work activities (86-88),0.18607560443915971
+201812,MK19 Lapland,"R, S Other service activities (90-96)",0.04659631391200951
+201812,MK19 Lapland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007815596512088782
+201812,MK21 Åland,"A Agriculture, forestry and fishing (01-03)",0.041457632725067535
+201812,MK21 Åland,B Mining and quarrying (05-09),0.0006615579690170351
+201812,MK21 Åland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009702850212249849
+201812,MK21 Åland,F Construction (41-43),0.0936655824466619
+201812,MK21 Åland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08826285903302276
+201812,MK21 Åland,H Transportation and storage (49-53),0.21401400297701087
+201812,MK21 Åland,I Accommodation and food service activities (55-56),0.04989249683003474
+201812,MK21 Åland,J Information and communication (58-63),0.03407023540437731
+201812,MK21 Åland,K Financial and insurance activities (64-66),0.020673686531782347
+201812,MK21 Åland,"M Professional, scientific and technical activities (69-75)",0.031699652682066266
+201812,MK21 Åland,N Administrative and support service activities (77-82),0.01642868956392304
+201812,MK21 Åland,O Public administration and defence; compulsory social security (84),0.08181266883510668
+201812,MK21 Åland,P Education (85),0.062131319256849886
+201812,MK21 Åland,Q Human health and social work activities (86-88),0.13837587518606317
+201812,MK21 Åland,"R, S Other service activities (90-96)",0.04746678427697227
+201812,MK21 Åland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0024808423838138817
+201912,MK01 Uusimaa,"A Agriculture, forestry and fishing (01-03)",0.005991437491899548
+201912,MK01 Uusimaa,B Mining and quarrying (05-09),0.0005121066867856454
+201912,MK01 Uusimaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010006101024108002
+201912,MK01 Uusimaa,F Construction (41-43),0.07658523889355452
+201912,MK01 Uusimaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12214798197300167
+201912,MK01 Uusimaa,H Transportation and storage (49-53),0.05882693849767287
+201912,MK01 Uusimaa,I Accommodation and food service activities (55-56),0.03740170133221499
+201912,MK01 Uusimaa,J Information and communication (58-63),0.0732744586263107
+201912,MK01 Uusimaa,K Financial and insurance activities (64-66),0.02851043338345516
+201912,MK01 Uusimaa,"M Professional, scientific and technical activities (69-75)",0.08474628064078667
+201912,MK01 Uusimaa,N Administrative and support service activities (77-82),0.0999261344058772
+201912,MK01 Uusimaa,O Public administration and defence; compulsory social security (84),0.05948024332443645
+201912,MK01 Uusimaa,P Education (85),0.05665101193756513
+201912,MK01 Uusimaa,Q Human health and social work activities (86-88),0.13563029690596942
+201912,MK01 Uusimaa,"R, S Other service activities (90-96)",0.054696366044587004
+201912,MK01 Uusimaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0031390243208527526
+201912,MK02 Southwest Finland,"A Agriculture, forestry and fishing (01-03)",0.03626413331805804
+201912,MK02 Southwest Finland,B Mining and quarrying (05-09),0.0014805284076388216
+201912,MK02 Southwest Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007023697267191315
+201912,MK02 Southwest Finland,F Construction (41-43),0.086205529068589
+201912,MK02 Southwest Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10591065716073428
+201912,MK02 Southwest Finland,H Transportation and storage (49-53),0.057590792523331547
+201912,MK02 Southwest Finland,I Accommodation and food service activities (55-56),0.03705286720188944
+201912,MK02 Southwest Finland,J Information and communication (58-63),0.025970935817330995
+201912,MK02 Southwest Finland,K Financial and insurance activities (64-66),0.014787658738202038
+201912,MK02 Southwest Finland,"M Professional, scientific and technical activities (69-75)",0.058097520996184114
+201912,MK02 Southwest Finland,N Administrative and support service activities (77-82),0.06776942532584844
+201912,MK02 Southwest Finland,O Public administration and defence; compulsory social security (84),0.04898081481938434
+201912,MK02 Southwest Finland,P Education (85),0.060604725353167715
+201912,MK02 Southwest Finland,Q Human health and social work activities (86-88),0.17794100799309087
+201912,MK02 Southwest Finland,"R, S Other service activities (90-96)",0.043287830585249355
+201912,MK02 Southwest Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0038114793827606565
+201912,MK04 Satakunta,"A Agriculture, forestry and fishing (01-03)",0.04183156010738789
+201912,MK04 Satakunta,B Mining and quarrying (05-09),0.0029631102714527194
+201912,MK04 Satakunta,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.02161678432932286
+201912,MK04 Satakunta,F Construction (41-43),0.08817738888336484
+201912,MK04 Satakunta,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0953862981008253
+201912,MK04 Satakunta,H Transportation and storage (49-53),0.058158496569553554
+201912,MK04 Satakunta,I Accommodation and food service activities (55-56),0.02929302973053595
+201912,MK04 Satakunta,J Information and communication (58-63),0.01309535646813165
+201912,MK04 Satakunta,K Financial and insurance activities (64-66),0.008352391369195586
+201912,MK04 Satakunta,"M Professional, scientific and technical activities (69-75)",0.03611414934871234
+201912,MK04 Satakunta,N Administrative and support service activities (77-82),0.0524112558417023
+201912,MK04 Satakunta,O Public administration and defence; compulsory social security (84),0.08554240827284479
+201912,MK04 Satakunta,P Education (85),0.051754996519836935
+201912,MK04 Satakunta,Q Human health and social work activities (86-88),0.17405787014020085
+201912,MK04 Satakunta,"R, S Other service activities (90-96)",0.04096649100129263
+201912,MK04 Satakunta,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004096649100129263
+201912,MK05 Kanta-Häme,"A Agriculture, forestry and fishing (01-03)",0.0416060634365701
+201912,MK05 Kanta-Häme,B Mining and quarrying (05-09),0.0010941940993581618
+201912,MK05 Kanta-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.014357961596455878
+201912,MK05 Kanta-Häme,F Construction (41-43),0.08069014291242443
+201912,MK05 Kanta-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12619260484914802
+201912,MK05 Kanta-Häme,H Transportation and storage (49-53),0.04294044648456786
+201912,MK05 Kanta-Häme,I Accommodation and food service activities (55-56),0.03195847399954631
+201912,MK05 Kanta-Häme,J Information and communication (58-63),0.015292029730054307
+201912,MK05 Kanta-Häme,K Financial and insurance activities (64-66),0.009047117065424801
+201912,MK05 Kanta-Häme,"M Professional, scientific and technical activities (69-75)",0.04266022604448833
+201912,MK05 Kanta-Häme,N Administrative and support service activities (77-82),0.05837925834990192
+201912,MK05 Kanta-Häme,O Public administration and defence; compulsory social security (84),0.09771687060487584
+201912,MK05 Kanta-Häme,P Education (85),0.05963357841501982
+201912,MK05 Kanta-Häme,Q Human health and social work activities (86-88),0.1567633204787766
+201912,MK05 Kanta-Häme,"R, S Other service activities (90-96)",0.04843810464231862
+201912,MK05 Kanta-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0044968708717524454
+201912,MK06 Pirkanmaa,"A Agriculture, forestry and fishing (01-03)",0.024751872246233455
+201912,MK06 Pirkanmaa,B Mining and quarrying (05-09),0.0013062671421311056
+201912,MK06 Pirkanmaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.006665742619170625
+201912,MK06 Pirkanmaa,F Construction (41-43),0.07429341868172024
+201912,MK06 Pirkanmaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10569843289945102
+201912,MK06 Pirkanmaa,H Transportation and storage (49-53),0.04944494146999156
+201912,MK06 Pirkanmaa,I Accommodation and food service activities (55-56),0.035916046084768755
+201912,MK06 Pirkanmaa,J Information and communication (58-63),0.04964655183276421
+201912,MK06 Pirkanmaa,K Financial and insurance activities (64-66),0.012193226731854018
+201912,MK06 Pirkanmaa,"M Professional, scientific and technical activities (69-75)",0.06362487031833436
+201912,MK06 Pirkanmaa,N Administrative and support service activities (77-82),0.07336517096978784
+201912,MK06 Pirkanmaa,O Public administration and defence; compulsory social security (84),0.045929360769143536
+201912,MK06 Pirkanmaa,P Education (85),0.06460352062095992
+201912,MK06 Pirkanmaa,Q Human health and social work activities (86-88),0.17572863245170803
+201912,MK06 Pirkanmaa,"R, S Other service activities (90-96)",0.04628637911988676
+201912,MK06 Pirkanmaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0029611522032232454
+201912,MK07 Päijät-Häme,"A Agriculture, forestry and fishing (01-03)",0.03476212031523846
+201912,MK07 Päijät-Häme,B Mining and quarrying (05-09),0.0007196165140383254
+201912,MK07 Päijät-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012187053866778092
+201912,MK07 Päijät-Häme,F Construction (41-43),0.09137969056489897
+201912,MK07 Päijät-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11015936023770559
+201912,MK07 Päijät-Häme,H Transportation and storage (49-53),0.05093027844516406
+201912,MK07 Päijät-Häme,I Accommodation and food service activities (55-56),0.0378611140127906
+201912,MK07 Päijät-Häme,J Information and communication (58-63),0.021495641677402883
+201912,MK07 Päijät-Häme,K Financial and insurance activities (64-66),0.00786935478254814
+201912,MK07 Päijät-Häme,"M Professional, scientific and technical activities (69-75)",0.04480193135786994
+201912,MK07 Päijät-Häme,N Administrative and support service activities (77-82),0.06193344707916943
+201912,MK07 Päijät-Häme,O Public administration and defence; compulsory social security (84),0.03779147370498044
+201912,MK07 Päijät-Häme,P Education (85),0.0558050999918753
+201912,MK07 Päijät-Häme,Q Human health and social work activities (86-88),0.18780830344603458
+201912,MK07 Päijät-Häme,"R, S Other service activities (90-96)",0.046159917360168064
+201912,MK07 Päijät-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0025070510811657787
+201912,MK08 Kymenlaakso,"A Agriculture, forestry and fishing (01-03)",0.03338239137312078
+201912,MK08 Kymenlaakso,B Mining and quarrying (05-09),0.0018293605490832567
+201912,MK08 Kymenlaakso,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012709241709420518
+201912,MK08 Kymenlaakso,F Construction (41-43),0.07274802965489731
+201912,MK08 Kymenlaakso,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09991334607925395
+201912,MK08 Kymenlaakso,H Transportation and storage (49-53),0.07714949864517283
+201912,MK08 Kymenlaakso,I Accommodation and food service activities (55-56),0.032213251172578845
+201912,MK08 Kymenlaakso,J Information and communication (58-63),0.0105497709860666
+201912,MK08 Kymenlaakso,K Financial and insurance activities (64-66),0.005776928049736599
+201912,MK08 Kymenlaakso,"M Professional, scientific and technical activities (69-75)",0.04111247128729213
+201912,MK08 Kymenlaakso,N Administrative and support service activities (77-82),0.05544475468687674
+201912,MK08 Kymenlaakso,O Public administration and defence; compulsory social security (84),0.14427190074687427
+201912,MK08 Kymenlaakso,P Education (85),0.045623977002324526
+201912,MK08 Kymenlaakso,Q Human health and social work activities (86-88),0.17578366779912794
+201912,MK08 Kymenlaakso,"R, S Other service activities (90-96)",0.04738456459843472
+201912,MK08 Kymenlaakso,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0015267595560018155
+201912,MK09 South Karelia,"A Agriculture, forestry and fishing (01-03)",0.04177545691906006
+201912,MK09 South Karelia,B Mining and quarrying (05-09),0.0019109244333446855
+201912,MK09 South Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009100541113255383
+201912,MK09 South Karelia,F Construction (41-43),0.07407197184697469
+201912,MK09 South Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11056873651946873
+201912,MK09 South Karelia,H Transportation and storage (49-53),0.06022249971619934
+201912,MK09 South Karelia,I Accommodation and food service activities (55-56),0.04075377454875695
+201912,MK09 South Karelia,J Information and communication (58-63),0.01895788398229084
+201912,MK09 South Karelia,K Financial and insurance activities (64-66),0.008476179664736823
+201912,MK09 South Karelia,"M Professional, scientific and technical activities (69-75)",0.03867256972036175
+201912,MK09 South Karelia,N Administrative and support service activities (77-82),0.06228478450070004
+201912,MK09 South Karelia,O Public administration and defence; compulsory social security (84),0.08165890944866992
+201912,MK09 South Karelia,P Education (85),0.06654179437696295
+201912,MK09 South Karelia,Q Human health and social work activities (86-88),0.1671964278957127
+201912,MK09 South Karelia,"R, S Other service activities (90-96)",0.04379990161577175
+201912,MK09 South Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0036515684716388543
+201912,MK10 South Savo,"A Agriculture, forestry and fishing (01-03)",0.0763370700725367
+201912,MK10 South Savo,B Mining and quarrying (05-09),0.0015270884670114185
+201912,MK10 South Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00782632839343352
+201912,MK10 South Savo,F Construction (41-43),0.07330024641654809
+201912,MK10 South Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10110019782736959
+201912,MK10 South Savo,H Transportation and storage (49-53),0.04919654322701558
+201912,MK10 South Savo,I Accommodation and food service activities (55-56),0.03508832818519418
+201912,MK10 South Savo,J Information and communication (58-63),0.01252906674070732
+201912,MK10 South Savo,K Financial and insurance activities (64-66),0.007513969388817548
+201912,MK10 South Savo,"M Professional, scientific and technical activities (69-75)",0.03675424287647937
+201912,MK10 South Savo,N Administrative and support service activities (77-82),0.03357859299621699
+201912,MK10 South Savo,O Public administration and defence; compulsory social security (84),0.06235032797695485
+201912,MK10 South Savo,P Education (85),0.06476243362371152
+201912,MK10 South Savo,Q Human health and social work activities (86-88),0.23001770034359492
+201912,MK10 South Savo,"R, S Other service activities (90-96)",0.05117481692291674
+201912,MK10 South Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008156040676083711
+201912,MK11 North Savo,"A Agriculture, forestry and fishing (01-03)",0.06720513711787197
+201912,MK11 North Savo,B Mining and quarrying (05-09),0.0035857375459651306
+201912,MK11 North Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009128995078758164
+201912,MK11 North Savo,F Construction (41-43),0.09042095827006458
+201912,MK11 North Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10115987632864382
+201912,MK11 North Savo,H Transportation and storage (49-53),0.05196575254752017
+201912,MK11 North Savo,I Accommodation and food service activities (55-56),0.03213442856881506
+201912,MK11 North Savo,J Information and communication (58-63),0.017727447357348016
+201912,MK11 North Savo,K Financial and insurance activities (64-66),0.013583725142240355
+201912,MK11 North Savo,"M Professional, scientific and technical activities (69-75)",0.045782184738661934
+201912,MK11 North Savo,N Administrative and support service activities (77-82),0.05780172334937158
+201912,MK11 North Savo,O Public administration and defence; compulsory social security (84),0.0519200160992298
+201912,MK11 North Savo,P Education (85),0.0671959898282139
+201912,MK11 North Savo,Q Human health and social work activities (86-88),0.1987797515596129
+201912,MK11 North Savo,"R, S Other service activities (90-96)",0.04666947183549514
+201912,MK11 North Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008680777885512522
+201912,MK12 North Karelia,"A Agriculture, forestry and fishing (01-03)",0.0672641120725175
+201912,MK12 North Karelia,B Mining and quarrying (05-09),0.004723644711283771
+201912,MK12 North Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.006563070221908294
+201912,MK12 North Karelia,F Construction (41-43),0.07337100476779092
+201912,MK12 North Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.0953411030666902
+201912,MK12 North Karelia,H Transportation and storage (49-53),0.04514685973276826
+201912,MK12 North Karelia,I Accommodation and food service activities (55-56),0.0338307139914062
+201912,MK12 North Karelia,J Information and communication (58-63),0.017702631114250397
+201912,MK12 North Karelia,K Financial and insurance activities (64-66),0.009005827300017658
+201912,MK12 North Karelia,"M Professional, scientific and technical activities (69-75)",0.03718582612278533
+201912,MK12 North Karelia,N Administrative and support service activities (77-82),0.04105597739713932
+201912,MK12 North Karelia,O Public administration and defence; compulsory social security (84),0.06791158985225734
+201912,MK12 North Karelia,P Education (85),0.07362116663723586
+201912,MK12 North Karelia,Q Human health and social work activities (86-88),0.20358761551592208
+201912,MK12 North Karelia,"R, S Other service activities (90-96)",0.04632409205956796
+201912,MK12 North Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007578433103773029
+201912,MK13 Central Finland,"A Agriculture, forestry and fishing (01-03)",0.04151369669584863
+201912,MK13 Central Finland,B Mining and quarrying (05-09),0.0026785790694291117
+201912,MK13 Central Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01011527303535211
+201912,MK13 Central Finland,F Construction (41-43),0.0837975918461657
+201912,MK13 Central Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09752423985691426
+201912,MK13 Central Finland,H Transportation and storage (49-53),0.045184975995481505
+201912,MK13 Central Finland,I Accommodation and food service activities (55-56),0.031030439954472713
+201912,MK13 Central Finland,J Information and communication (58-63),0.03710644998416815
+201912,MK13 Central Finland,K Financial and insurance activities (64-66),0.006700726553875383
+201912,MK13 Central Finland,"M Professional, scientific and technical activities (69-75)",0.05076463591007506
+201912,MK13 Central Finland,N Administrative and support service activities (77-82),0.05094434888278436
+201912,MK13 Central Finland,O Public administration and defence; compulsory social security (84),0.06615148947823335
+201912,MK13 Central Finland,P Education (85),0.08134151455247192
+201912,MK13 Central Finland,Q Human health and social work activities (86-88),0.18182673957878703
+201912,MK13 Central Finland,"R, S Other service activities (90-96)",0.049207123479927777
+201912,MK13 Central Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006127356593326658
+201912,MK14 South Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.09604570304202488
+201912,MK14 South Ostrobothnia,B Mining and quarrying (05-09),0.006115353225932676
+201912,MK14 South Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00873142754927499
+201912,MK14 South Ostrobothnia,F Construction (41-43),0.08174673270204702
+201912,MK14 South Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10984158216597537
+201912,MK14 South Ostrobothnia,H Transportation and storage (49-53),0.05324941026529677
+201912,MK14 South Ostrobothnia,I Accommodation and food service activities (55-56),0.02475208782854651
+201912,MK14 South Ostrobothnia,J Information and communication (58-63),0.009346316813308438
+201912,MK14 South Ostrobothnia,K Financial and insurance activities (64-66),0.010542555926973514
+201912,MK14 South Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.032734468456180756
+201912,MK14 South Ostrobothnia,N Administrative and support service activities (77-82),0.03633436560197659
+201912,MK14 South Ostrobothnia,O Public administration and defence; compulsory social security (84),0.0460496159737051
+201912,MK14 South Ostrobothnia,P Education (85),0.061488926403344996
+201912,MK14 South Ostrobothnia,Q Human health and social work activities (86-88),0.18905049917828434
+201912,MK14 South Ostrobothnia,"R, S Other service activities (90-96)",0.04225966214629892
+201912,MK14 South Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006417207955549095
+201912,MK15 Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.06698520094397749
+201912,MK15 Ostrobothnia,B Mining and quarrying (05-09),0.00118578453597461
+201912,MK15 Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009928039154140363
+201912,MK15 Ostrobothnia,F Construction (41-43),0.06639230867599019
+201912,MK15 Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08653902044897056
+201912,MK15 Ostrobothnia,H Transportation and storage (49-53),0.03911926434857415
+201912,MK15 Ostrobothnia,I Accommodation and food service activities (55-56),0.039328520443157905
+201912,MK15 Ostrobothnia,J Information and communication (58-63),0.022262523395993907
+201912,MK15 Ostrobothnia,K Financial and insurance activities (64-66),0.010683686162359478
+201912,MK15 Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.04486218161103942
+201912,MK15 Ostrobothnia,N Administrative and support service activities (77-82),0.04446692009904788
+201912,MK15 Ostrobothnia,O Public administration and defence; compulsory social security (84),0.059289226798730506
+201912,MK15 Ostrobothnia,P Education (85),0.06405561561980493
+201912,MK15 Ostrobothnia,Q Human health and social work activities (86-88),0.15731408177263162
+201912,MK15 Ostrobothnia,"R, S Other service activities (90-96)",0.03968890593938548
+201912,MK15 Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006545065625036328
+201912,MK16 Central Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.07492179020621847
+201912,MK16 Central Ostrobothnia,B Mining and quarrying (05-09),0.003479537764157569
+201912,MK16 Central Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010949371129413268
+201912,MK16 Central Ostrobothnia,F Construction (41-43),0.07297452595288259
+201912,MK16 Central Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11894273127753303
+201912,MK16 Central Ostrobothnia,H Transportation and storage (49-53),0.06828193832599118
+201912,MK16 Central Ostrobothnia,I Accommodation and food service activities (55-56),0.023079869756751577
+201912,MK16 Central Ostrobothnia,J Information and communication (58-63),0.021036838408989338
+201912,MK16 Central Ostrobothnia,K Financial and insurance activities (64-66),0.00849134903913682
+201912,MK16 Central Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.035082678924854754
+201912,MK16 Central Ostrobothnia,N Administrative and support service activities (77-82),0.03575304858583924
+201912,MK16 Central Ostrobothnia,O Public administration and defence; compulsory social security (84),0.039009129796335314
+201912,MK16 Central Ostrobothnia,P Education (85),0.07380450743791099
+201912,MK16 Central Ostrobothnia,Q Human health and social work activities (86-88),0.1977590499904233
+201912,MK16 Central Ostrobothnia,"R, S Other service activities (90-96)",0.04721317755219307
+201912,MK16 Central Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004724509991700185
+201912,MK17 North Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.048157028941058375
+201912,MK17 North Ostrobothnia,B Mining and quarrying (05-09),0.006429487536943066
+201912,MK17 North Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00968047733229242
+201912,MK17 North Ostrobothnia,F Construction (41-43),0.09069313556014051
+201912,MK17 North Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09471923269949255
+201912,MK17 North Ostrobothnia,H Transportation and storage (49-53),0.05090057436011822
+201912,MK17 North Ostrobothnia,I Accommodation and food service activities (55-56),0.029855573523671443
+201912,MK17 North Ostrobothnia,J Information and communication (58-63),0.03259911894273128
+201912,MK17 North Ostrobothnia,K Financial and insurance activities (64-66),0.011593152289076005
+201912,MK17 North Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.05414598784364022
+201912,MK17 North Ostrobothnia,N Administrative and support service activities (77-82),0.05640997044554731
+201912,MK17 North Ostrobothnia,O Public administration and defence; compulsory social security (84),0.05492109518764289
+201912,MK17 North Ostrobothnia,P Education (85),0.0773880555400658
+201912,MK17 North Ostrobothnia,Q Human health and social work activities (86-88),0.18875257904422013
+201912,MK17 North Ostrobothnia,"R, S Other service activities (90-96)",0.041298165393408796
+201912,MK17 North Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006853287235822228
+201912,MK18 Kainuu,"A Agriculture, forestry and fishing (01-03)",0.06416750103068496
+201912,MK18 Kainuu,B Mining and quarrying (05-09),0.03203957830260911
+201912,MK18 Kainuu,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007656516873785265
+201912,MK18 Kainuu,F Construction (41-43),0.06826079274397787
+201912,MK18 Kainuu,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08348548206608164
+201912,MK18 Kainuu,H Transportation and storage (49-53),0.04747040461746864
+201912,MK18 Kainuu,I Accommodation and food service activities (55-56),0.029300901113139762
+201912,MK18 Kainuu,J Information and communication (58-63),0.013693385947346724
+201912,MK18 Kainuu,K Financial and insurance activities (64-66),0.006802520760939985
+201912,MK18 Kainuu,"M Professional, scientific and technical activities (69-75)",0.03097944519700807
+201912,MK18 Kainuu,N Administrative and support service activities (77-82),0.06587549325637553
+201912,MK18 Kainuu,O Public administration and defence; compulsory social security (84),0.17539313269332707
+201912,MK18 Kainuu,P Education (85),0.06039813887743684
+201912,MK18 Kainuu,Q Human health and social work activities (86-88),0.18299075328346784
+201912,MK18 Kainuu,"R, S Other service activities (90-96)",0.044996760704399556
+201912,MK18 Kainuu,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0076270687319630135
+201912,MK19 Lapland,"A Agriculture, forestry and fishing (01-03)",0.042799547667043615
+201912,MK19 Lapland,B Mining and quarrying (05-09),0.0266483111264074
+201912,MK19 Lapland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013373322188898178
+201912,MK19 Lapland,F Construction (41-43),0.08210826490977924
+201912,MK19 Lapland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09634200304833081
+201912,MK19 Lapland,H Transportation and storage (49-53),0.056209744825212654
+201912,MK19 Lapland,I Accommodation and food service activities (55-56),0.05613599488667093
+201912,MK19 Lapland,J Information and communication (58-63),0.00875165937361719
+201912,MK19 Lapland,K Financial and insurance activities (64-66),0.00559270367274694
+201912,MK19 Lapland,"M Professional, scientific and technical activities (69-75)",0.03757559368700526
+201912,MK19 Lapland,N Administrative and support service activities (77-82),0.062085156595702844
+201912,MK19 Lapland,O Public administration and defence; compulsory social security (84),0.09232263139780718
+201912,MK19 Lapland,P Education (85),0.0649368208859826
+201912,MK19 Lapland,Q Human health and social work activities (86-88),0.18626776144353213
+201912,MK19 Lapland,"R, S Other service activities (90-96)",0.047544127046560795
+201912,MK19 Lapland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007669993608338661
+201912,MK21 Åland,"A Agriculture, forestry and fishing (01-03)",0.04185894999728541
+201912,MK21 Åland,B Mining and quarrying (05-09),0.0005972094033335143
+201912,MK21 Åland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00966393398121505
+201912,MK21 Åland,F Construction (41-43),0.08236060589608556
+201912,MK21 Åland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08225202236820674
+201912,MK21 Åland,H Transportation and storage (49-53),0.2137466746294587
+201912,MK21 Åland,I Accommodation and food service activities (55-56),0.05168575927031869
+201912,MK21 Åland,J Information and communication (58-63),0.03431239480970737
+201912,MK21 Åland,K Financial and insurance activities (64-66),0.02796025842879635
+201912,MK21 Åland,"M Professional, scientific and technical activities (69-75)",0.034366686573646776
+201912,MK21 Åland,N Administrative and support service activities (77-82),0.017373364460611326
+201912,MK21 Åland,O Public administration and defence; compulsory social security (84),0.08301210706335849
+201912,MK21 Åland,P Education (85),0.0579836038872903
+201912,MK21 Åland,Q Human health and social work activities (86-88),0.14609913676095335
+201912,MK21 Åland,"R, S Other service activities (90-96)",0.05081709104728813
+201912,MK21 Åland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.001900211737879364
+202012,MK01 Uusimaa,"A Agriculture, forestry and fishing (01-03)",0.006037419727190894
+202012,MK01 Uusimaa,B Mining and quarrying (05-09),0.0005125400018089647
+202012,MK01 Uusimaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010004220917661956
+202012,MK01 Uusimaa,F Construction (41-43),0.07609603879798603
+202012,MK01 Uusimaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.1187176163013563
+202012,MK01 Uusimaa,H Transportation and storage (49-53),0.05482347519349462
+202012,MK01 Uusimaa,I Accommodation and food service activities (55-56),0.03165149864112294
+202012,MK01 Uusimaa,J Information and communication (58-63),0.0756556420317258
+202012,MK01 Uusimaa,K Financial and insurance activities (64-66),0.027708386274264894
+202012,MK01 Uusimaa,"M Professional, scientific and technical activities (69-75)",0.08757219707378422
+202012,MK01 Uusimaa,N Administrative and support service activities (77-82),0.09537335739543538
+202012,MK01 Uusimaa,O Public administration and defence; compulsory social security (84),0.06299934963411535
+202012,MK01 Uusimaa,P Education (85),0.0592435943267421
+202012,MK01 Uusimaa,Q Human health and social work activities (86-88),0.1420263419718577
+202012,MK01 Uusimaa,"R, S Other service activities (90-96)",0.053159873717034845
+202012,MK01 Uusimaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0029503353045305957
+202012,MK02 Southwest Finland,"A Agriculture, forestry and fishing (01-03)",0.0399835230274646
+202012,MK02 Southwest Finland,B Mining and quarrying (05-09),0.0016745618826732097
+202012,MK02 Southwest Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007553438224785307
+202012,MK02 Southwest Finland,F Construction (41-43),0.08533549444349921
+202012,MK02 Southwest Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10421685128636798
+202012,MK02 Southwest Finland,H Transportation and storage (49-53),0.05900815789238029
+202012,MK02 Southwest Finland,I Accommodation and food service activities (55-56),0.033195726732992446
+202012,MK02 Southwest Finland,J Information and communication (58-63),0.026470614573165817
+202012,MK02 Southwest Finland,K Financial and insurance activities (64-66),0.014242730879100213
+202012,MK02 Southwest Finland,"M Professional, scientific and technical activities (69-75)",0.05972902544080379
+202012,MK02 Southwest Finland,N Administrative and support service activities (77-82),0.06377215212543991
+202012,MK02 Southwest Finland,O Public administration and defence; compulsory social security (84),0.051499494049484645
+202012,MK02 Southwest Finland,P Education (85),0.06129165136875285
+202012,MK02 Southwest Finland,Q Human health and social work activities (86-88),0.17761549551808434
+202012,MK02 Southwest Finland,"R, S Other service activities (90-96)",0.04236999758218337
+202012,MK02 Southwest Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0037386608877864437
+202012,MK04 Satakunta,"A Agriculture, forestry and fishing (01-03)",0.04212541401209371
+202012,MK04 Satakunta,B Mining and quarrying (05-09),0.002866432355235037
+202012,MK04 Satakunta,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.022030001316735708
+202012,MK04 Satakunta,F Construction (41-43),0.08360258890498232
+202012,MK04 Satakunta,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09249561932157724
+202012,MK04 Satakunta,H Transportation and storage (49-53),0.057531221829452334
+202012,MK04 Satakunta,I Accommodation and food service activities (55-56),0.027063983226812794
+202012,MK04 Satakunta,J Information and communication (58-63),0.013754823810633149
+202012,MK04 Satakunta,K Financial and insurance activities (64-66),0.0076168096506598875
+202012,MK04 Satakunta,"M Professional, scientific and technical activities (69-75)",0.03769915627627141
+202012,MK04 Satakunta,N Administrative and support service activities (77-82),0.05308470662115487
+202012,MK04 Satakunta,O Public administration and defence; compulsory social security (84),0.0890822352095129
+202012,MK04 Satakunta,P Education (85),0.05116024673601475
+202012,MK04 Satakunta,Q Human health and social work activities (86-88),0.17761751866219652
+202012,MK04 Satakunta,"R, S Other service activities (90-96)",0.04104163923467269
+202012,MK04 Satakunta,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.003464027793252236
+202012,MK05 Kanta-Häme,"A Agriculture, forestry and fishing (01-03)",0.04304282974643086
+202012,MK05 Kanta-Häme,B Mining and quarrying (05-09),0.001132005113999574
+202012,MK05 Kanta-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.01571489452375879
+202012,MK05 Kanta-Häme,F Construction (41-43),0.07676326443639464
+202012,MK05 Kanta-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.12159066695077778
+202012,MK05 Kanta-Häme,H Transportation and storage (49-53),0.04334913701257192
+202012,MK05 Kanta-Häme,I Accommodation and food service activities (55-56),0.027314617515448544
+202012,MK05 Kanta-Häme,J Information and communication (58-63),0.015168868527594291
+202012,MK05 Kanta-Häme,K Financial and insurance activities (64-66),0.008243660771361603
+202012,MK05 Kanta-Häme,"M Professional, scientific and technical activities (69-75)",0.0426299808225016
+202012,MK05 Kanta-Häme,N Administrative and support service activities (77-82),0.06890581717451524
+202012,MK05 Kanta-Häme,O Public administration and defence; compulsory social security (84),0.10217344981887919
+202012,MK05 Kanta-Häme,P Education (85),0.05822501598124867
+202012,MK05 Kanta-Häme,Q Human health and social work activities (86-88),0.15629661197528236
+202012,MK05 Kanta-Häme,"R, S Other service activities (90-96)",0.046478798210100154
+202012,MK05 Kanta-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004434796505433625
+202012,MK06 Pirkanmaa,"A Agriculture, forestry and fishing (01-03)",0.025185637182440098
+202012,MK06 Pirkanmaa,B Mining and quarrying (05-09),0.0010055347382171957
+202012,MK06 Pirkanmaa,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007133280621540789
+202012,MK06 Pirkanmaa,F Construction (41-43),0.07596514146240847
+202012,MK06 Pirkanmaa,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10550379868678883
+202012,MK06 Pirkanmaa,H Transportation and storage (49-53),0.04626319227199285
+202012,MK06 Pirkanmaa,I Accommodation and food service activities (55-56),0.030634432259617036
+202012,MK06 Pirkanmaa,J Information and communication (58-63),0.051789336175186496
+202012,MK06 Pirkanmaa,K Financial and insurance activities (64-66),0.011718347141531162
+202012,MK06 Pirkanmaa,"M Professional, scientific and technical activities (69-75)",0.0655402385781567
+202012,MK06 Pirkanmaa,N Administrative and support service activities (77-82),0.0686213001478222
+202012,MK06 Pirkanmaa,O Public administration and defence; compulsory social security (84),0.047530853587266664
+202012,MK06 Pirkanmaa,P Education (85),0.0682861219017498
+202012,MK06 Pirkanmaa,Q Human health and social work activities (86-88),0.17930317302072948
+202012,MK06 Pirkanmaa,"R, S Other service activities (90-96)",0.04605263157894737
+202012,MK06 Pirkanmaa,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0030724672556636527
+202012,MK07 Päijät-Häme,"A Agriculture, forestry and fishing (01-03)",0.03693055904936453
+202012,MK07 Päijät-Häme,B Mining and quarrying (05-09),0.0007546627376289216
+202012,MK07 Päijät-Häme,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011966794839544328
+202012,MK07 Päijät-Häme,F Construction (41-43),0.09235634455744421
+202012,MK07 Päijät-Häme,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.11262442951090668
+202012,MK07 Päijät-Häme,H Transportation and storage (49-53),0.05002335860854566
+202012,MK07 Päijät-Häme,I Accommodation and food service activities (55-56),0.034570740647572505
+202012,MK07 Päijät-Häme,J Information and communication (58-63),0.021837304296786098
+202012,MK07 Päijät-Häme,K Financial and insurance activities (64-66),0.008325247661144453
+202012,MK07 Päijät-Häme,"M Professional, scientific and technical activities (69-75)",0.0464057689773721
+202012,MK07 Päijät-Häme,N Administrative and support service activities (77-82),0.056623662869395436
+202012,MK07 Päijät-Häme,O Public administration and defence; compulsory social security (84),0.03847582084546185
+202012,MK07 Päijät-Häme,P Education (85),0.05860016051556642
+202012,MK07 Päijät-Häme,Q Human health and social work activities (86-88),0.18526371270109365
+202012,MK07 Päijät-Häme,"R, S Other service activities (90-96)",0.04653753548711683
+202012,MK07 Päijät-Häme,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.002815011799092009
+202012,MK08 Kymenlaakso,"A Agriculture, forestry and fishing (01-03)",0.034905048110838346
+202012,MK08 Kymenlaakso,B Mining and quarrying (05-09),0.0018623550325912131
+202012,MK08 Kymenlaakso,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013727813990236745
+202012,MK08 Kymenlaakso,F Construction (41-43),0.07311154377945202
+202012,MK08 Kymenlaakso,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09632043793560767
+202012,MK08 Kymenlaakso,H Transportation and storage (49-53),0.07699145009735038
+202012,MK08 Kymenlaakso,I Accommodation and food service activities (55-56),0.029275656762323996
+202012,MK08 Kymenlaakso,J Information and communication (58-63),0.011512740201472953
+202012,MK08 Kymenlaakso,K Financial and insurance activities (64-66),0.006588786365303761
+202012,MK08 Kymenlaakso,"M Professional, scientific and technical activities (69-75)",0.04211461948700584
+202012,MK08 Kymenlaakso,N Administrative and support service activities (77-82),0.057718897260080705
+202012,MK08 Kymenlaakso,O Public administration and defence; compulsory social security (84),0.15409577019667597
+202012,MK08 Kymenlaakso,P Education (85),0.04612150455712633
+202012,MK08 Kymenlaakso,Q Human health and social work activities (86-88),0.17458167555517934
+202012,MK08 Kymenlaakso,"R, S Other service activities (90-96)",0.04475295578317673
+202012,MK08 Kymenlaakso,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0014955275261717316
+202012,MK09 South Karelia,"A Agriculture, forestry and fishing (01-03)",0.044969334678984556
+202012,MK09 South Karelia,B Mining and quarrying (05-09),0.0024260538778045184
+202012,MK09 South Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009335455321791785
+202012,MK09 South Karelia,F Construction (41-43),0.0765080350904433
+202012,MK09 South Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10154491110938592
+202012,MK09 South Karelia,H Transportation and storage (49-53),0.059370390497632174
+202012,MK09 South Karelia,I Accommodation and food service activities (55-56),0.03687601894262867
+202012,MK09 South Karelia,J Information and communication (58-63),0.02134927412467976
+202012,MK09 South Karelia,K Financial and insurance activities (64-66),0.008986103563387936
+202012,MK09 South Karelia,"M Professional, scientific and technical activities (69-75)",0.04421240586910954
+202012,MK09 South Karelia,N Administrative and support service activities (77-82),0.05892399658411614
+202012,MK09 South Karelia,O Public administration and defence; compulsory social security (84),0.08432963279248505
+202012,MK09 South Karelia,P Education (85),0.06806536759568356
+202012,MK09 South Karelia,Q Human health and social work activities (86-88),0.1668154646378387
+202012,MK09 South Karelia,"R, S Other service activities (90-96)",0.043067308438785805
+202012,MK09 South Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.002096110550423104
+202012,MK10 South Savo,"A Agriculture, forestry and fishing (01-03)",0.08048166786484542
+202012,MK10 South Savo,B Mining and quarrying (05-09),0.0017074047447879223
+202012,MK10 South Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.008123652048885694
+202012,MK10 South Savo,F Construction (41-43),0.07803738317757009
+202012,MK10 South Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09881380301941049
+202012,MK10 South Savo,H Transportation and storage (49-53),0.049047447879223584
+202012,MK10 South Savo,I Accommodation and food service activities (55-56),0.03272825305535586
+202012,MK10 South Savo,J Information and communication (58-63),0.015168943206326384
+202012,MK10 South Savo,K Financial and insurance activities (64-66),0.006955427749820274
+202012,MK10 South Savo,"M Professional, scientific and technical activities (69-75)",0.04033069734004314
+202012,MK10 South Savo,N Administrative and support service activities (77-82),0.034040258806613946
+202012,MK10 South Savo,O Public administration and defence; compulsory social security (84),0.05875269590222861
+202012,MK10 South Savo,P Education (85),0.06446800862688713
+202012,MK10 South Savo,Q Human health and social work activities (86-88),0.23206326383896478
+202012,MK10 South Savo,"R, S Other service activities (90-96)",0.04543493889288282
+202012,MK10 South Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008015815959741194
+202012,MK11 North Savo,"A Agriculture, forestry and fishing (01-03)",0.07096029203605751
+202012,MK11 North Savo,B Mining and quarrying (05-09),0.0034828279818222454
+202012,MK11 North Savo,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.011174849139536615
+202012,MK11 North Savo,F Construction (41-43),0.08924048275348283
+202012,MK11 North Savo,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09862735603069357
+202012,MK11 North Savo,H Transportation and storage (49-53),0.04928108470535648
+202012,MK11 North Savo,I Accommodation and food service activities (55-56),0.025543842658124115
+202012,MK11 North Savo,J Information and communication (58-63),0.018075318483200476
+202012,MK11 North Savo,K Financial and insurance activities (64-66),0.012394770170602696
+202012,MK11 North Savo,"M Professional, scientific and technical activities (69-75)",0.047399985100201145
+202012,MK11 North Savo,N Administrative and support service activities (77-82),0.059068390076733965
+202012,MK11 North Savo,O Public administration and defence; compulsory social security (84),0.05319228190419429
+202012,MK11 North Savo,P Education (85),0.06860426134247187
+202012,MK11 North Savo,Q Human health and social work activities (86-88),0.20429486701929522
+202012,MK11 North Savo,"R, S Other service activities (90-96)",0.04383334574983237
+202012,MK11 North Savo,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008222826491842361
+202012,MK12 North Karelia,"A Agriculture, forestry and fishing (01-03)",0.06974123094262608
+202012,MK12 North Karelia,B Mining and quarrying (05-09),0.004355971183575247
+202012,MK12 North Karelia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007539180894649467
+202012,MK12 North Karelia,F Construction (41-43),0.07042661102395784
+202012,MK12 North Karelia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09334876707738703
+202012,MK12 North Karelia,H Transportation and storage (49-53),0.044747703976727546
+202012,MK12 North Karelia,I Accommodation and food service activities (55-56),0.03169502109447584
+202012,MK12 North Karelia,J Information and communication (58-63),0.02142955054297333
+202012,MK12 North Karelia,K Financial and insurance activities (64-66),0.009321169106112068
+202012,MK12 North Karelia,"M Professional, scientific and technical activities (69-75)",0.03728467642444827
+202012,MK12 North Karelia,N Administrative and support service activities (77-82),0.04138172624396485
+202012,MK12 North Karelia,O Public administration and defence; compulsory social security (84),0.07188875519746561
+202012,MK12 North Karelia,P Education (85),0.07332043803402531
+202012,MK12 North Karelia,Q Human health and social work activities (86-88),0.20151697458001433
+202012,MK12 North Karelia,"R, S Other service activities (90-96)",0.046088002802443
+202012,MK12 North Karelia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006975646161110012
+202012,MK13 Central Finland,"A Agriculture, forestry and fishing (01-03)",0.042011870632895854
+202012,MK13 Central Finland,B Mining and quarrying (05-09),0.002524920438704926
+202012,MK13 Central Finland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010827349797918695
+202012,MK13 Central Finland,F Construction (41-43),0.08435689049034305
+202012,MK13 Central Finland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09601711334964011
+202012,MK13 Central Finland,H Transportation and storage (49-53),0.04329186502196154
+202012,MK13 Central Finland,I Accommodation and food service activities (55-56),0.02794069943802986
+202012,MK13 Central Finland,J Information and communication (58-63),0.03839106458711413
+202012,MK13 Central Finland,K Financial and insurance activities (64-66),0.0065227111333210595
+202012,MK13 Central Finland,"M Professional, scientific and technical activities (69-75)",0.055662221754644366
+202012,MK13 Central Finland,N Administrative and support service activities (77-82),0.0484030754933677
+202012,MK13 Central Finland,O Public administration and defence; compulsory social security (84),0.06656847531627258
+202012,MK13 Central Finland,P Education (85),0.08415524753864093
+202012,MK13 Central Finland,Q Human health and social work activities (86-88),0.1853011055294004
+202012,MK13 Central Finland,"R, S Other service activities (90-96)",0.045606375424107726
+202012,MK13 Central Finland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.0059002481085014425
+202012,MK14 South Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.09909603751784135
+202012,MK14 South Ostrobothnia,B Mining and quarrying (05-09),0.005709236729422959
+202012,MK14 South Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.0090056412696255
+202012,MK14 South Ostrobothnia,F Construction (41-43),0.08247808060898525
+202012,MK14 South Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.10793176102766261
+202012,MK14 South Ostrobothnia,H Transportation and storage (49-53),0.053229570221346195
+202012,MK14 South Ostrobothnia,I Accommodation and food service activities (55-56),0.02428691180135481
+202012,MK14 South Ostrobothnia,J Information and communication (58-63),0.009707968010149753
+202012,MK14 South Ostrobothnia,K Financial and insurance activities (64-66),0.009390788191848477
+202012,MK14 South Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03400620766215818
+202012,MK14 South Ostrobothnia,N Administrative and support service activities (77-82),0.034164797571308816
+202012,MK14 South Ostrobothnia,O Public administration and defence; compulsory social security (84),0.04550397607557942
+202012,MK14 South Ostrobothnia,P Education (85),0.060966492217766594
+202012,MK14 South Ostrobothnia,Q Human health and social work activities (86-88),0.19113482407847934
+202012,MK14 South Ostrobothnia,"R, S Other service activities (90-96)",0.04161852330138879
+202012,MK14 South Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.005958449443802533
+202012,MK15 Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.07254837342874629
+202012,MK15 Ostrobothnia,B Mining and quarrying (05-09),0.0012122781413304458
+202012,MK15 Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.010828115437126314
+202012,MK15 Ostrobothnia,F Construction (41-43),0.06978249611600208
+202012,MK15 Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08533025752083236
+202012,MK15 Ostrobothnia,H Transportation and storage (49-53),0.037486464855703595
+202012,MK15 Ostrobothnia,I Accommodation and food service activities (55-56),0.02624641024433878
+202012,MK15 Ostrobothnia,J Information and communication (58-63),0.023092133138741113
+202012,MK15 Ostrobothnia,K Financial and insurance activities (64-66),0.011310672755519984
+202012,MK15 Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.048349889364907486
+202012,MK15 Ostrobothnia,N Administrative and support service activities (77-82),0.04368909185066617
+202012,MK15 Ostrobothnia,O Public administration and defence; compulsory social security (84),0.06001365284120334
+202012,MK15 Ostrobothnia,P Education (85),0.06398003860458547
+202012,MK15 Ostrobothnia,Q Human health and social work activities (86-88),0.1620568711454263
+202012,MK15 Ostrobothnia,"R, S Other service activities (90-96)",0.03985217268490184
+202012,MK15 Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.006944117508591874
+202012,MK16 Central Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.08055131164060722
+202012,MK16 Central Ostrobothnia,B Mining and quarrying (05-09),0.003348178006046224
+202012,MK16 Central Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.012482527711861651
+202012,MK16 Central Ostrobothnia,F Construction (41-43),0.06979163280564313
+202012,MK16 Central Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.1100022754607808
+202012,MK16 Central Ostrobothnia,H Transportation and storage (49-53),0.07391996879368072
+202012,MK16 Central Ostrobothnia,I Accommodation and food service activities (55-56),0.021974449826089783
+202012,MK16 Central Ostrobothnia,J Information and communication (58-63),0.020836719435685727
+202012,MK16 Central Ostrobothnia,K Financial and insurance activities (64-66),0.007606540324415694
+202012,MK16 Central Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.03507460260702792
+202012,MK16 Central Ostrobothnia,N Administrative and support service activities (77-82),0.03764262263108279
+202012,MK16 Central Ostrobothnia,O Public administration and defence; compulsory social security (84),0.039072912264733604
+202012,MK16 Central Ostrobothnia,P Education (85),0.07245717257744694
+202012,MK16 Central Ostrobothnia,Q Human health and social work activities (86-88),0.19991548288528427
+202012,MK16 Central Ostrobothnia,"R, S Other service activities (90-96)",0.04489159054708578
+202012,MK16 Central Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.004778467639697038
+202012,MK17 North Ostrobothnia,"A Agriculture, forestry and fishing (01-03)",0.049072135091784
+202012,MK17 North Ostrobothnia,B Mining and quarrying (05-09),0.0060149705934771
+202012,MK17 North Ostrobothnia,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.00965180003564427
+202012,MK17 North Ostrobothnia,F Construction (41-43),0.08990710212083408
+202012,MK17 North Ostrobothnia,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09263054713954733
+202012,MK17 North Ostrobothnia,H Transportation and storage (49-53),0.04954553555515952
+202012,MK17 North Ostrobothnia,I Accommodation and food service activities (55-56),0.029111343788985923
+202012,MK17 North Ostrobothnia,J Information and communication (58-63),0.03285399215826056
+202012,MK17 North Ostrobothnia,K Financial and insurance activities (64-66),0.012369675637141331
+202012,MK17 North Ostrobothnia,"M Professional, scientific and technical activities (69-75)",0.05587796292995901
+202012,MK17 North Ostrobothnia,N Administrative and support service activities (77-82),0.052569729103546604
+202012,MK17 North Ostrobothnia,O Public administration and defence; compulsory social security (84),0.05748752450543575
+202012,MK17 North Ostrobothnia,P Education (85),0.07884623952949564
+202012,MK17 North Ostrobothnia,Q Human health and social work activities (86-88),0.18946043486009626
+202012,MK17 North Ostrobothnia,"R, S Other service activities (90-96)",0.04009423453929781
+202012,MK17 North Ostrobothnia,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.007969836036357156
+202012,MK18 Kainuu,"A Agriculture, forestry and fishing (01-03)",0.06085461837700913
+202012,MK18 Kainuu,B Mining and quarrying (05-09),0.03461898012725792
+202012,MK18 Kainuu,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.007840535568891168
+202012,MK18 Kainuu,F Construction (41-43),0.0648351979735231
+202012,MK18 Kainuu,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08247640300352824
+202012,MK18 Kainuu,H Transportation and storage (49-53),0.047103525225415395
+202012,MK18 Kainuu,I Accommodation and food service activities (55-56),0.026476885498024787
+202012,MK18 Kainuu,J Information and communication (58-63),0.016344501070534666
+202012,MK18 Kainuu,K Financial and insurance activities (64-66),0.008503965501643496
+202012,MK18 Kainuu,"M Professional, scientific and technical activities (69-75)",0.03172401314797503
+202012,MK18 Kainuu,N Administrative and support service activities (77-82),0.059256355357196706
+202012,MK18 Kainuu,O Public administration and defence; compulsory social security (84),0.17822140466210307
+202012,MK18 Kainuu,P Education (85),0.060402279786496184
+202012,MK18 Kainuu,Q Human health and social work activities (86-88),0.18778082687494346
+202012,MK18 Kainuu,"R, S Other service activities (90-96)",0.044781520460782244
+202012,MK18 Kainuu,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008624589125780282
+202012,MK19 Lapland,"A Agriculture, forestry and fishing (01-03)",0.04196022976135354
+202012,MK19 Lapland,B Mining and quarrying (05-09),0.02922073859014629
+202012,MK19 Lapland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.013753144201529238
+202012,MK19 Lapland,F Construction (41-43),0.08218098086573476
+202012,MK19 Lapland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.09276802362687557
+202012,MK19 Lapland,H Transportation and storage (49-53),0.05297275651053072
+202012,MK19 Lapland,I Accommodation and food service activities (55-56),0.051070592799309214
+202012,MK19 Lapland,J Information and communication (58-63),0.00892264951382197
+202012,MK19 Lapland,K Financial and insurance activities (64-66),0.005643919958953309
+202012,MK19 Lapland,"M Professional, scientific and technical activities (69-75)",0.03913201266440575
+202012,MK19 Lapland,N Administrative and support service activities (77-82),0.0591422743370584
+202012,MK19 Lapland,O Public administration and defence; compulsory social security (84),0.09709794891689297
+202012,MK19 Lapland,P Education (85),0.06501145052497216
+202012,MK19 Lapland,Q Human health and social work activities (86-88),0.19179316472487454
+202012,MK19 Lapland,"R, S Other service activities (90-96)",0.046540439750215865
+202012,MK19 Lapland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.008860078339110738
+202012,MK21 Åland,"A Agriculture, forestry and fishing (01-03)",0.04942902852099079
+202012,MK21 Åland,B Mining and quarrying (05-09),0.000661995917691841
+202012,MK21 Åland,"D, E Electricity, gas, steam and air conditioning and water supply; sewerage and waste management (35-39)",0.009929938765377613
+202012,MK21 Åland,F Construction (41-43),0.08561813868814476
+202012,MK21 Åland,G Wholesale and retail trade; repair of motor vehicles and motorcycles (45-47),0.08175649583494235
+202012,MK21 Åland,H Transportation and storage (49-53),0.20775638550228942
+202012,MK21 Åland,I Accommodation and food service activities (55-56),0.039112925470292936
+202012,MK21 Åland,J Information and communication (58-63),0.03596844486125669
+202012,MK21 Åland,K Financial and insurance activities (64-66),0.02818999282837756
+202012,MK21 Åland,"M Professional, scientific and technical activities (69-75)",0.037788933634909254
+202012,MK21 Åland,N Administrative and support service activities (77-82),0.019528879571909307
+202012,MK21 Åland,O Public administration and defence; compulsory social security (84),0.07949467644949523
+202012,MK21 Åland,P Education (85),0.057428145859767195
+202012,MK21 Åland,Q Human health and social work activities (86-88),0.14983174270425334
+202012,MK21 Åland,"R, S Other service activities (90-96)",0.05102885198874608
+202012,MK21 Åland,T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use(97-98),0.002096320406024163
