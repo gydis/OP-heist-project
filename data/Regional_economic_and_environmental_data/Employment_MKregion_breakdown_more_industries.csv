@@ -4,7 +4,6 @@
 "WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",7.100,7.400,7.500,7.900,8.100,8.100
 "WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",38.900,38.600,38.600,38.900,38.700,39.200
 "WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",10.000,9.700,9.700,9.400,8.800,8.400
-"WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",51.200,50.500,49.800,49.800,48.300,46.200
 "WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",21.900,22.000,22.000,22.600,21.800,21.000
 "WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",29.300,28.500,27.800,27.200,26.500,25.200
 "WHOLE COUNTRY","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",33.300,33.100,33.300,33.700,33.900,34.000
@@ -35,7 +34,6 @@
 "MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.378,0.357,0.349,0.361,0.486,0.476
 "MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",9.975,9.892,9.934,9.669,9.501,9.976
 "MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",1.556,1.472,1.560,1.555,1.575,1.533
-"MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",7.927,7.061,7.049,7.021,7.094,7.542
 "MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.331,1.383,1.377,1.417,1.688,1.877
 "MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",6.596,5.678,5.672,5.604,5.406,5.665
 "MK01 Uusimaa","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",11.558,11.355,11.512,11.673,11.811,11.936
@@ -66,7 +64,6 @@
 "MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.342,0.364,0.387,0.393,0.336,0.374
 "MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",2.969,3.159,3.162,3.283,3.267,3.297
 "MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.668,0.673,0.589,0.638,0.556,0.580
-"MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",1.939,1.934,1.872,1.736,1.529,1.456
 "MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.880,0.920,0.887,0.889,0.724,0.773
 "MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",1.059,1.014,0.985,0.847,0.805,0.683
 "MK02 Southwest Finland","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",4.681,4.759,4.877,4.931,4.989,5.366
@@ -97,7 +94,6 @@
 "MK04 Satakunta","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.321,0.345,0.287,0.325,0.298,0.283
 "MK04 Satakunta","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",2.749,2.908,2.763,2.664,2.754,2.811
 "MK04 Satakunta","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.584,0.556,0.540,0.520,0.474,0.462
-"MK04 Satakunta","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",2.555,2.544,2.448,2.417,2.349,2.149
 "MK04 Satakunta","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.805,0.811,0.785,0.802,0.787,0.752
 "MK04 Satakunta","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",1.749,1.733,1.662,1.614,1.562,1.397
 "MK04 Satakunta","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",1.723,1.692,1.668,1.679,1.523,1.413
@@ -128,7 +124,6 @@
 "MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.100,0.103,0.112,0.106,0.082,0.085
 "MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",2.197,2.213,2.269,2.314,2.205,2.181
 "MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.260,0.289,0.270,0.214,0.151,0.145
-"MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",1.642,1.527,1.501,1.523,1.482,1.483
 "MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.589,0.570,0.563,0.589,0.577,0.611
 "MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",1.053,0.957,0.938,0.935,0.905,0.872
 "MK05 Kanta-Häme","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.570,0.612,0.617,0.591,0.543,0.552
@@ -159,7 +154,6 @@
 "MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.263,0.292,0.279,0.270,0.311,0.234
 "MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",2.946,2.698,2.621,2.550,2.540,2.400
 "MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",2.307,2.175,2.247,2.107,2.036,1.699
-"MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",6.299,5.985,5.786,5.720,5.586,5.337
 "MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.689,1.622,1.632,1.569,1.511,1.412
 "MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",4.611,4.363,4.154,4.151,4.074,3.925
 "MK06 Pirkanmaa","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",4.864,4.732,4.731,4.824,4.802,4.466
@@ -190,7 +184,6 @@
 "MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.026,0.041,0.066,0.063,0.062,0.063
 "MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",1.737,1.715,1.755,1.649,1.714,1.795
 "MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.494,0.510,0.492,0.477,0.483,0.432
-"MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",2.825,2.960,3.016,2.914,2.681,2.598
 "MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.924,1.990,1.961,1.950,1.841,1.808
 "MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.901,0.970,1.055,0.964,0.840,0.790
 "MK07 Päijät-Häme","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",1.484,1.446,1.429,1.465,1.472,1.453
@@ -221,7 +214,6 @@
 "MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.176,0.151,0.130,0.136,0.133,0.132
 "MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.933,0.884,0.902,1.001,1.015,1.009
 "MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.207,0.209,0.204,0.209,0.181,0.158
-"MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",3.257,3.396,3.412,3.411,3.324,2.922
 "MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.547,0.558,0.601,0.611,0.632,0.607
 "MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",2.710,2.838,2.811,2.801,2.692,2.315
 "MK08 Kymenlaakso","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.912,0.887,0.819,0.871,0.917,0.875
@@ -252,7 +244,6 @@
 "MK09 South Karelia","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.185,0.146,0.135,0.120,0.101,0.125
 "MK09 South Karelia","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.903,0.869,0.755,0.935,0.895,0.895
 "MK09 South Karelia","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.067,0.070,0.057,0.056,0.052,0.073
-"MK09 South Karelia","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",3.301,3.596,3.421,3.490,3.390,3.258
 "MK09 South Karelia","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.603,0.568,0.555,0.561,0.554,0.544
 "MK09 South Karelia","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",2.698,3.028,2.866,2.928,2.836,2.714
 "MK09 South Karelia","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.397,0.369,0.389,0.383,0.392,0.381
@@ -283,7 +274,6 @@
 "MK10 South Savo","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.097,0.082,0.079,0.079,0.088,0.095
 "MK10 South Savo","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.732,0.779,0.726,0.765,0.747,0.649
 "MK10 South Savo","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.295,0.275,0.314,0.310,0.291,0.258
-"MK10 South Savo","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",2.656,2.722,2.602,2.528,2.425,2.109
 "MK10 South Savo","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",2.244,2.295,2.226,2.191,2.153,1.980
 "MK10 South Savo","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.411,0.427,0.376,0.336,0.273,0.130
 "MK10 South Savo","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.758,0.821,0.875,0.836,0.934,0.875
@@ -314,7 +304,6 @@
 "MK11 North Savo","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.314,0.342,0.359,0.391,0.392,0.374
 "MK11 North Savo","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",1.520,1.523,1.475,1.508,1.559,1.606
 "MK11 North Savo","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.700,0.682,0.651,0.606,0.554,0.519
-"MK11 North Savo","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",2.367,2.427,2.354,2.448,2.309,2.243
 "MK11 North Savo","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.609,1.687,1.656,1.721,1.619,1.623
 "MK11 North Savo","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.758,0.740,0.698,0.727,0.691,0.620
 "MK11 North Savo","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.751,0.841,0.756,0.718,0.707,0.730
@@ -345,7 +334,6 @@
 "MK12 North Karelia","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.453,0.419,0.394,0.387,0.321,0.286
 "MK12 North Karelia","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",1.091,1.104,1.121,1.212,1.236,1.159
 "MK12 North Karelia","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.309,0.307,0.307,0.286,0.238,0.229
-"MK12 North Karelia","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",1.917,1.900,2.014,1.989,2.064,1.819
 "MK12 North Karelia","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.047,1.114,1.196,1.247,1.286,1.080
 "MK12 North Karelia","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.871,0.786,0.818,0.742,0.777,0.740
 "MK12 North Karelia","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",1.170,1.137,1.174,1.174,1.225,1.268
@@ -376,7 +364,6 @@
 "MK13 Central Finland","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.313,0.297,0.304,0.317,0.313,0.288
 "MK13 Central Finland","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",1.284,1.222,1.446,1.245,1.116,1.107
 "MK13 Central Finland","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.224,0.225,0.230,0.234,0.218,0.226
-"MK13 Central Finland","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",4.095,4.004,3.887,3.946,3.806,3.205
 "MK13 Central Finland","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.906,1.844,1.862,1.940,1.780,1.322
 "MK13 Central Finland","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",2.188,2.160,2.024,2.006,2.025,1.882
 "MK13 Central Finland","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.861,0.869,0.861,0.876,0.888,0.874
@@ -407,7 +394,6 @@
 "MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.526,0.524,0.502,0.541,0.547,0.504
 "MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",3.818,3.808,3.853,3.992,4.080,4.246
 "MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.582,0.539,0.545,0.539,0.450,0.491
-"MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",1.840,1.834,1.779,1.745,1.561,1.472
 "MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",1.620,1.620,1.582,1.545,1.368,1.296
 "MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.220,0.214,0.197,0.200,0.193,0.176
 "MK14 South Ostrobothnia","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.515,0.506,0.478,0.550,0.555,0.522
@@ -438,7 +424,6 @@
 "MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.081,0.091,0.084,0.090,0.102,0.103
 "MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",2.184,1.963,2.033,2.295,2.379,2.331
 "MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.269,0.251,0.262,0.230,0.211,0.212
-"MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",1.940,1.903,1.883,1.860,1.799,1.773
 "MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.577,0.552,0.555,0.544,0.509,0.512
 "MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",1.364,1.350,1.327,1.316,1.290,1.262
 "MK15 Ostrobothnia","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",1.310,1.315,1.309,1.314,1.343,1.473
@@ -469,7 +454,6 @@
 "MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.094,0.094,0.088,0.113,0.109,0.103
 "MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.650,0.644,0.625,0.614,0.572,0.547
 "MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.330,0.376,0.333,0.320,0.300,0.287
-"MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",0.643,0.593,0.632,0.628,0.664,0.612
 "MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.564,0.519,0.559,0.555,0.590,0.544
 "MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.079,0.075,0.072,0.072,0.074,0.068
 "MK16 Central Ostrobothnia","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.423,0.432,0.435,0.443,0.435,0.450
@@ -500,7 +484,6 @@
 "MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",1.067,1.047,1.049,1.188,1.153,1.080
 "MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",2.286,2.232,2.194,2.278,2.208,2.264
 "MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.743,0.753,0.811,0.825,0.824,0.834
-"MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",3.924,3.963,3.984,4.347,4.076,4.070
 "MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",2.948,2.923,2.949,3.352,3.078,3.134
 "MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.977,1.040,1.035,0.995,0.998,0.936
 "MK17 North Ostrobothnia","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.937,0.904,0.924,0.923,0.919,0.926
@@ -531,7 +514,6 @@
 "MK18 Kainuu","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.706,0.943,0.983,0.982,1.088,1.148
 "MK18 Kainuu","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.194,0.196,0.191,0.164,0.196,0.200
 "MK18 Kainuu","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.020,0.023,0.020,0.019,0.023,0.027
-"MK18 Kainuu","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",0.387,0.384,0.366,0.381,0.371,0.445
 "MK18 Kainuu","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.318,0.307,0.299,0.323,0.319,0.400
 "MK18 Kainuu","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.068,0.077,0.067,0.058,0.052,0.045
 "MK18 Kainuu","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.004,0.018,0.020,0.021,0.040,0.023
@@ -562,7 +544,6 @@
 "MK19 Lapland","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",1.644,1.750,1.902,2.025,2.168,2.335
 "MK19 Lapland","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.413,0.427,0.405,0.403,0.368,0.371
 "MK19 Lapland","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.357,0.284,0.238,0.227,0.157,0.216
-"MK19 Lapland","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",1.556,1.645,1.688,1.580,1.676,1.598
 "MK19 Lapland","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.609,0.630,0.687,0.718,0.711,0.664
 "MK19 Lapland","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.947,1.015,1.001,0.862,0.965,0.933
 "MK19 Lapland","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.157,0.160,0.171,0.158,0.147,0.175
@@ -593,7 +574,6 @@
 "MK21 Åland","E1 Employment, domestic (1 000 persons)","B Mining and quarrying (05-09)","S1 Total economy",0.011,0.012,0.012,0.012,0.011,0.012
 "MK21 Åland","E1 Employment, domestic (1 000 persons)","10-12 Food industry etc.","S1 Total economy",0.320,0.363,0.370,0.358,0.347,0.354
 "MK21 Åland","E1 Employment, domestic (1 000 persons)","13-15 Textile, clothing and leather industry","S1 Total economy",0.028,0.031,0.031,0.027,0.026,0.019
-"MK21 Åland","E1 Employment, domestic (1 000 persons)","16-18 Manufacture of wood products, paper and paper products; printing and reproduction of recorded media","S1 Total economy",0.132,0.123,0.107,0.115,0.114,0.107
 "MK21 Åland","E1 Employment, domestic (1 000 persons)","16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","S1 Total economy",0.090,0.087,0.066,0.073,0.073,0.061
 "MK21 Åland","E1 Employment, domestic (1 000 persons)","17, 18 Paper industry; Printing","S1 Total economy",0.041,0.036,0.041,0.043,0.041,0.046
 "MK21 Åland","E1 Employment, domestic (1 000 persons)","19-22 Chemical industry","S1 Total economy",0.226,0.247,0.256,0.268,0.257,0.241
