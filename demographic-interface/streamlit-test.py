@@ -3,6 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import re
+import plotly.express as px
+import plotly.graph_objects as go
 
 #read csv files
 df_2010_2012 = pd.read_csv('./data/region_city_data/city_info_2010_2012.csv')
@@ -34,7 +36,7 @@ option_info_region = st.multiselect('Choose information for the region', ['Inhab
                                                     ['Agriculture, forestry and fishing', 'Mining and quarrying'])
 
 #plot the line graph based on chosen region(s) and info(s)
-fig, ax = plt.subplots()
+combined_region_graph_list = []
 
 for reg in option_region:
     for inf in option_info_region:
@@ -42,11 +44,19 @@ for reg in option_region:
         result = result[result["Information"] == inf].reset_index(drop=True)
         x_axis = result.columns[2:]
         y_axis = result.loc[0][2:]
-        ax.plot(x_axis, y_axis, label=reg + ': ' + inf)
+        combined_region_graph_list.append(go.Scatter(mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {reg}"))
 
-ax.legend(loc='upper right')
-fig.text(0.5, 0.02, 'years', ha='center')
-st.pyplot(fig)
+if combined_region_graph_list:
+    fig = go.Figure(data = combined_region_graph_list)
+
+    fig.update_layout(
+    xaxis_title="year",
+    legend_title="Legend Title",
+    )
+
+    st.plotly_chart(fig)
+else:
+    st.write("Please choose at least 1 region and 1 information")
 
 
 #merge datasets of municipalities in Finland into a continuous timeline
@@ -77,7 +87,7 @@ option_info_municipality = st.multiselect('Choose information for the municipali
                                                     ['Agriculture, forestry and fishing', 'Mining and quarrying'])
 
 #plot the line graph based on chosen municipality(s) and info(s)
-fig, ax = plt.subplots()
+combined_municipality_graph_list = []
 
 for muni in option_municipality:
     for inf in option_info_municipality:
@@ -85,8 +95,16 @@ for muni in option_municipality:
         result = result[result["Information"] == inf].reset_index(drop=True)
         x_axis = result.columns[2:]
         y_axis = result.loc[0][2:]
-        ax.plot(x_axis, y_axis, label=muni + ': ' + inf)
+        combined_municipality_graph_list.append(go.Scatter(mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {muni}"))
 
-ax.legend(loc='upper right')
-fig.text(0.5, 0.02, 'years', ha='center')
-st.pyplot(fig)
+if combined_municipality_graph_list:
+
+    fig = go.Figure(data = combined_municipality_graph_list)
+
+    fig.update_layout(
+        xaxis_title="year",
+        legend_title="Legend Title",
+    )
+    st.plotly_chart(fig)
+else:
+    st.write("Please choose at least 1 region and 1 information")
