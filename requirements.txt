@@ -1,2 +1,3 @@
 pandas
-openpyxlx
+#openpyxlx
+plotly
