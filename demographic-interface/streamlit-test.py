@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
 import re
 import plotly.express as px
@@ -20,7 +19,7 @@ df_2011_2021["Information"] = df_2011_2021["Information"].apply(lambda row: re.s
 st.title('Information on Regions in Finland 2011-2021')
     
 #create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
-option_region = st.multiselect('Choose region', df_2011_2021["Region"].unique(), ['MK01 Uusimaa'])
+option_region = st.multiselect('Choose region', df_2011_2021["Region"].unique(), ['MK01 Uusimaa'], max_selections=3)
 option_info_region = st.multiselect('Choose information for the region', ['Inhabitants, total', 'Agriculture, forestry and fishing', 'Mining and quarrying', 
                                                     'Manufacturing', 'Electricity, gas, steam and air conditioning supply', 
                                                     'Water supply; sewerage, waste management and remediation activities', 
@@ -32,8 +31,8 @@ option_info_region = st.multiselect('Choose information for the region', ['Inhab
                                                     'Education', 'Human health and social work activities', 
                                                     'Arts, entertainment and recreation', 'Other service activities', 
                                                     'Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use', 
-                                                    'Activities of extraterritorial organisations and bodies', 'Industry unknown', 'Employed', 'Workplaces, total'], 
-                                                    ['Agriculture, forestry and fishing', 'Mining and quarrying'])
+                                                    'Activities of extraterritorial organisations and bodies', 'Employed', 'Workplaces, total'], 
+                                                    ['Agriculture, forestry and fishing', 'Mining and quarrying'], max_selections=3)
 
 #plot the line graph based on chosen region(s) and info(s)
 combined_region_graph_list = []
@@ -50,7 +49,8 @@ if combined_region_graph_list:
     fig = go.Figure(data = combined_region_graph_list)
 
     fig.update_layout(
-    xaxis_title="year",
+    xaxis_title="Year",
+    yaxis_title="Number of people",
     legend_title="Legend Title",
     )
 
@@ -71,7 +71,7 @@ df_2010_2021["Information"] = df_2011_2021["Information"].apply(lambda row: re.s
 st.title('Information on Municipalities in Finland 2010-2021')
     
 #create multiselection dropdown menus for user to choose municipality(s) and info(s) to display the graph(s)
-option_municipality = st.multiselect('Choose municipality', df_2010_2021["Region"].unique(), ['Espoo'])
+option_municipality = st.multiselect('Choose municipality', df_2010_2021["Region"].unique(), ['Espoo'], max_selections=3)
 option_info_municipality = st.multiselect('Choose information for the municipality', ['Inhabitants, total', 'Agriculture, forestry and fishing', 'Mining and quarrying', 
                                                     'Manufacturing', 'Electricity, gas, steam and air conditioning supply', 
                                                     'Water supply; sewerage, waste management and remediation activities', 
@@ -83,8 +83,8 @@ option_info_municipality = st.multiselect('Choose information for the municipali
                                                     'Education', 'Human health and social work activities', 
                                                     'Arts, entertainment and recreation', 'Other service activities', 
                                                     'Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use', 
-                                                    'Activities of extraterritorial organisations and bodies', 'Industry unknown', 'Employed', 'Workplaces, total'], 
-                                                    ['Agriculture, forestry and fishing', 'Mining and quarrying'])
+                                                    'Activities of extraterritorial organisations and bodies', 'Employed', 'Workplaces, total'], 
+                                                    ['Agriculture, forestry and fishing', 'Mining and quarrying'], max_selections=3)
 
 #plot the line graph based on chosen municipality(s) and info(s)
 combined_municipality_graph_list = []
@@ -103,6 +103,7 @@ if combined_municipality_graph_list:
 
     fig.update_layout(
         xaxis_title="year",
+        yaxis_title="Number of people",
         legend_title="Legend Title",
     )
     st.plotly_chart(fig)
