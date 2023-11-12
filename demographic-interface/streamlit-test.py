@@ -109,3 +109,9 @@ if combined_municipality_graph_list:
     st.plotly_chart(fig)
 else:
     st.write("Please choose at least 1 region and 1 information")
+
+import plotly.express as px
+df = px.data.gapminder().query("year == 2020").query("continent == 'Europe'")
+df.loc[df['pop'] < 2.e6, 'country'] = 'Other countries' # Represent only large countries
+fig = px.pie(df, values='pop', names='country', title='Population of European continent')
+fig.show()
