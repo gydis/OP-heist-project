@@ -72,8 +72,8 @@ def dashboard(region_code):
     chosen_indices = ['GDP relative growth (%)', 'Population relative growth (%)']
     
     idx = pd.IndexSlice
-    indices = chosen_region_data.set_index(['Year'])[chosen_indices].stack().swaplevel().sort_index().drop_duplicates().loc[idx[:, -1]]
-    st.write(indices)
+    # indices = chosen_region_data.set_index(['Year'])[chosen_indices].stack().swaplevel().sort_index().drop_duplicates().loc[idx[:, -1]]
+    # st.write(indices)
     
     #read csv files for demographic info
     df_2010_2012 = pd.read_csv('./data/region_city_data/city_info_2010_2012.csv')
