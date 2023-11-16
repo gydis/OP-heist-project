@@ -121,110 +121,188 @@ def dashboard(region_code):
     if not chosen_ind.empty:
         graph(chosen_ind['Index'].iloc[-1])
     
-    #read csv files for demographic info
-    df_2010_2012 = pd.read_csv('./data/region_city_data/city_info_2010_2012.csv')
-    df_2013_2015 = pd.read_csv('./data/region_city_data/city_info_2013_2015.csv')
-    df_2016_2018 = pd.read_csv('./data/region_city_data/city_info_2016_2018.csv')
-    df_2019_2021 = pd.read_csv('./data/region_city_data/city_info_2019_2021.csv')
-    df_2011_2021 = pd.read_csv('./data/region_city_data/region_info_2011_2021.csv')
+    # read csv files for demographic info
+    df_2010_2012 = pd.read_csv("./data/region_city_data/city_info_2010_2012.csv")
+    df_2013_2015 = pd.read_csv("./data/region_city_data/city_info_2013_2015.csv")
+    df_2016_2018 = pd.read_csv("./data/region_city_data/city_info_2016_2018.csv")
+    df_2019_2021 = pd.read_csv("./data/region_city_data/city_info_2019_2021.csv")
+    df_2011_2021 = pd.read_csv("./data/region_city_data/region_info_2011_2021.csv")
 
-    #remove redundant codes in the dataset of regions in Finland
-    df_2011_2021["Information"] = df_2011_2021["Information"].apply(lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip())
-        
-#create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
-    option_region = st.multiselect('Choose region', df_2011_2021["Region"].unique(), ['MK01 Uusimaa'], max_selections=3)
-    option_info_region = st.multiselect('Choose information for the region', ['Inhabitants, total', 'Agriculture, forestry and fishing', 'Mining and quarrying', 
-                                                        'Manufacturing', 'Electricity, gas, steam and air conditioning supply', 
-                                                        'Water supply; sewerage, waste management and remediation activities', 
-                                                        'Construction', 'Wholesale and retail trade; repair of motor vehicles and motorcycles', 
-                                                        'Transportation and storage', 'Accommodation and food service activities', 
-                                                        'Information and communication', 'Financial and insurance activities', 
-                                                        'Real estate activities', 'Professional, scientific and technical activities', 
-                                                        'Administrative and support service activities', 'Public administration and defence; compulsory social security', 
-                                                        'Education', 'Human health and social work activities', 
-                                                        'Arts, entertainment and recreation', 'Other service activities', 
-                                                        'Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use', 
-                                                        'Activities of extraterritorial organisations and bodies', 'Employed', 'Workplaces, total'], 
-                                                        ['Agriculture, forestry and fishing', 'Mining and quarrying'], max_selections=3)
+    # remove redundant codes in the dataset of regions in Finland
+    df_2011_2021["Information"] = df_2011_2021["Information"].apply(
+        lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip()
+    )
 
-#plot the line graph based on chosen region(s) and info(s)
+    # =====================================================================================================
+    # Create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
+    # =====================================================================================================
+    option_region = st.selectbox(
+        "Choose region",
+        df_2011_2021["Region"].unique(),
+    )
+    option_info_region = st.multiselect(
+        "Choose information for the region",
+        [
+            "Inhabitants, total",
+            "Agriculture, forestry and fishing",
+            "Mining and quarrying",
+            "Manufacturing",
+            "Electricity, gas, steam and air conditioning supply",
+            "Water supply; sewerage, waste management and remediation activities",
+            "Construction",
+            "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+            "Transportation and storage",
+            "Accommodation and food service activities",
+            "Information and communication",
+            "Financial and insurance activities",
+            "Real estate activities",
+            "Professional, scientific and technical activities",
+            "Administrative and support service activities",
+            "Public administration and defence; compulsory social security",
+            "Education",
+            "Human health and social work activities",
+            "Arts, entertainment and recreation",
+            "Other service activities",
+            "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+            "Activities of extraterritorial organisations and bodies",
+            "Employed",
+            "Workplaces, total",
+        ],
+        ["Agriculture, forestry and fishing", "Mining and quarrying"],
+        max_selections=3,
+    )
+
+    # =========================================================
+    # Plot the line graph based on chosen region(s) and info(s)
+    # =========================================================
     combined_region_graph_list = []
 
-    for reg in option_region:
-        for inf in option_info_region:
-            result = df_2011_2021[df_2011_2021["Region"] == reg]
-            result = result[result["Information"] == inf].reset_index(drop=True)
-            x_axis = result.columns[2:]
-            y_axis = result.loc[0][2:]
-            combined_region_graph_list.append(go.Scatter(mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {reg}"))
-
-    if combined_region_graph_list:
-        fig1 = go.Figure(data = combined_region_graph_list)
-
-        fig1.update_layout(
-        xaxis_title="Year",
-        yaxis_title="Number of people",
-        legend_title="Legend Title",
-        width=1000,
-        height=500
+    for inf in option_info_region:
+        result = df_2011_2021[df_2011_2021["Region"] == option_region]
+        result = result[result["Information"] == inf].reset_index(drop=True)
+        x_axis = result.columns[2:]
+        y_axis = result.loc[0][2:]
+        combined_region_graph_list.append(
+            go.Scatter(
+                mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {option_region}"
+            )
         )
 
+    if combined_region_graph_list:
+        fig1 = go.Figure(data=combined_region_graph_list)
+        fig1.update_layout(
+            xaxis_title="Year",
+            yaxis_title="Number of people",
+            legend_title="Legend Title",
+            width=1000,
+            height=500,
+        )
         st.plotly_chart(fig1)
+
     else:
         st.write("Please choose at least 1 region and 1 information")
 
-#plot pie chart of industries distribution for each chosen regions in 2020
-    option_industries = ['Agriculture, forestry and fishing', 'Mining and quarrying', 
-                                                        'Manufacturing', 'Electricity, gas, steam and air conditioning supply', 
-                                                        'Water supply; sewerage, waste management and remediation activities', 
-                                                        'Construction', 'Wholesale and retail trade; repair of motor vehicles and motorcycles', 
-                                                        'Transportation and storage', 'Accommodation and food service activities', 
-                                                        'Information and communication', 'Financial and insurance activities', 
-                                                        'Real estate activities', 'Professional, scientific and technical activities', 
-                                                        'Administrative and support service activities', 'Public administration and defence; compulsory social security', 
-                                                        'Education', 'Human health and social work activities', 
-                                                        'Arts, entertainment and recreation', 'Other service activities', 
-                                                        'Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use', 
-                                                        'Activities of extraterritorial organisations and bodies', 'Industry unknown']
-    for reg in option_region:
-        employed = df_2011_2021[(df_2011_2021["Region"] == reg) & (df_2011_2021["Information"].isin(option_industries))]
-        fig_1 = px.pie(employed, values='2020', names='Information', title=f"Industries distribution of {reg}", hover_name='Information')
-        fig_1.update_layout(
-            legend=dict(y=0.9, x=1.1),
-            width=1100,
-            height=690,
-            # margin=dict(l=50, r=50, b=50, t=50)
-        )
-        st.plotly_chart(fig_1, theme="streamlit")
+    # =========================================================================
+    # Plot pie chart of industries distribution for each chosen regions in 2020
+    # =========================================================================
+    option_industries = [
+        "Agriculture, forestry and fishing",
+        "Mining and quarrying",
+        "Manufacturing",
+        "Electricity, gas, steam and air conditioning supply",
+        "Water supply; sewerage, waste management and remediation activities",
+        "Construction",
+        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "Transportation and storage",
+        "Accommodation and food service activities",
+        "Information and communication",
+        "Financial and insurance activities",
+        "Real estate activities",
+        "Professional, scientific and technical activities",
+        "Administrative and support service activities",
+        "Public administration and defence; compulsory social security",
+        "Education",
+        "Human health and social work activities",
+        "Arts, entertainment and recreation",
+        "Other service activities",
+        "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+        "Activities of extraterritorial organisations and bodies",
+        "Industry unknown",
+    ]
+    employed = df_2011_2021[
+        (df_2011_2021["Region"] == option_region)
+        & (df_2011_2021["Information"].isin(option_industries))
+    ]
+    fig_1 = px.pie(
+        employed,
+        values="2020",
+        names="Information",
+        title=f"Industries distribution of {option_region}",
+        hover_name="Information",
+    )
+    fig_1.update_layout(
+        legend=dict(y=0.9, x=1.1),
+        width=1100,
+        height=690,
+        # margin=dict(l=50, r=50, b=50, t=50)
+    )
+    st.plotly_chart(fig_1, theme="streamlit")
 
-#merge datasets of municipalities in Finland into a continuous timeline
+    # merge datasets of municipalities in Finland into a continuous timeline
     df_2010_2015 = pd.merge(df_2010_2012, df_2013_2015, on=["Region", "Information"])
     df_2010_2018 = pd.merge(df_2010_2015, df_2016_2018, on=["Region", "Information"])
     df_2010_2021 = pd.merge(df_2010_2018, df_2019_2021, on=["Region", "Information"])
 
-#remove redundant codes in the dataset of municipalities in Finland
-    df_2010_2021["Information"] = df_2011_2021["Information"].apply(lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip())
+    # remove redundant codes in the dataset of municipalities in Finland
+    df_2010_2021["Information"] = df_2011_2021["Information"].apply(
+        lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip()
+    )
 
-#give streamlit display a title
-    st.title('Information on Municipalities in Finland 2010-2021')
-        
-#create multiselection dropdown menus for user to choose municipality(s) and info(s) to display the graph(s)
-    option_municipality = st.multiselect('Choose municipality', df_2010_2021["Region"].unique(), ['Espoo'], max_selections=3)
-    option_info_municipality = st.multiselect('Choose information for the municipality', ['Inhabitants, total', 'Agriculture, forestry and fishing', 'Mining and quarrying', 
-                                                        'Manufacturing', 'Electricity, gas, steam and air conditioning supply', 
-                                                        'Water supply; sewerage, waste management and remediation activities', 
-                                                        'Construction', 'Wholesale and retail trade; repair of motor vehicles and motorcycles', 
-                                                        'Transportation and storage', 'Accommodation and food service activities', 
-                                                        'Information and communication', 'Financial and insurance activities', 
-                                                        'Real estate activities', 'Professional, scientific and technical activities', 
-                                                        'Administrative and support service activities', 'Public administration and defence; compulsory social security', 
-                                                        'Education', 'Human health and social work activities', 
-                                                        'Arts, entertainment and recreation', 'Other service activities', 
-                                                        'Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use', 
-                                                        'Activities of extraterritorial organisations and bodies', 'Employed', 'Workplaces, total'], 
-                                                        ['Agriculture, forestry and fishing', 'Mining and quarrying'], max_selections=3)
+    # give streamlit display a title
+    st.title("Information on Municipalities in Finland 2010-2021")
 
-#plot the line graph based on chosen municipality(s) and info(s)
+    # create multiselection dropdown menus for user to choose municipality(s) and info(s) to display the graph(s)
+    option_municipality = st.multiselect(
+        "Choose municipality",
+        df_2010_2021["Region"].unique(),
+        ["Espoo"],
+        max_selections=3,
+    )
+    option_info_municipality = st.multiselect(
+        "Choose information for the municipality",
+        [
+            "Inhabitants, total",
+            "Agriculture, forestry and fishing",
+            "Mining and quarrying",
+            "Manufacturing",
+            "Electricity, gas, steam and air conditioning supply",
+            "Water supply; sewerage, waste management and remediation activities",
+            "Construction",
+            "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+            "Transportation and storage",
+            "Accommodation and food service activities",
+            "Information and communication",
+            "Financial and insurance activities",
+            "Real estate activities",
+            "Professional, scientific and technical activities",
+            "Administrative and support service activities",
+            "Public administration and defence; compulsory social security",
+            "Education",
+            "Human health and social work activities",
+            "Arts, entertainment and recreation",
+            "Other service activities",
+            "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+            "Activities of extraterritorial organisations and bodies",
+            "Employed",
+            "Workplaces, total",
+        ],
+        ["Agriculture, forestry and fishing", "Mining and quarrying"],
+        max_selections=3,
+    )
+
+    # ===============================================================
+    # Plot the line graph based on chosen municipality(s) and info(s)
+    # ===============================================================
     combined_municipality_graph_list = []
 
     for muni in option_municipality:
@@ -233,39 +311,41 @@ def dashboard(region_code):
             result = result[result["Information"] == inf].reset_index(drop=True)
             x_axis = result.columns[2:]
             y_axis = result.loc[0][2:]
-            combined_municipality_graph_list.append(go.Scatter(mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {muni}"))
+            combined_municipality_graph_list.append(
+                go.Scatter(
+                    mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {muni}"
+                )
+            )
 
     if combined_municipality_graph_list:
-
-        fig2 = go.Figure(data = combined_municipality_graph_list)
-
+        fig2 = go.Figure(data=combined_municipality_graph_list)
         fig2.update_layout(
             xaxis_title="year",
             yaxis_title="Number of people",
             legend_title="Legend Title",
             width=957,
-            height=500
+            height=500,
         )
         st.plotly_chart(fig2)
+
     else:
         st.write("Please choose at least 1 region and 1 information")
 
-# plot pie chart of industries distribution for each chosen municipalities in 2020
-# option_industries = ['Agriculture, forestry and fishing', 'Mining and quarrying', 
-#                                                     'Manufacturing', 'Electricity, gas, steam and air conditioning supply', 
-#                                                     'Water supply; sewerage, waste management and remediation activities', 
-#                                                     'Construction', 'Wholesale and retail trade; repair of motor vehicles and motorcycles', 
-#                                                     'Transportation and storage', 'Accommodation and food service activities', 
-#                                                     'Information and communication', 'Financial and insurance activities', 
-#                                                     'Real estate activities', 'Professional, scientific and technical activities', 
-#                                                     'Administrative and support service activities', 'Public administration and defence; compulsory social security', 
-#                                                     'Education', 'Human health and social work activities', 
-#                                                     'Arts, entertainment and recreation', 'Other service activities', 
-#                                                     'Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use', 
-#                                                     'Activities of extraterritorial organisations and bodies', 'Industry unknown']
+    # ================================================================================
+    # Plot pie chart of industries distribution for each chosen municipalities in 2020
+    # ================================================================================
     for muni in option_municipality:
-        employed = df_2010_2021[(df_2010_2021["Region"] == muni) & (df_2010_2021["Information"].isin(option_industries))]
-        fig_2 = px.pie(employed, values='2020', names='Information', title=f"Industries distribution of {muni}", hover_name='Information')
+        employed = df_2010_2021[
+            (df_2010_2021["Region"] == muni)
+            & (df_2010_2021["Information"].isin(option_industries))
+        ]
+        fig_2 = px.pie(
+            employed,
+            values="2020",
+            names="Information",
+            title=f"Industries distribution of {muni}",
+            hover_name="Information",
+        )
         fig_2.update_layout(
             legend=dict(y=0.9, x=1.1),
             width=1100,
@@ -274,7 +354,58 @@ def dashboard(region_code):
         )
         st.plotly_chart(fig_2, theme="streamlit")
 
+    # ==================================================================
+    # Plot line graph of a chosen index of a chosen industry 2015 - 2020
+    # ==================================================================
+    st.title("Index of Industry in Region")
 
-dashboard('MK01')
+    industry_dict = {
+        "A": "Agriculture, forestry and fishing",
+        "B": "Mining and quarrying",
+        "C": "Manufacturing",
+        "D": "Electricity, gas, steam and air conditioning supply",
+        "E": "Water supply; sewerage, waste management and remediation activities",
+        "F": "Construction",
+        "G": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+        "H": "Transportation and storage",
+        "I": "Accommodation and food service activities",
+        "J": "Information and communication",
+        "K": "Financial and insurance activities",
+        "L": "Real estate activities",
+        "M": "Professional, scientific and technical activities",
+        "N": "Administrative and support service activities",
+        "O": "Public administration and defence; compulsory social security",
+        "P": "Education",
+        "Q": "Human health and social work activities",
+        "R": "Arts, entertainment and recreation",
+        "S": "Other service activities",
+        "T": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+        "U": "Activities of extraterritorial organisations and bodies",
+    }
+    industry_ind_new = industry_ind[(industry_ind['Industry'] != 'Industry Unknown')]
+    industry_ind_new = industry_ind_new[industry_ind_new['Region code'] == option_region.split()[0]].drop_duplicates()
+    industry_ind_new['Industry'] = industry_ind_new['Industry'].apply(lambda row: industry_dict[row])
 
+    col1, col2 = st.columns([0.4, 0.6], gap="large")
+    index = "Export"
+    with col1:
+        industry = st.selectbox("Choose industry", industry_dict.values())
 
+        index = st.selectbox("Choose industry", [
+            "Export",
+            "Import",
+            "Industry trade dependency",
+            "Import-Export imbalance",
+            "Export Growth",
+            "Import Growth",
+        ])
+        st.caption("Display from year 2015 to 2020")
+
+    with col2:
+        industry_ind_plot = industry_ind_new[industry_ind_new['Industry'] == industry]
+        industry_ind_plot = industry_ind_plot[["Year", index]]
+        fig = px.line(industry_ind_plot, x="Year", y=index, title=f"{index} of {industry} of {option_region}")
+        st.plotly_chart(fig, theme="streamlit")
+
+        
+dashboard("MK01")
