@@ -9,13 +9,14 @@ import plotly.express as px
 
 st.set_page_config(layout="wide")
 
+@st.cache_data
 def load_data():
     education_ind = pd.read_csv(r'./data/Indices/education_attainment_index.csv')
     gdp_region_ind = pd.read_csv(r'./data/Indices/gdp_region_index.csv')
     industry_ind = pd.read_csv(r'./data/Indices/industries_indexes.csv', index_col=0)
     industry_ind.reset_index(drop=True, inplace=True)
     population_den = pd.read_csv(r'./data/Indices/population_density_index.csv')
-    region_ind = pd.read_csv(r'./data/Indices/regional_indexes.csv')
+    region_ind = pd.read_csv(r'./data/Indices/regional_indexes.csv', index_col=0)
     tax_ind = pd.read_csv(r'./data/Indices/tax_revenue_index.csv') 
     working_age_ind = pd.read_csv(r'./data/Indices/working_age_population_index.csv')
     #Find columns with same names and print out
@@ -48,16 +49,23 @@ def load_data():
 def dashboard(region_code):
     st.title('Region-specific dashboard')
     region_data, industry_ind = load_data()
+
     # Filter data based on region code
     chosen_region_data = region_data[region_data['Region code'] == region_code]
     chosen_industry_ind = industry_ind[industry_ind['Region code'] == region_code]
-    # Print out region name
+    
+    # Save region name
     region_name = chosen_region_data['Region name (en)'].unique()[0]
+    # Drop columns with region name and code
+    chosen_region_data.drop(columns=['Region name (en)', 'Region name (fi)', 'Region code'], inplace=True)
+    
+    # Print out region name
     st.header(f'Region name: {region_name}')
+
     # Print out region-specific indices
-    #st.write(chosen_region_data)
+    # st.write(chosen_region_data.set_index(['Year']).sort_values('Year'))
     # Print out industry-specific indices
-    #st.write(chosen_industry_ind)
+    # st.write(chosen_industry_ind)
     
     # Regional trade dependency ranking and value
     last_trade_dep = region_data.set_index(['Region code'])[['Year', 'Regional trade dependency']].dropna().sort_values('Year').groupby('Region code').tail(1)
@@ -65,15 +73,53 @@ def dashboard(region_code):
     chosen_region_trade_rank = last_trade_dep.loc[region_code, 'rank']
     chosen_region_trade_value = last_trade_dep.loc[region_code, 'Regional trade dependency']
     
-    st.write(f"Regional trade dependency rank: {int(chosen_region_trade_rank)}")
-    st.write(f"Trade dependency value: {chosen_region_trade_value}")
-    
-    # Display chosen indices
+    st.write(f"Regional trade dependency rank: #{int(chosen_region_trade_rank)}")
+    st.write(f"Trade dependency value: {chosen_region_trade_value:.2f}")
+
+    st.subheader('Region-specific indices')
+    # Region-specific indices
     chosen_indices = ['GDP relative growth (%)', 'Population relative growth (%)']
+    description = [('GDP relative growth (%)', 'GDP relative growth (%) is the percentage change in GDP compared to the previous year.'),
+                   ('Population relative growth (%)', 'Population relative growth (%) is the percentage change in population compared to the previous year.')]
+    description = pd.DataFrame.from_records(description, columns=['Index', 'Description'])
+    # Get chosen indices indexed by year
+    indices = chosen_region_data.set_index(['Year']).drop_duplicates().dropna(how='all').sort_values(['Year'])
+    indices.drop(columns=['Dominant Industry'], inplace=True) # Drop non-numeric index
+    vals_for_graphs = indices.to_dict(orient='list')
+    vals_for_graphs = {k : pd.Series(v).dropna().tolist() for k, v in vals_for_graphs.items()}
+    streamlit_table = pd.DataFrame({'Index' : indices.columns.to_list()}).merge(description, on='Index', how='left')
+    config = {
+        'Index' : st.column_config.TextColumn(disabled=True),
+        'Description' : st.column_config.TextColumn(disabled=True),   
+        'Selectbox' : st.column_config.CheckboxColumn(label="Choose index to graph", default=False, required=True),
+        'Graph' : st.column_config.LineChartColumn(label='Graph of the index', y_min=0) 
+    }
+    streamlit_table['Selectbox'] = False
+    streamlit_table['Graph'] = vals_for_graphs.values()
+    streamlit_table = streamlit_table.copy()
+    streamlit_table = st.data_editor(streamlit_table, column_config=config)
+    chosen_ind = streamlit_table[streamlit_table['Selectbox'] == True]
     
-    idx = pd.IndexSlice
-    # indices = chosen_region_data.set_index(['Year'])[chosen_indices].stack().swaplevel().sort_index().drop_duplicates().loc[idx[:, -1]]
-    # st.write(indices)
+    def graph(index_to_graph):
+        fig = go.Figure()
+        ser = indices[index_to_graph].dropna()
+        fig.add_trace(go.Scatter(x=ser.index, y=ser, name=index_to_graph))
+        fig.update_layout(
+            xaxis_title="Year",
+            yaxis_title=index_to_graph,
+            legend_title="Legend",
+            width=1000,
+            height=500,
+             xaxis = dict(
+                tickmode = 'linear',
+                tick0 = ser.index.min(),
+                dtick = 1
+            )
+        )
+        st.plotly_chart(fig)
+    
+    if not chosen_ind.empty:
+        graph(chosen_ind['Index'].iloc[-1])
     
     #read csv files for demographic info
     df_2010_2012 = pd.read_csv('./data/region_city_data/city_info_2010_2012.csv')
