@@ -43,12 +43,46 @@ def load_data():
     region_data = pd.merge(region_data, names, on=['Region code'], how='outer')
     industry_ind = pd.merge(industry_ind, names, on=['Region code'], how='outer')
     
+        # read csv files for demographic info
+    df_2010_2012 = pd.read_csv("./data/region_city_data/city_info_2010_2012.csv")
+    df_2013_2015 = pd.read_csv("./data/region_city_data/city_info_2013_2015.csv")
+    df_2016_2018 = pd.read_csv("./data/region_city_data/city_info_2016_2018.csv")
+    df_2019_2021 = pd.read_csv("./data/region_city_data/city_info_2019_2021.csv")
+    df_2011_2021 = pd.read_csv("./data/region_city_data/region_info_2011_2021.csv")
+
+    # remove redundant codes in the dataset of regions in Finland
+    df_2011_2021["Information"] = df_2011_2021["Information"].apply(
+        lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip()
+    )
+    
+    # merge datasets of municipalities in Finland into a continuous timeline
+    df_2010_2015 = pd.merge(df_2010_2012, df_2013_2015, on=["Region", "Information"])
+    df_2010_2018 = pd.merge(df_2010_2015, df_2016_2018, on=["Region", "Information"])
+    df_2010_2021 = pd.merge(df_2010_2018, df_2019_2021, on=["Region", "Information"])
+
+    # remove redundant codes in the dataset of municipalities in Finland
+    df_2010_2021["Information"] = df_2011_2021["Information"].apply(
+        lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip()
+    )
+
+
+
     # Return region-specific indices and industry-specific separately
-    return region_data, industry_ind
+    return region_data, industry_ind, df_2010_2021, df_2011_2021
 
 def dashboard(region_code):
     st.title('Region-specific dashboard')
-    region_data, industry_ind = load_data()
+    region_data, industry_ind, df_2010_2021, df_2011_2021 = load_data()
+    
+    # =====================================================================================================
+    # Create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
+    # =====================================================================================================
+    option_region = st.selectbox(
+        "Choose region",
+        df_2011_2021["Region"].unique(),
+    )
+    
+    region_code = option_region[:4]
 
     # Filter data based on region code
     chosen_region_data = region_data[region_data['Region code'] == region_code]
@@ -121,25 +155,6 @@ def dashboard(region_code):
     if not chosen_ind.empty:
         graph(chosen_ind['Index'].iloc[-1])
     
-    # read csv files for demographic info
-    df_2010_2012 = pd.read_csv("./data/region_city_data/city_info_2010_2012.csv")
-    df_2013_2015 = pd.read_csv("./data/region_city_data/city_info_2013_2015.csv")
-    df_2016_2018 = pd.read_csv("./data/region_city_data/city_info_2016_2018.csv")
-    df_2019_2021 = pd.read_csv("./data/region_city_data/city_info_2019_2021.csv")
-    df_2011_2021 = pd.read_csv("./data/region_city_data/region_info_2011_2021.csv")
-
-    # remove redundant codes in the dataset of regions in Finland
-    df_2011_2021["Information"] = df_2011_2021["Information"].apply(
-        lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip()
-    )
-
-    # =====================================================================================================
-    # Create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
-    # =====================================================================================================
-    option_region = st.selectbox(
-        "Choose region",
-        df_2011_2021["Region"].unique(),
-    )
     option_info_region = st.multiselect(
         "Choose information for the region",
         [
@@ -247,16 +262,6 @@ def dashboard(region_code):
         # margin=dict(l=50, r=50, b=50, t=50)
     )
     st.plotly_chart(fig_1, theme="streamlit")
-
-    # merge datasets of municipalities in Finland into a continuous timeline
-    df_2010_2015 = pd.merge(df_2010_2012, df_2013_2015, on=["Region", "Information"])
-    df_2010_2018 = pd.merge(df_2010_2015, df_2016_2018, on=["Region", "Information"])
-    df_2010_2021 = pd.merge(df_2010_2018, df_2019_2021, on=["Region", "Information"])
-
-    # remove redundant codes in the dataset of municipalities in Finland
-    df_2010_2021["Information"] = df_2011_2021["Information"].apply(
-        lambda row: re.sub(r"(\([A-Z]+\)$)|(^[A-Z] )", "", row).strip()
-    )
 
     # give streamlit display a title
     st.title("Information on Municipalities in Finland 2010-2021")
