@@ -396,7 +396,7 @@ def dashboard(region_code):
     with col1:
         industry = st.selectbox("Choose industry", industry_dict.values())
 
-        index = st.selectbox("Choose industry", [
+        index = st.selectbox("Choose index", [
             "Export",
             "Import",
             "Industry trade dependency",
