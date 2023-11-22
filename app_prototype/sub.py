@@ -102,10 +102,10 @@ def dashboard(region_code):
     # st.write(chosen_industry_ind)
     
     # Regional trade dependency ranking and value
-    last_trade_dep = region_data.set_index(['Region code'])[['Year', 'Regional trade dependency']].dropna().sort_values('Year').groupby('Region code').tail(1)
-    last_trade_dep['rank'] = last_trade_dep['Regional trade dependency'].rank(ascending=False, method='first')
+    last_trade_dep = region_data.set_index(['Region code'])[['Year', 'Regional Trade Dependency']].dropna().sort_values('Year').groupby('Region code').tail(1)
+    last_trade_dep['rank'] = last_trade_dep['Regional Trade Dependency'].rank(ascending=False, method='first')
     chosen_region_trade_rank = last_trade_dep.loc[region_code, 'rank']
-    chosen_region_trade_value = last_trade_dep.loc[region_code, 'Regional trade dependency']
+    chosen_region_trade_value = last_trade_dep.loc[region_code, 'Regional Trade Dependency']
     
     st.write(f"Regional trade dependency rank: #{int(chosen_region_trade_rank)}")
     st.write(f"Trade dependency value: {chosen_region_trade_value:.2f}")
