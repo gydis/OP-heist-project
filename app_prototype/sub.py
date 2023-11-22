@@ -7,6 +7,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 import plotly.express as px
 
+from menu_options import *
+
 st.set_page_config(layout="wide")
 
 @st.cache_data
@@ -94,7 +96,7 @@ def dashboard(region_code):
     chosen_region_data.drop(columns=['Region name (en)', 'Region name (fi)', 'Region code'], inplace=True)
     
     # Print out region name
-    st.header(f'Region name: {region_name}')
+    st.header(f'Region: {region_name}')
 
     # Print out region-specific indices
     # st.write(chosen_region_data.set_index(['Year']).sort_values('Year'))
@@ -110,7 +112,7 @@ def dashboard(region_code):
     st.write(f"Regional trade dependency rank: #{int(chosen_region_trade_rank)}")
     st.write(f"Trade dependency value: {chosen_region_trade_value:.2f}")
 
-    st.subheader('Region-specific indices')
+    st.header('Region-specific indices')
     # Region-specific indices
     chosen_indices = ['GDP relative growth (%)', 'Population relative growth (%)']
     description = [('GDP relative growth (%)', 'GDP relative growth (%) is the percentage change in GDP compared to the previous year.'),
@@ -120,8 +122,9 @@ def dashboard(region_code):
     indices = chosen_region_data.set_index(['Year']).drop_duplicates().dropna(how='all').sort_values(['Year'])
     indices.drop(columns=['Dominant Industry'], inplace=True) # Drop non-numeric index
     vals_for_graphs = indices.to_dict(orient='list')
+    vals_for_graphs['Employment data pie chart'] = len(vals_for_graphs[indices.columns[0]]) * [0]
     vals_for_graphs = {k : pd.Series(v).dropna().tolist() for k, v in vals_for_graphs.items()}
-    streamlit_table = pd.DataFrame({'Index' : indices.columns.to_list()}).merge(description, on='Index', how='left')
+    streamlit_table = pd.DataFrame({'Index' : indices.columns.to_list() + ["Employment data pie chart"]}).merge(description, on='Index', how='left')
     config = {
         'Index' : st.column_config.TextColumn(disabled=True),
         'Description' : st.column_config.TextColumn(disabled=True),   
@@ -135,54 +138,90 @@ def dashboard(region_code):
     chosen_ind = streamlit_table[streamlit_table['Selectbox'] == True]
     
     def graph(index_to_graph):
-        fig = go.Figure()
-        ser = indices[index_to_graph].dropna()
-        fig.add_trace(go.Scatter(x=ser.index, y=ser, name=index_to_graph))
-        fig.update_layout(
-            xaxis_title="Year",
-            yaxis_title=index_to_graph,
-            legend_title="Legend",
-            width=1000,
-            height=500,
-             xaxis = dict(
-                tickmode = 'linear',
-                tick0 = ser.index.min(),
-                dtick = 1
+        if index_to_graph != "Employment data pie chart":
+            fig = go.Figure()
+            ser = indices[index_to_graph].dropna()
+            fig.add_trace(go.Scatter(x=ser.index, y=ser, name=index_to_graph))
+            fig.update_layout(
+                xaxis_title="Year",
+                yaxis_title=index_to_graph,
+                legend_title="Legend",
+                width=1000,
+                height=500,
+                 xaxis = dict(
+                    tickmode = 'linear',
+                    tick0 = ser.index.min(),
+                    dtick = 1
+                )
             )
+            st.plotly_chart(fig)
+        else:
+            employment_pie_chart()
+        
+    def employment_pie_chart():
+        # =========================================================================
+        # Plot pie chart of industries distribution for each chosen regions in 2020
+        # =========================================================================
+        employed = df_2011_2021[
+            (df_2011_2021["Region"] == option_region)
+            & (df_2011_2021["Information"].isin(option_industries))
+        ]
+        fig_1 = px.pie(
+            employed,
+            values="2020",
+            names="Information",
+            title=f"Industries distribution of {option_region}",
+            hover_name="Information",
         )
-        st.plotly_chart(fig)
+        fig_1.update_layout(
+            legend=dict(y=0.9, x=1.1),
+            width=1100,
+            height=690,
+            # margin=dict(l=50, r=50, b=50, t=50)
+        )
+        st.plotly_chart(fig_1, theme="streamlit")
+
     
+    # Plot the region-specific indices if any chosen
     if not chosen_ind.empty:
         graph(chosen_ind['Index'].iloc[-1])
     
+    
+    # ==================================================================
+    # Plot line graph of a chosen index of a chosen industry 2015 - 2020
+    # ==================================================================
+    st.header("Index of Industry in Region")
+
+    industry_ind_new = industry_ind[(industry_ind['Industry'] != 'Industry Unknown')]
+    industry_ind_new = industry_ind_new[industry_ind_new['Region code'] == option_region.split()[0]].drop_duplicates()
+    industry_ind_new['Industry'] = industry_ind_new['Industry'].apply(lambda row: industry_dict[row])
+
+    col1, col2 = st.columns([0.4, 0.6], gap="large")
+    index = "Export"
+    with col1:
+        industry = st.selectbox("Choose industry", industry_dict.values())
+
+        index = st.selectbox("Choose index", [
+            "Export",
+            "Import",
+            "Industry Trade Dependency",
+            "Import-Export Imbalance",
+            "Export Growth",
+            "Import Growth",
+        ])
+        st.caption("Display from year 2015 to 2020")
+
+    with col2:
+        industry_ind_plot = industry_ind_new[industry_ind_new['Industry'] == industry]
+        industry_ind_plot = industry_ind_plot[["Year", index]]
+        fig = px.line(industry_ind_plot, x="Year", y=index, title=f"{index} of {industry} of {option_region}")
+        st.plotly_chart(fig, theme="streamlit")
+    
+
+    st.header('Regional Employment Data')
     option_info_region = st.multiselect(
         "Choose information for the region",
-        [
-            "Inhabitants, total",
-            "Agriculture, forestry and fishing",
-            "Mining and quarrying",
-            "Manufacturing",
-            "Electricity, gas, steam and air conditioning supply",
-            "Water supply; sewerage, waste management and remediation activities",
-            "Construction",
-            "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-            "Transportation and storage",
-            "Accommodation and food service activities",
-            "Information and communication",
-            "Financial and insurance activities",
-            "Real estate activities",
-            "Professional, scientific and technical activities",
-            "Administrative and support service activities",
-            "Public administration and defence; compulsory social security",
-            "Education",
-            "Human health and social work activities",
-            "Arts, entertainment and recreation",
-            "Other service activities",
-            "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-            "Activities of extraterritorial organisations and bodies",
-            "Employed",
-            "Workplaces, total",
-        ],
+        municipality_and_region_info_fields,
         ["Agriculture, forestry and fishing", "Mining and quarrying"],
         max_selections=3,
     )
@@ -217,52 +256,6 @@ def dashboard(region_code):
     else:
         st.write("Please choose at least 1 region and 1 information")
 
-    # =========================================================================
-    # Plot pie chart of industries distribution for each chosen regions in 2020
-    # =========================================================================
-    option_industries = [
-        "Agriculture, forestry and fishing",
-        "Mining and quarrying",
-        "Manufacturing",
-        "Electricity, gas, steam and air conditioning supply",
-        "Water supply; sewerage, waste management and remediation activities",
-        "Construction",
-        "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-        "Transportation and storage",
-        "Accommodation and food service activities",
-        "Information and communication",
-        "Financial and insurance activities",
-        "Real estate activities",
-        "Professional, scientific and technical activities",
-        "Administrative and support service activities",
-        "Public administration and defence; compulsory social security",
-        "Education",
-        "Human health and social work activities",
-        "Arts, entertainment and recreation",
-        "Other service activities",
-        "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-        "Activities of extraterritorial organisations and bodies",
-        "Industry unknown",
-    ]
-    employed = df_2011_2021[
-        (df_2011_2021["Region"] == option_region)
-        & (df_2011_2021["Information"].isin(option_industries))
-    ]
-    fig_1 = px.pie(
-        employed,
-        values="2020",
-        names="Information",
-        title=f"Industries distribution of {option_region}",
-        hover_name="Information",
-    )
-    fig_1.update_layout(
-        legend=dict(y=0.9, x=1.1),
-        width=1100,
-        height=690,
-        # margin=dict(l=50, r=50, b=50, t=50)
-    )
-    st.plotly_chart(fig_1, theme="streamlit")
-
     # give streamlit display a title
     st.title("Information on Municipalities in Finland 2010-2021")
 
@@ -275,32 +268,7 @@ def dashboard(region_code):
     )
     option_info_municipality = st.multiselect(
         "Choose information for the municipality",
-        [
-            "Inhabitants, total",
-            "Agriculture, forestry and fishing",
-            "Mining and quarrying",
-            "Manufacturing",
-            "Electricity, gas, steam and air conditioning supply",
-            "Water supply; sewerage, waste management and remediation activities",
-            "Construction",
-            "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-            "Transportation and storage",
-            "Accommodation and food service activities",
-            "Information and communication",
-            "Financial and insurance activities",
-            "Real estate activities",
-            "Professional, scientific and technical activities",
-            "Administrative and support service activities",
-            "Public administration and defence; compulsory social security",
-            "Education",
-            "Human health and social work activities",
-            "Arts, entertainment and recreation",
-            "Other service activities",
-            "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-            "Activities of extraterritorial organisations and bodies",
-            "Employed",
-            "Workplaces, total",
-        ],
+        municipality_and_region_info_fields,
         ["Agriculture, forestry and fishing", "Mining and quarrying"],
         max_selections=3,
     )
@@ -359,58 +327,6 @@ def dashboard(region_code):
         )
         st.plotly_chart(fig_2, theme="streamlit")
 
-    # ==================================================================
-    # Plot line graph of a chosen index of a chosen industry 2015 - 2020
-    # ==================================================================
-    st.title("Index of Industry in Region")
-
-    industry_dict = {
-        "A": "Agriculture, forestry and fishing",
-        "B": "Mining and quarrying",
-        "C": "Manufacturing",
-        "D": "Electricity, gas, steam and air conditioning supply",
-        "E": "Water supply; sewerage, waste management and remediation activities",
-        "F": "Construction",
-        "G": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-        "H": "Transportation and storage",
-        "I": "Accommodation and food service activities",
-        "J": "Information and communication",
-        "K": "Financial and insurance activities",
-        "L": "Real estate activities",
-        "M": "Professional, scientific and technical activities",
-        "N": "Administrative and support service activities",
-        "O": "Public administration and defence; compulsory social security",
-        "P": "Education",
-        "Q": "Human health and social work activities",
-        "R": "Arts, entertainment and recreation",
-        "S": "Other service activities",
-        "T": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-        "U": "Activities of extraterritorial organisations and bodies",
-    }
-    industry_ind_new = industry_ind[(industry_ind['Industry'] != 'Industry Unknown')]
-    industry_ind_new = industry_ind_new[industry_ind_new['Region code'] == option_region.split()[0]].drop_duplicates()
-    industry_ind_new['Industry'] = industry_ind_new['Industry'].apply(lambda row: industry_dict[row])
-
-    col1, col2 = st.columns([0.4, 0.6], gap="large")
-    index = "Export"
-    with col1:
-        industry = st.selectbox("Choose industry", industry_dict.values())
-
-        index = st.selectbox("Choose index", [
-            "Export",
-            "Import",
-            "Industry trade dependency",
-            "Import-Export imbalance",
-            "Export Growth",
-            "Import Growth",
-        ])
-        st.caption("Display from year 2015 to 2020")
-
-    with col2:
-        industry_ind_plot = industry_ind_new[industry_ind_new['Industry'] == industry]
-        industry_ind_plot = industry_ind_plot[["Year", index]]
-        fig = px.line(industry_ind_plot, x="Year", y=index, title=f"{index} of {industry} of {option_region}")
-        st.plotly_chart(fig, theme="streamlit")
 
         
 dashboard("MK01")
