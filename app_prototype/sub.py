@@ -369,7 +369,6 @@ def dashboard(region_code):
         "B": "Mining and quarrying",
         "C": "Manufacturing",
         "D": "Electricity, gas, steam and air conditioning supply",
-        "E": "Water supply; sewerage, waste management and remediation activities",
         "F": "Construction",
         "G": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
         "H": "Transportation and storage",
@@ -383,34 +382,64 @@ def dashboard(region_code):
         "P": "Education",
         "Q": "Human health and social work activities",
         "R": "Arts, entertainment and recreation",
-        "S": "Other service activities",
         "T": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-        "U": "Activities of extraterritorial organisations and bodies",
     }
-    industry_ind_new = industry_ind[(industry_ind['Industry'] != 'Industry Unknown')]
+    industry_ind_new = industry_ind
     industry_ind_new = industry_ind_new[industry_ind_new['Region code'] == option_region.split()[0]].drop_duplicates()
     industry_ind_new['Industry'] = industry_ind_new['Industry'].apply(lambda row: industry_dict[row])
-
+    
     col1, col2 = st.columns([0.4, 0.6], gap="large")
     index = "Export"
     with col1:
-        industry = st.selectbox("Choose industry", industry_dict.values())
+        industry_list = st.multiselect("Choose industry", industry_dict.values(), max_selections=3)
 
         index = st.selectbox("Choose index", [
+            "Employment",
             "Export",
             "Import",
-            "Industry trade dependency",
-            "Import-Export imbalance",
+            "Industry Trade Dependency",
+            "Import-Export Imbalance",
             "Export Growth",
             "Import Growth",
         ])
         st.caption("Display from year 2015 to 2020")
 
     with col2:
-        industry_ind_plot = industry_ind_new[industry_ind_new['Industry'] == industry]
-        industry_ind_plot = industry_ind_plot[["Year", index]]
-        fig = px.line(industry_ind_plot, x="Year", y=index, title=f"{index} of {industry} of {option_region}")
-        st.plotly_chart(fig, theme="streamlit")
+        combined_fig = go.Figure()
+        combined_fig.update_layout(
+            showlegend=True,
+            height=500,
+            xaxis_title="Year", 
+            legend=dict(yanchor="top", y=-0.3, xanchor="left", x=0)
+        )
+        for industry in industry_list:
+            if index != "Employment":
+                industry_ind_plot = industry_ind_new[industry_ind_new['Industry'] == industry]
+                industry_ind_plot = industry_ind_plot[["Year", index]]
+                fig = go.Scatter(x=industry_ind_plot["Year"], y=industry_ind_plot[index], name=industry)
+                combined_fig.add_traces(fig)
+                combined_fig.update_layout(
+                    title=f"{index} of {option_region}",
+                    yaxis_title=f"{index}",
+                )
+            else:
+                employment_plot = df_2011_2021[df_2011_2021["Region"] == option_region]
+                employment_plot = employment_plot[employment_plot["Information"] == industry].reset_index(drop=True)
+                employment_plot = employment_plot[['2015', '2016', '2017', '2018', '2019', '2020']]
+                x_axis = employment_plot.columns
+                y_axis = employment_plot.loc[0]
+                fig = go.Scatter(x=x_axis, y=y_axis, name=industry)
+                combined_fig.add_traces(fig)
+                combined_fig.update_layout(
+                    title=f"{index} of {option_region}",
+                    yaxis_title=f"{index}",
+                )
+
+        if combined_region_graph_list:
+            st.plotly_chart(combined_fig)
+
+        else:
+            st.write("Please choose at least 1 region and 1 information")
 
         
 dashboard("MK01")
