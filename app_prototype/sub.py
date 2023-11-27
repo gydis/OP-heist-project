@@ -14,6 +14,7 @@ st.set_page_config(layout="wide")
 @st.cache_data
 def load_data():
     education_ind = pd.read_csv(r'./data/Indices/education_attainment_index.csv')
+    code_to_name = education_ind[['Region code', 'Region name (en)']].drop_duplicates()
     gdp_region_ind = pd.read_csv(r'./data/Indices/gdp_region_index.csv')
     industry_ind = pd.read_csv(r'./data/Indices/industries_indexes.csv', index_col=0)
     industry_ind.reset_index(drop=True, inplace=True)
@@ -47,23 +48,23 @@ def load_data():
     
     # Read regional indices with forecasts
     indices = {
-        "Bachelor degree" : r'./data/forecast_values/bachelor.csv',
-        "Doctoral degree" : r'./data/forecast_values/doctoral.csv',
-        "Master degree" : r'./data/forecast_values/master.csv',
-        "GDP per capita" : r'./data/forecast_values/gdp_per_capita.csv',
+        "Bachelor Degree" : r'./data/forecast_values/bachelor.csv',
+        "Doctoral Degree" : r'./data/forecast_values/doctoral.csv',
+        "Master Degree" : r'./data/forecast_values/master.csv',
+        "GDP Per Capita" : r'./data/forecast_values/gdp_per_capita.csv',
         "GDP" : r'./data/forecast_values/gdp.csv',
-        "Population density" : r'./data/forecast_values/population_density.csv',
-        "Tax revenue" : r'./data/forecast_values/tax_revenue.csv',
-        "Working age population" : r'./data/forecast_values/working_age_population.csv'
+        "Population Density" : r'./data/forecast_values/population_density.csv',
+        "Tax Revenue" : r'./data/forecast_values/tax_revenue.csv',
+        "Working Age Population" : r'./data/forecast_values/working_age_population.csv'
     }
     
     indices_2 = {
-        "Export value" : r'./data/forecast_values/exports.csv',
-        "Export growth" : r'./data/forecast_values/exports_growth.csv',
-        "Trade imbalance value" : r'./data/forecast_values/imbalances.csv',
-        "Import value" : r'./data/forecast_values/imports.csv',
-        "Import growth" : r'./data/forecast_values/imports_growth.csv',
-        "Trade dependency" : r'./data/forecast_values/trade_dependencies.csv'
+        "Export Value" : r'./data/forecast_values/exports.csv',
+        "Export Growth" : r'./data/forecast_values/exports_growth.csv',
+        "Trade Imbalance" : r'./data/forecast_values/imbalances.csv',
+        "Import Value" : r'./data/forecast_values/imports.csv',
+        "Import Growth" : r'./data/forecast_values/imports_growth.csv',
+        "Trade Dependency" : r'./data/forecast_values/trade_dependencies.csv'
     }
     
     for key, value in indices.items():
@@ -92,12 +93,12 @@ def load_data():
     
     # Read industry-specific indices with forecasts
     industry_indices = {
-        "Export value" : r'./data/forecast_values/exports_industry.csv',
-        "Export growth" : r'./data/forecast_values/exports_growth_industry.csv',
-        "Trade imbalance value" : r'./data/forecast_values/imbalances_industry.csv',
-        "Import value" : r'./data/forecast_values/imports_industry.csv',
-        "Import growth" : r'./data/forecast_values/imports_growth_industry.csv',
-        "Trade dependency" : r'./data/forecast_values/trade_dependencies_industry.csv'
+        "Export Value" : r'./data/forecast_values/exports_industry.csv',
+        "Export Growth" : r'./data/forecast_values/exports_growth_industry.csv',
+        "Trade Imbalance" : r'./data/forecast_values/imbalances_industry.csv',
+        "Import Value" : r'./data/forecast_values/imports_industry.csv',
+        "Import Growth" : r'./data/forecast_values/imports_growth_industry.csv',
+        "Trade Dependency" : r'./data/forecast_values/trade_dependencies_industry.csv'
     }
     
     for key, value in industry_indices.items():
@@ -137,13 +138,11 @@ def load_data():
 
 
     # Return region-specific indices and industry-specific separately
-    return region_data, industry_ind, df_2010_2021, df_2011_2021
+    return region_data, industry_ind, df_2010_2021, df_2011_2021, code_to_name
 
 def dashboard(region_code):
     st.title('Region-specific dashboard')
-    region_data, industry_ind, df_2010_2021, df_2011_2021 = load_data()
-    st.write(region_data)
-    st.write(industry_ind)
+    region_data, industry_ind, df_2010_2021, df_2011_2021, code_to_name = load_data()
     # =====================================================================================================
     # Create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
     # =====================================================================================================
@@ -159,73 +158,47 @@ def dashboard(region_code):
     chosen_industry_ind = industry_ind[industry_ind['Region code'] == region_code]
     
     # Save region name
-    region_name = chosen_region_data['Region name (en)'].unique()[0]
+    region_name = code_to_name[code_to_name['Region code'] == region_code]['Region name (en)'].iloc[0]
     # Drop columns with region name and code
-    chosen_region_data.drop(columns=['Region name (en)', 'Region name (fi)', 'Region code'], inplace=True)
+    chosen_region_data.drop(columns=['Region code'], inplace=True)
     
     # Print out region name
     st.header(f'Region: {region_name}')
-
-    # Print out region-specific indices
-    # st.write(chosen_region_data.set_index(['Year']).sort_values('Year'))
-    # Print out industry-specific indices
-    # st.write(chosen_industry_ind)
     
     # Regional trade dependency ranking and value
-    last_trade_dep = region_data.set_index(['Region code'])[['Year', 'Regional Trade Dependency']].dropna().sort_values('Year').groupby('Region code').tail(1)
-    last_trade_dep['rank'] = last_trade_dep['Regional Trade Dependency'].rank(ascending=False, method='first')
-    chosen_region_trade_rank = last_trade_dep.loc[region_code, 'rank']
-    chosen_region_trade_value = last_trade_dep.loc[region_code, 'Regional Trade Dependency']
-    
-    st.write(f"Regional trade dependency rank: #{int(chosen_region_trade_rank)}")
-    st.write(f"Trade dependency value: {chosen_region_trade_value:.2f}")
+    last_trade_dep_curr = region_data.set_index(['Region code'])[['Year', 'Trade Dependency']].dropna().sort_values('Year').groupby('Region code').nth(-4)
+    last_trade_dep_curr['rank'] = last_trade_dep_curr['Trade Dependency'].rank(ascending=False, method='first')
 
-    st.header('Region-specific indices')
-    # Region-specific indices
-    chosen_indices = ['GDP relative growth (%)', 'Population relative growth (%)']
-    description = [('GDP relative growth (%)', 'GDP relative growth (%) is the percentage change in GDP compared to the previous year.'),
-                   ('Population relative growth (%)', 'Population relative growth (%) is the percentage change in population compared to the previous year.')]
-    description = pd.DataFrame.from_records(description, columns=['Index', 'Description'])
-    # Get chosen indices indexed by year
-    indices = chosen_region_data.set_index(['Year']).drop_duplicates().dropna(how='all').sort_values(['Year'])
-    indices.drop(columns=['Dominant Industry'], inplace=True) # Drop non-numeric index
-    vals_for_graphs = indices.to_dict(orient='list')
-    vals_for_graphs['Employment data pie chart'] = len(vals_for_graphs[indices.columns[0]]) * [0]
-    vals_for_graphs = {k : pd.Series(v).dropna().tolist() for k, v in vals_for_graphs.items()}
-    streamlit_table = pd.DataFrame({'Index' : indices.columns.to_list() + ["Employment data pie chart"]}).merge(description, on='Index', how='left')
-    config = {
-        'Index' : st.column_config.TextColumn(disabled=True),
-        'Description' : st.column_config.TextColumn(disabled=True),   
-        'Selectbox' : st.column_config.CheckboxColumn(label="Choose index to graph", default=False, required=True),
-        'Graph' : st.column_config.LineChartColumn(label='Graph of the index', y_min=0) 
-    }
-    streamlit_table['Selectbox'] = False
-    streamlit_table['Graph'] = vals_for_graphs.values()
-    streamlit_table = streamlit_table.copy()
-    streamlit_table = st.data_editor(streamlit_table, column_config=config)
-    chosen_ind = streamlit_table[streamlit_table['Selectbox'] == True]
+    last_trade_dep_4y = region_data.set_index(['Region code'])[['Year', 'Trade Dependency']].dropna().sort_values('Year').groupby('Region code').nth(-8)
+    last_trade_dep_4y['rank'] = last_trade_dep_4y['Trade Dependency'].rank(ascending=False, method='first')
     
-    def graph(index_to_graph):
-        if index_to_graph != "Employment data pie chart":
-            fig = go.Figure()
-            ser = indices[index_to_graph].dropna()
-            fig.add_trace(go.Scatter(x=ser.index, y=ser, name=index_to_graph))
-            fig.update_layout(
-                xaxis_title="Year",
-                yaxis_title=index_to_graph,
-                legend_title="Legend",
-                width=1000,
-                height=500,
-                 xaxis = dict(
-                    tickmode = 'linear',
-                    tick0 = ser.index.min(),
-                    dtick = 1
-                )
-            )
-            st.plotly_chart(fig)
-        else:
-            employment_pie_chart()
-        
+    rank_change = last_trade_dep_curr['rank'] - last_trade_dep_4y['rank']
+    val_change = last_trade_dep_curr['Trade Dependency'] - last_trade_dep_4y['Trade Dependency']
+    
+    col1, col2 = st.columns([0.1, 0.1])
+    col1.metric(label='Trade dependency rank', value=int(last_trade_dep_curr['rank'][region_code]), 
+                delta=f'{int(rank_change[region_code])}', delta_color='off')
+    col2.metric(label='Trade dependency value', value=f'{last_trade_dep_curr["Trade Dependency"][region_code]:.2f}', 
+                delta=f'{val_change[region_code]:.2f}', delta_color='off')
+    
+    st.header('Important indicators')
+    col1, col2 = st.columns([0.35, 0.65])
+    
+    # Important indicators box
+    data = chosen_region_data.set_index(['Year']).drop_duplicates().dropna(how='all').sort_values(['Year'])
+    with col1:
+        indicators = ['GDP', 'Import Value', 'Export Value', 'Tax Revenue', 'Working Age Population']
+        units = [' (€B)', ' (€B)', ' (€B)', ' (€B)', ' (1000s people)']
+        order = [10**9, 10**9, 10**9, 10**9, 10**3]
+        formatting = ['{:.2f}', '{:.2f}', '{:.2f}', '{:.2f}', '{:.2f}']
+        values = [data[i].dropna().iloc[-1] for i in indicators]
+        deltas = [(data[i].dropna().iloc[-4] - data[i].dropna().iloc[-8]) / data[i].dropna().iloc[-8] for i in indicators]
+        deltas = [f'{d*100:.2f}%' for d in deltas]
+        values = [v/o for v, o in zip(values, order)]
+        values = [f.format(v) for f, v in zip(formatting, values)]
+        values = [f'{v}{u}' for v, u in zip(values, units)]
+        metrics = [st.metric(label=indicators[i], value=values[i], delta=deltas[i]) for i in range(len(indicators))]
+
     def employment_pie_chart():
         # =========================================================================
         # Plot pie chart of industries distribution for each chosen regions in 2020
@@ -249,110 +222,143 @@ def dashboard(region_code):
         )
         st.plotly_chart(fig_1, theme="streamlit")
 
-    # Plot the region-specific indices if any chosen
-    if not chosen_ind.empty:
-        graph(chosen_ind['Index'].iloc[-1])
+
+    with col2:        
+        employment_pie_chart()  
+    
+
+    # st.header('Region-specific indices')
+    # # Region-specific indices
+    # chosen_indices = ['GDP relative growth (%)', 'Population relative growth (%)']
+    # description = [('GDP relative growth (%)', 'GDP relative growth (%) is the percentage change in GDP compared to the previous year.'),
+    #                ('Population relative growth (%)', 'Population relative growth (%) is the percentage change in population compared to the previous year.')]
+    # description = pd.DataFrame.from_records(description, columns=['Index', 'Description'])
+    # # Get chosen indices indexed by year
+    # indices = chosen_region_data.set_index(['Year']).drop_duplicates().dropna(how='all').sort_values(['Year'])
+    # indices.drop(columns=['Dominant Industry'], inplace=True) # Drop non-numeric index
+    # vals_for_graphs = indices.to_dict(orient='list')
+    # vals_for_graphs['Employment data pie chart'] = len(vals_for_graphs[indices.columns[0]]) * [0]
+    # vals_for_graphs = {k : pd.Series(v).dropna().tolist() for k, v in vals_for_graphs.items()}
+    # streamlit_table = pd.DataFrame({'Index' : indices.columns.to_list() + ["Employment data pie chart"]}).merge(description, on='Index', how='left')
+    # config = {
+    #     'Index' : st.column_config.TextColumn(disabled=True),
+    #     'Description' : st.column_config.TextColumn(disabled=True),   
+    #     'Selectbox' : st.column_config.CheckboxColumn(label="Choose index to graph", default=False, required=True),
+    #     'Graph' : st.column_config.LineChartColumn(label='Graph of the index', y_min=0) 
+    # }
+    # streamlit_table['Selectbox'] = False
+    # streamlit_table['Graph'] = vals_for_graphs.values()
+    # streamlit_table = streamlit_table.copy()
+    # streamlit_table = st.data_editor(streamlit_table, column_config=config)
+    # chosen_ind = streamlit_table[streamlit_table['Selectbox'] == True]
+    
+    # def graph(index_to_graph):
+    #     if index_to_graph != "Employment data pie chart":
+    #         fig = go.Figure()
+    #         ser = indices[index_to_graph].dropna()
+    #         fig.add_trace(go.Scatter(x=ser.index, y=ser, name=index_to_graph))
+    #         fig.update_layout(
+    #             xaxis_title="Year",
+    #             yaxis_title=index_to_graph,
+    #             legend_title="Legend",
+    #             width=1000,
+    #             height=500,
+    #              xaxis = dict(
+    #                 tickmode = 'linear',
+    #                 tick0 = ser.index.min(),
+    #                 dtick = 1
+    #             )
+    #         )
+    #         st.plotly_chart(fig)
+    #     else:
+    #         employment_pie_chart()
+        
+
+    # # Plot the region-specific indices if any chosen
+    # if not chosen_ind.empty:
+    #     graph(chosen_ind['Index'].iloc[-1])
     
 
     # give streamlit display a title
-    st.title("Information on Municipalities in Finland 2010-2021")
+    # st.title("Information on Municipalities in Finland 2010-2021")
 
-    # create multiselection dropdown menus for user to choose municipality(s) and info(s) to display the graph(s)
-    option_municipality = st.multiselect(
-        "Choose municipality",
-        df_2010_2021["Region"].unique(),
-        ["Espoo"],
-        max_selections=3,
-    )
-    option_info_municipality = st.multiselect(
-        "Choose information for the municipality",
-        municipality_and_region_info_fields,
-        ["Agriculture, forestry and fishing", "Mining and quarrying"],
-        max_selections=3,
-    )
+    # # create multiselection dropdown menus for user to choose municipality(s) and info(s) to display the graph(s)
+    # option_municipality = st.multiselect(
+    #     "Choose municipality",
+    #     df_2010_2021["Region"].unique(),
+    #     ["Espoo"],
+    #     max_selections=3,
+    # )
+    # option_info_municipality = st.multiselect(
+    #     "Choose information for the municipality",
+    #     municipality_and_region_info_fields,
+    #     ["Agriculture, forestry and fishing", "Mining and quarrying"],
+    #     max_selections=3,
+    # )
 
-    # ===============================================================
-    # Plot the line graph based on chosen municipality(s) and info(s)
-    # ===============================================================
-    combined_municipality_graph_list = []
+    # # ===============================================================
+    # # Plot the line graph based on chosen municipality(s) and info(s)
+    # # ===============================================================
+    # combined_municipality_graph_list = []
 
-    for muni in option_municipality:
-        for inf in option_info_municipality:
-            result = df_2010_2021[df_2010_2021["Region"] == muni]
-            result = result[result["Information"] == inf].reset_index(drop=True)
-            x_axis = result.columns[2:]
-            y_axis = result.loc[0][2:]
-            combined_municipality_graph_list.append(
-                go.Scatter(
-                    mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {muni}"
-                )
-            )
+    # for muni in option_municipality:
+    #     for inf in option_info_municipality:
+    #         result = df_2010_2021[df_2010_2021["Region"] == muni]
+    #         result = result[result["Information"] == inf].reset_index(drop=True)
+    #         x_axis = result.columns[2:]
+    #         y_axis = result.loc[0][2:]
+    #         combined_municipality_graph_list.append(
+    #             go.Scatter(
+    #                 mode="lines+markers", x=x_axis, y=y_axis, name=f"{inf} of {muni}"
+    #             )
+    #         )
 
-    if combined_municipality_graph_list:
-        fig2 = go.Figure(data=combined_municipality_graph_list)
-        fig2.update_layout(
-            xaxis_title="year",
-            yaxis_title="Number of people",
-            legend_title="Legend Title",
-            width=957,
-            height=500,
-        )
-        st.plotly_chart(fig2)
+    # if combined_municipality_graph_list:
+    #     fig2 = go.Figure(data=combined_municipality_graph_list)
+    #     fig2.update_layout(
+    #         xaxis_title="year",
+    #         yaxis_title="Number of people",
+    #         legend_title="Legend Title",
+    #         width=957,
+    #         height=500,
+    #     )
+    #     st.plotly_chart(fig2)
 
-    else:
-        st.write("Please choose at least 1 region and 1 information")
+    # else:
+    #     st.write("Please choose at least 1 region and 1 information")
 
-    # ================================================================================
-    # Plot pie chart of industries distribution for each chosen municipalities in 2020
-    # ================================================================================
-    for muni in option_municipality:
-        employed = df_2010_2021[
-            (df_2010_2021["Region"] == muni)
-            & (df_2010_2021["Information"].isin(option_industries))
-        ]
-        fig_2 = px.pie(
-            employed,
-            values="2020",
-            names="Information",
-            title=f"Industries distribution of {muni}",
-            hover_name="Information",
-        )
-        fig_2.update_layout(
-            legend=dict(y=0.9, x=1.1),
-            width=1100,
-            height=690,
-            # margin=dict(l=50, r=50, b=50, t=50)
-        )
-        st.plotly_chart(fig_2, theme="streamlit")
+    # # ================================================================================
+    # # Plot pie chart of industries distribution for each chosen municipalities in 2020
+    # # ================================================================================
+    # for muni in option_municipality:
+    #     employed = df_2010_2021[
+    #         (df_2010_2021["Region"] == muni)
+    #         & (df_2010_2021["Information"].isin(option_industries))
+    #     ]
+    #     fig_2 = px.pie(
+    #         employed,
+    #         values="2020",
+    #         names="Information",
+    #         title=f"Industries distribution of {muni}",
+    #         hover_name="Information",
+    #     )
+    #     fig_2.update_layout(
+    #         legend=dict(y=0.9, x=1.1),
+    #         width=1100,
+    #         height=690,
+    #         # margin=dict(l=50, r=50, b=50, t=50)
+    #     )
+    #     st.plotly_chart(fig_2, theme="streamlit")
 
     # ==================================================================
     # Plot line graph of a chosen index of a chosen industry 2015 - 2020
     # ==================================================================
     st.title("Index of Industry in Region")
 
-    industry_dict = {
-        "A": "Agriculture, forestry and fishing",
-        "B": "Mining and quarrying",
-        "C": "Manufacturing",
-        "D": "Electricity, gas, steam and air conditioning supply",
-        "F": "Construction",
-        "G": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-        "H": "Transportation and storage",
-        "I": "Accommodation and food service activities",
-        "J": "Information and communication",
-        "K": "Financial and insurance activities",
-        "L": "Real estate activities",
-        "M": "Professional, scientific and technical activities",
-        "N": "Administrative and support service activities",
-        "O": "Public administration and defence; compulsory social security",
-        "P": "Education",
-        "Q": "Human health and social work activities",
-        "R": "Arts, entertainment and recreation",
-        "T": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-    }
     inv_industry_dict = {v: k for k, v in industry_dict.items()}
 
     industry_ind_new = industry_ind
+    industry_ind_new = industry_ind_new.set_index(['Year']).loc[industry_ind_new['Year'].unique()[:-3]].reset_index()
     industry_ind_new = industry_ind_new[industry_ind_new['Region code'] == option_region.split()[0]].drop_duplicates()
     industry_ind_new['Industry'] = industry_ind_new['Industry'].apply(lambda row: industry_dict[row])
 
@@ -364,10 +370,10 @@ def dashboard(region_code):
     pred_trade_dependency = pd.read_csv(r'./data/forecast_values/trade_dependencies_industry.csv')
     
     index_to_data_dict = {
-        "Export": pred_export[pred_export.columns[1:]],
-        "Import": pred_import[pred_import.columns[1:]],
-        "Industry Trade Dependency": pred_trade_dependency[pred_trade_dependency.columns[1:]],
-        "Import-Export Imbalance": pred_imbalance[pred_imbalance.columns[1:]],
+        "Export Value": pred_export[pred_export.columns[1:]],
+        "Import Value": pred_import[pred_import.columns[1:]],
+        "Trade Dependency": pred_trade_dependency[pred_trade_dependency.columns[1:]],
+        "Trade Imbalance": pred_imbalance[pred_imbalance.columns[1:]],
         "Export Growth": pred_export_growth[pred_export_growth.columns[1:]],
         "Import Growth": pred_import_growth[pred_import_growth.columns[1:]],
     }
@@ -377,10 +383,10 @@ def dashboard(region_code):
 
     indices_unit_dict = {
         "Employment": "(Number of people)",
-        "Export": "(Euros)",
-        "Import": "(Euros)",
-        "Industry Trade Dependency": "(Percentage)",
-        "Import-Export Imbalance": "(Percentage)",
+        "Export Value": "(Euros)",
+        "Import Value": "(Euros)",
+        "Trade Dependency": "(Percentage)",
+        "Trade Imbalance": "(Percentage)",
         "Export Growth": "(Percentage)",
         "Import Growth": "(Percentage)",
     }
@@ -390,10 +396,10 @@ def dashboard(region_code):
 
         index = st.selectbox("Choose index", [
             "Employment",
-            "Export",
-            "Import",
-            "Industry Trade Dependency",
-            "Import-Export Imbalance",
+            "Export Value",
+            "Import Value",
+            "Trade Dependency",
+            "Trade Imbalance",
             "Export Growth",
             "Import Growth",
         ])
