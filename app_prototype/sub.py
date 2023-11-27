@@ -45,6 +45,73 @@ def load_data():
     region_data = pd.merge(region_data, names, on=['Region code'], how='outer')
     industry_ind = pd.merge(industry_ind, names, on=['Region code'], how='outer')
     
+    # Read regional indices with forecasts
+    indices = {
+        "Bachelor degree" : r'./data/forecast_values/bachelor.csv',
+        "Doctoral degree" : r'./data/forecast_values/doctoral.csv',
+        "Master degree" : r'./data/forecast_values/master.csv',
+        "GDP per capita" : r'./data/forecast_values/gdp_per_capita.csv',
+        "GDP" : r'./data/forecast_values/gdp.csv',
+        "Population density" : r'./data/forecast_values/population_density.csv',
+        "Tax revenue" : r'./data/forecast_values/tax_revenue.csv',
+        "Working age population" : r'./data/forecast_values/working_age_population.csv'
+    }
+    
+    indices_2 = {
+        "Export value" : r'./data/forecast_values/exports.csv',
+        "Export growth" : r'./data/forecast_values/exports_growth.csv',
+        "Trade imbalance value" : r'./data/forecast_values/imbalances.csv',
+        "Import value" : r'./data/forecast_values/imports.csv',
+        "Import growth" : r'./data/forecast_values/imports_growth.csv',
+        "Trade dependency" : r'./data/forecast_values/trade_dependencies.csv'
+    }
+    
+    for key, value in indices.items():
+        frame = pd.read_csv(value)
+        frame.index = frame['Year']
+        frame.drop(columns=['Year'], inplace=True)
+        frame = frame.stack()
+        frame.index = frame.index.rename('Region code', level=1)
+        frame.name = key
+        indices[key] = frame
+    indices = pd.concat(indices, axis=1)
+    
+    for key, value in indices_2.items():
+        frame = pd.read_csv(value, index_col=0)
+        frame.rename(columns={'Time' : 'Year'}, inplace=True)
+        frame.index = frame['Year']
+        frame.drop(columns=['Year'], inplace=True)
+        frame = frame.stack()
+        frame.index = frame.index.rename('Region code', level=1)
+        frame.name = key
+        indices_2[key] = frame
+    
+    indices_2 = pd.concat(indices_2, axis=1)
+    
+    region_data = pd.merge(indices, indices_2, on=['Region code', 'Year'], how='outer').reset_index()
+    
+    # Read industry-specific indices with forecasts
+    industry_indices = {
+        "Export value" : r'./data/forecast_values/exports_industry.csv',
+        "Export growth" : r'./data/forecast_values/exports_growth_industry.csv',
+        "Trade imbalance value" : r'./data/forecast_values/imbalances_industry.csv',
+        "Import value" : r'./data/forecast_values/imports_industry.csv',
+        "Import growth" : r'./data/forecast_values/imports_growth_industry.csv',
+        "Trade dependency" : r'./data/forecast_values/trade_dependencies_industry.csv'
+    }
+    
+    for key, value in industry_indices.items():
+        frame = pd.read_csv(value, index_col=0)
+        frame.rename(columns={'Time' : 'Year'}, inplace=True)
+        frame = pd.wide_to_long(frame, stubnames=[f'MK{i:02}' for i in range(1, 22)], i='Year', j='Industry', sep='_', suffix='\w+')
+        frame.dropna(axis=1, inplace=True, how='all')
+        frame = frame.stack()
+        frame.index = frame.index.rename('Region code', level=2)
+        frame.name = key
+        industry_indices[key] = frame
+    
+    industry_ind = pd.concat(industry_indices, axis=1).reset_index()
+        
         # read csv files for demographic info
     df_2010_2012 = pd.read_csv("./data/region_city_data/city_info_2010_2012.csv")
     df_2013_2015 = pd.read_csv("./data/region_city_data/city_info_2013_2015.csv")
@@ -75,7 +142,8 @@ def load_data():
 def dashboard(region_code):
     st.title('Region-specific dashboard')
     region_data, industry_ind, df_2010_2021, df_2011_2021 = load_data()
-    
+    st.write(region_data)
+    st.write(industry_ind)
     # =====================================================================================================
     # Create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
     # =====================================================================================================
