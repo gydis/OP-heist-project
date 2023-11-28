@@ -212,7 +212,7 @@ def dashboard(region_code, key):
             hover_name="Information",
         )
         fig_1.update_layout(
-            legend=dict(y=-10, x=0),
+            legend=dict(y=-2, x=0),
             width=1100,
             height=690,
             # margin=dict(l=50, r=50, b=50, t=50)
