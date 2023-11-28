@@ -141,7 +141,6 @@ def load_data():
     return region_data, industry_ind, df_2010_2021, df_2011_2021, code_to_name
 
 def dashboard(region_code, key):
-    st.title('Region-specific dashboard')
     region_data, industry_ind, df_2010_2021, df_2011_2021, code_to_name = load_data()
     # =====================================================================================================
     # Create multiselection dropdown menus for user to choose region(s) and info(s) to display the graph(s)
@@ -173,10 +172,11 @@ def dashboard(region_code, key):
     val_change = last_trade_dep_curr['Trade Dependency'] - last_trade_dep_4y['Trade Dependency']
     
     col1, col2 = st.columns([0.1, 0.1])
+    tooltip = "This metric measures how dependent a region is on international trade. A high trade dependency ratio suggests that a region's economy is heavily reliant on international trade, making it more vulnerable to trade disruptions or economic downturns."
     col1.metric(label='Trade dependency rank', value=int(last_trade_dep_curr['rank'][region_code]), 
-                delta=f'{int(rank_change[region_code])}', delta_color='off')
+                delta=f'{int(rank_change[region_code])}', delta_color='off', help="Position of the region in the ranking of trade dependency. (1 = most dependent)")
     col2.metric(label='Trade dependency value', value=f'{last_trade_dep_curr["Trade Dependency"][region_code]:.2f}', 
-                delta=f'{val_change[region_code]:.2f}', delta_color='off')
+                delta=f'{val_change[region_code]:.2f}', delta_color='off', help=tooltip)
     
     st.header('Important indicators')
     col1, col2 = st.columns([0.45, 0.55])
@@ -374,6 +374,7 @@ st.set_page_config(
     layout="wide", 
 )
 region_code = st.session_state.region_code if 'region_code' in st.session_state else 'MK01'
+st.title('Region-specific dashboard')
 col1, col2 = st.columns(2, gap="large")        
 with col1:
     dashboard(region_code, 1)
