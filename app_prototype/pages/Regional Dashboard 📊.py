@@ -149,7 +149,7 @@ def dashboard(region_code, key):
     option_region = st.selectbox(
         "Choose region",
         df_2011_2021["Region"].unique(),
-        key=key*random.randint(1, 1000)
+        key=key+1
     )
     region_code = option_region[:4]
     region_name = option_region[5:]
@@ -223,7 +223,7 @@ def dashboard(region_code, key):
     with col2:        
         employment_pie_chart() 
         
-    index_to_graph = st.selectbox("Choose index to graph", [None,  'GDP', 'Import Value', 'Export Value', 'Tax Revenue', 'Working Age Population'], key=key*random.randint(1, 1000))
+    index_to_graph = st.selectbox("Choose index to graph", [None,  'GDP', 'Import Value', 'Export Value', 'Tax Revenue', 'Working Age Population'], key=key+2)
     
     def graph(index_to_graph):
         if index_to_graph is not None:
@@ -312,7 +312,7 @@ def dashboard(region_code, key):
     }
 
     with col1:
-        industry_list = st.multiselect("Choose industry", industry_dict.values(), ['Agriculture, forestry and fishing'], max_selections=3, key=key*random.randint(1, 1000))
+        industry_list = st.multiselect("Choose industry", industry_dict.values(), ['Agriculture, forestry and fishing'], max_selections=3, key=key+3)
 
         index = st.selectbox("Choose index", [
             "Employment",
@@ -322,7 +322,7 @@ def dashboard(region_code, key):
             "Trade Imbalance",
             "Export Growth",
             "Import Growth",
-        ], key=key*random.randint(1, 1000))
+        ], key=key+4)
         st.caption("Dashed line indicates predicted values")
 
     with col2:
@@ -379,4 +379,4 @@ with col1:
     dashboard(region_code, 1)
 
 with col2:
-    dashboard(region_code, 4)
+    dashboard(region_code, 10)
