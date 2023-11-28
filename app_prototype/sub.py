@@ -224,7 +224,52 @@ def dashboard(region_code):
 
 
     with col2:        
-        employment_pie_chart()  
+        employment_pie_chart() 
+        
+    index_to_graph = st.selectbox("Choose index to graph", [None,  'GDP', 'Import Value', 'Export Value', 'Tax Revenue', 'Working Age Population'])
+    
+    def graph(index_to_graph):
+        if index_to_graph is not None:
+            fig = go.Figure()
+            ser = data[index_to_graph].dropna()
+            fig.add_trace(go.Scatter(x=ser.index[:-3], y=ser.iloc[:-3], name=index_to_graph))
+            fig.add_trace(go.Scatter(x=ser.index[-4:], y=ser.iloc[-4:], line = dict(shape = 'linear', dash = 'dot'), showlegend=False))
+            fig.update_layout(
+                xaxis_title="Year",
+                yaxis_title=index_to_graph,
+                legend_title="Legend",
+                width=1000,
+                height=500,
+                 xaxis = dict(
+                    tickmode = 'linear',
+                    tick0 = ser.index.min(),
+                    dtick = 1
+                )
+            )
+            st.plotly_chart(fig)
+    
+    graph(index_to_graph)
+
+        
+    col1, col2 = st.columns([0.5, 0.5])
+    
+    curr_industry_inds = chosen_industry_ind.set_index(['Year']).drop_duplicates().dropna(how='all').sort_values(['Year']).groupby(['Industry']).nth(-4)
+    curr_industry_inds['rank'] = curr_industry_inds['Export Value'].rank(ascending=False, method='first')
+    sorted_industries = curr_industry_inds.set_index(['rank'])[['Industry']].sort_index()
+    with col1:
+        st.subheader("Top 3 industries")
+        top3 = sorted_industries.iloc[:3]['Industry'].to_list()
+        top3 = ["1. " + industry_dict[i] for i in top3]
+        st.markdown('\n'.join(top3))
+        
+    with col2:
+        st.subheader("Bottom 3 industries")
+        bottom3 = sorted_industries.iloc[-3:]['Industry'].to_list()
+        bottom3 = ["1. " + industry_dict[i] for i in bottom3]
+        st.markdown('\n'.join(bottom3))
+        
+
+        
     
 
     # st.header('Region-specific indices')
