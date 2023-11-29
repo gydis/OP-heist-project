@@ -148,7 +148,8 @@ def dashboard(region_code, key):
     option_region = st.selectbox(
         "Choose region",
         df_2011_2021["Region"].unique(),
-        key=key+1
+        key=key+1,
+        index=code_to_name['Region code'].tolist().index(region_code)
     )
     region_code = option_region[:4]
     region_name = option_region[5:]
@@ -373,7 +374,7 @@ st.set_page_config(
     page_icon="📊",
     layout="wide", 
 )
-region_code = st.session_state.region_code if 'region_code' in st.session_state else 'MK01'
+region_code = st.session_state.chosen_region if 'chosen_region' in st.session_state else 'MK01'
 st.title('Region-specific dashboard')
 col1, col2 = st.columns(2, gap="large")        
 with col1:

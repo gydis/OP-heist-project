@@ -71,10 +71,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 fig.update_layout(clickmode='event+select')
-st.plotly_chart(fig,use_container_width=True)
-# selected_points = plotly_events(fig)
-# first_point = selected_points[0]
-# x_value = first_point["pointIndex"]
-# st.header(data['nimi'].iloc[int(x_value)])
-chosen_region = "MK01"
+# st.plotly_chart(fig,use_container_width=True)
+selected_points = plotly_events(fig)
+first_point = selected_points[0].get('pointIndex', 18) if len(selected_points) > 0 else 18
+code = data_source.iloc[first_point]['code']
+chosen_region = code
 st.session_state.chosen_region = chosen_region
